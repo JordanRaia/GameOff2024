@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lantern_Torch_0: 8689835036900127023
+      Lantern_Torch_1: 7300367799663701467
+      Lantern_Torch_2: -3135111681468148866
+      Lantern_Torch_3: -6071730456396791761
+      Lantern_Torch_4: 2658695101498963891
+      Lantern_Torch_5: 870569112572757699
+      Lantern_Torch_6: 8196534936107439034
+      Lantern_Torch_7: -5277901806619630785
+      Lantern_Torch_8: 3140048133510751765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

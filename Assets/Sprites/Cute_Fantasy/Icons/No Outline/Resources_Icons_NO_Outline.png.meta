@@ -178,7 +178,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -192,7 +192,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -216,7 +216,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Resources_Icons_NO_Outline_0: -7445766072284716174
+      Resources_Icons_NO_Outline_1: 8467311127268673520
+      Resources_Icons_NO_Outline_10: -2892574862153022195
+      Resources_Icons_NO_Outline_11: -6521766790421277069
+      Resources_Icons_NO_Outline_12: -8958593014244047496
+      Resources_Icons_NO_Outline_13: -4345186004609237338
+      Resources_Icons_NO_Outline_14: 6009128119700168005
+      Resources_Icons_NO_Outline_15: 5212920791488634165
+      Resources_Icons_NO_Outline_16: 4862262812369502365
+      Resources_Icons_NO_Outline_17: -9104638891264576636
+      Resources_Icons_NO_Outline_18: -245604767892403296
+      Resources_Icons_NO_Outline_19: -7128718504897592064
+      Resources_Icons_NO_Outline_2: 8577729842800225348
+      Resources_Icons_NO_Outline_20: -1017156321652079111
+      Resources_Icons_NO_Outline_21: 7079602071801566838
+      Resources_Icons_NO_Outline_22: 1997708547606215080
+      Resources_Icons_NO_Outline_23: -7543818787420569679
+      Resources_Icons_NO_Outline_24: 8831195269540349854
+      Resources_Icons_NO_Outline_25: 3974975656587760141
+      Resources_Icons_NO_Outline_26: 1587561915571280470
+      Resources_Icons_NO_Outline_27: -2381821311844686812
+      Resources_Icons_NO_Outline_28: 1337042283021412172
+      Resources_Icons_NO_Outline_29: -6670267742600988671
+      Resources_Icons_NO_Outline_3: -6088899771608959091
+      Resources_Icons_NO_Outline_30: 7665448652531921157
+      Resources_Icons_NO_Outline_31: -9113704954070863861
+      Resources_Icons_NO_Outline_32: -2966837641834849988
+      Resources_Icons_NO_Outline_33: 6408038711254619769
+      Resources_Icons_NO_Outline_34: 2697170264846703734
+      Resources_Icons_NO_Outline_35: 2909454478657416129
+      Resources_Icons_NO_Outline_36: 4413556963775504430
+      Resources_Icons_NO_Outline_37: -5111107441067201631
+      Resources_Icons_NO_Outline_38: -7126899153908919960
+      Resources_Icons_NO_Outline_39: 5856929280073654876
+      Resources_Icons_NO_Outline_4: 4593625171341328509
+      Resources_Icons_NO_Outline_40: -8719625918756696468
+      Resources_Icons_NO_Outline_41: -8512253975412966156
+      Resources_Icons_NO_Outline_42: 2282053083298342278
+      Resources_Icons_NO_Outline_43: -3309133491626471900
+      Resources_Icons_NO_Outline_44: -6099591888017770921
+      Resources_Icons_NO_Outline_45: 3121187486202419881
+      Resources_Icons_NO_Outline_46: -8188567276621469104
+      Resources_Icons_NO_Outline_47: -5945444946744781960
+      Resources_Icons_NO_Outline_5: -5768170813204520619
+      Resources_Icons_NO_Outline_6: -3972616485386860119
+      Resources_Icons_NO_Outline_7: 3221568132474386911
+      Resources_Icons_NO_Outline_8: 8925258338319069828
+      Resources_Icons_NO_Outline_9: -7147966283506438970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -112,7 +112,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,7 +126,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -150,7 +150,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Resources_Icons_Outline_0: 1040779916330413113
+      Resources_Icons_Outline_1: -2947952368574039225
+      Resources_Icons_Outline_10: -1123596354540532060
+      Resources_Icons_Outline_11: -867916982786388519
+      Resources_Icons_Outline_12: -7589137758777791967
+      Resources_Icons_Outline_13: 442134821872283982
+      Resources_Icons_Outline_14: -1578815897706055999
+      Resources_Icons_Outline_15: 1988799102920204906
+      Resources_Icons_Outline_16: 4667806904450696266
+      Resources_Icons_Outline_17: -5590235686303772354
+      Resources_Icons_Outline_18: -3930284620044760883
+      Resources_Icons_Outline_19: -1410997137967186369
+      Resources_Icons_Outline_2: 193729187335337188
+      Resources_Icons_Outline_20: 2972915919132196718
+      Resources_Icons_Outline_21: 4178115536947973857
+      Resources_Icons_Outline_22: 1884545940917789123
+      Resources_Icons_Outline_23: 8626241139425289325
+      Resources_Icons_Outline_24: 6122375279105785291
+      Resources_Icons_Outline_25: 2732208028872713647
+      Resources_Icons_Outline_3: 8164710297206878266
+      Resources_Icons_Outline_4: -4158565815550019339
+      Resources_Icons_Outline_5: -750626018319325673
+      Resources_Icons_Outline_6: -4861707514421231769
+      Resources_Icons_Outline_7: -9185797995183501901
+      Resources_Icons_Outline_8: -2538416638530426321
+      Resources_Icons_Outline_9: -3813560361794699050
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

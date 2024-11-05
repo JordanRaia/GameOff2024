@@ -196,7 +196,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -210,7 +210,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -234,7 +234,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1459,7 +1459,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smoke_2_Anim_0: 8684534137065480438
+      smoke_2_Anim_1: 2194750304397422319
+      smoke_2_Anim_10: 6915745533627945337
+      smoke_2_Anim_11: 2429847124719728563
+      smoke_2_Anim_12: -2488247727627232753
+      smoke_2_Anim_13: 7093081166525077229
+      smoke_2_Anim_14: -5337929454194787942
+      smoke_2_Anim_15: 8547617475275637864
+      smoke_2_Anim_16: 8913769523469338913
+      smoke_2_Anim_17: -991914705733056436
+      smoke_2_Anim_18: -1295199718163437881
+      smoke_2_Anim_19: -6334844273052819197
+      smoke_2_Anim_2: -3956394407540857315
+      smoke_2_Anim_20: -8476629510574351261
+      smoke_2_Anim_21: -3627218204210531894
+      smoke_2_Anim_22: 983882236140665241
+      smoke_2_Anim_23: -7072977196420849420
+      smoke_2_Anim_24: 7879445469770971069
+      smoke_2_Anim_25: 6597610871023803874
+      smoke_2_Anim_26: -2808204089566450210
+      smoke_2_Anim_27: 1918204476896354664
+      smoke_2_Anim_28: -1951986259730568640
+      smoke_2_Anim_29: -8116494856474652442
+      smoke_2_Anim_3: -2500437059223930744
+      smoke_2_Anim_30: -7889140933827121585
+      smoke_2_Anim_31: 924805534820757442
+      smoke_2_Anim_32: 7272352018411052765
+      smoke_2_Anim_33: 1004032263259781968
+      smoke_2_Anim_34: 567420016574963902
+      smoke_2_Anim_35: -5323172809009516788
+      smoke_2_Anim_36: 8093818514898431043
+      smoke_2_Anim_37: 8728311362932096121
+      smoke_2_Anim_38: -8373768602799225317
+      smoke_2_Anim_39: 826655807990143990
+      smoke_2_Anim_4: 5031861160917637937
+      smoke_2_Anim_40: -3360934015464395839
+      smoke_2_Anim_41: -8507240065276660869
+      smoke_2_Anim_42: 4926681618785927526
+      smoke_2_Anim_43: 6084427167105219117
+      smoke_2_Anim_44: -7494067240758530520
+      smoke_2_Anim_45: 1273917177723710302
+      smoke_2_Anim_46: 4137477148477949172
+      smoke_2_Anim_47: 1185633160524249081
+      smoke_2_Anim_48: -7827842393408880457
+      smoke_2_Anim_49: 3157819543509424744
+      smoke_2_Anim_5: 394445042264747118
+      smoke_2_Anim_50: 8350381999800700563
+      smoke_2_Anim_51: 6270656758241400126
+      smoke_2_Anim_52: -4270185863536199244
+      smoke_2_Anim_53: 1012458562122711357
+      smoke_2_Anim_6: 1016947569407048436
+      smoke_2_Anim_7: 8857293624580190006
+      smoke_2_Anim_8: -5257897847054989920
+      smoke_2_Anim_9: 5866138583688280705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

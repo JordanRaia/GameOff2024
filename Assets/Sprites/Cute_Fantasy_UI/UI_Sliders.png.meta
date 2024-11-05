@@ -202,7 +202,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -240,7 +240,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1509,7 +1509,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Sliders_0: 9208044968218441874
+      UI_Sliders_1: 1563995892631619493
+      UI_Sliders_10: -411963919352235418
+      UI_Sliders_11: 6900124134482339439
+      UI_Sliders_12: -9168745539781737136
+      UI_Sliders_13: 5621707831961053701
+      UI_Sliders_14: 7182660371469165703
+      UI_Sliders_15: -6875485979438039763
+      UI_Sliders_16: 6117972552004332309
+      UI_Sliders_17: 6417236201169341063
+      UI_Sliders_18: -6022495836732129649
+      UI_Sliders_19: 8860994897124745288
+      UI_Sliders_2: 8744864749208876619
+      UI_Sliders_20: -2045776003275821127
+      UI_Sliders_21: 6861357842276380752
+      UI_Sliders_22: 5256721219223878969
+      UI_Sliders_23: 1451716812822958375
+      UI_Sliders_24: -2685763390661111250
+      UI_Sliders_25: 2540582181815561273
+      UI_Sliders_26: -7482639540096052844
+      UI_Sliders_27: 5626380596640905418
+      UI_Sliders_28: 6223670876097657188
+      UI_Sliders_29: -8956263507471366276
+      UI_Sliders_3: 2961305656475165683
+      UI_Sliders_30: 7910072060984502088
+      UI_Sliders_31: -8261792535620281557
+      UI_Sliders_32: 1264824088535232437
+      UI_Sliders_33: -417708947953042868
+      UI_Sliders_34: -7361754220386429307
+      UI_Sliders_35: 2359851151868386950
+      UI_Sliders_36: -231585647770926556
+      UI_Sliders_37: -1029817915308486108
+      UI_Sliders_38: -7522219747810540066
+      UI_Sliders_39: 3990422550124544950
+      UI_Sliders_4: 7751030106818219084
+      UI_Sliders_40: 5670029822412265772
+      UI_Sliders_41: -251641598594152350
+      UI_Sliders_42: -3904233708657986775
+      UI_Sliders_43: -8384743335725188952
+      UI_Sliders_44: 2356403380418692000
+      UI_Sliders_45: -5078333325773656048
+      UI_Sliders_46: 2427904429556143204
+      UI_Sliders_47: 2916876205820637302
+      UI_Sliders_48: -4446931235321753041
+      UI_Sliders_49: -7715580685587733688
+      UI_Sliders_5: -7488204736885161000
+      UI_Sliders_50: -8481131361458630857
+      UI_Sliders_51: 8975334592191988691
+      UI_Sliders_52: 2439339432052933240
+      UI_Sliders_53: -9002076257975535572
+      UI_Sliders_54: 6656815701802148306
+      UI_Sliders_55: 2236425267056810358
+      UI_Sliders_6: -4678851097307045865
+      UI_Sliders_7: 8394572341968509934
+      UI_Sliders_8: -8132308979621428205
+      UI_Sliders_9: 7203449089232699621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

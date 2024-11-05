@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Loading_Icon_0: 95772594917493220
+      Loading_Icon_1: -7027869672465087493
+      Loading_Icon_10: -1671213262608015148
+      Loading_Icon_11: -3538608000254773469
+      Loading_Icon_12: -8812769949943023590
+      Loading_Icon_13: -3798364874202494995
+      Loading_Icon_14: -5010908767100437832
+      Loading_Icon_15: 2883093329052868069
+      Loading_Icon_16: 3796283648355926112
+      Loading_Icon_17: -6643367352928209629
+      Loading_Icon_18: -6302986714372253790
+      Loading_Icon_19: -2154938860927845383
+      Loading_Icon_2: -5758888784880254780
+      Loading_Icon_20: 292538551234758426
+      Loading_Icon_21: 5191064528973542503
+      Loading_Icon_22: -5708813081832645414
+      Loading_Icon_23: 6273016212918866061
+      Loading_Icon_24: 6165587923040529522
+      Loading_Icon_25: 3023686436148483251
+      Loading_Icon_26: -2376590629215014670
+      Loading_Icon_27: -2506225674983083781
+      Loading_Icon_28: -3887059324065428283
+      Loading_Icon_29: 2575627988700895584
+      Loading_Icon_3: -8824723140648831641
+      Loading_Icon_4: 3337205540585630480
+      Loading_Icon_5: -2676276451800721793
+      Loading_Icon_6: 9160376388404185752
+      Loading_Icon_7: -5667177035447719802
+      Loading_Icon_8: 5714666392502502163
+      Loading_Icon_9: -3328399595251656413
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

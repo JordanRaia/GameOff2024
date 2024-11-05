@@ -259,7 +259,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -273,7 +273,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -297,7 +297,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1984,7 +1984,82 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flowers_0: 4632598083906848925
+      Flowers_1: -8599076897651075110
+      Flowers_10: 5200552784765383606
+      Flowers_11: 1236421647502666424
+      Flowers_12: -1919258233132508157
+      Flowers_13: -5948900462338509839
+      Flowers_14: -4697998537724640817
+      Flowers_15: 6861027921994428420
+      Flowers_16: -8146139400261635304
+      Flowers_17: -4093223871583320585
+      Flowers_18: -2678613074307767275
+      Flowers_19: 8482965974700437304
+      Flowers_2: -1380961279234335697
+      Flowers_20: -4777557766298960706
+      Flowers_21: -3165422413300546780
+      Flowers_22: 2821450237754220339
+      Flowers_23: -3017589764037538278
+      Flowers_24: -8684339101649884487
+      Flowers_25: -4715043129823629833
+      Flowers_26: 7644649386185113189
+      Flowers_27: 1513589972626707054
+      Flowers_28: 8973077676457499086
+      Flowers_29: -3149599567424175596
+      Flowers_3: 6532252411737238267
+      Flowers_30: 5686671281305170980
+      Flowers_31: 8119333878989117227
+      Flowers_32: 8589799071741210380
+      Flowers_33: -2869876930082175718
+      Flowers_34: 502973817801418708
+      Flowers_35: -4931130086721298979
+      Flowers_36: -1996972312581905027
+      Flowers_37: -5314387630066398513
+      Flowers_38: -4038731120922346050
+      Flowers_39: 7738523677936177406
+      Flowers_4: -3049244359801467698
+      Flowers_40: 2262075497595049503
+      Flowers_41: -9031828977884749196
+      Flowers_42: -2190850785146655075
+      Flowers_43: -5945791764882642693
+      Flowers_44: -1673126647758613645
+      Flowers_45: -6453257921326273055
+      Flowers_46: -4515547706760743693
+      Flowers_47: -671138716687304589
+      Flowers_48: -5462931330428014711
+      Flowers_49: -8536723021235441869
+      Flowers_5: -1905306971469373461
+      Flowers_50: -7803453577300431147
+      Flowers_51: -1904291271224594850
+      Flowers_52: -1292360877444852053
+      Flowers_53: -4000302481962230738
+      Flowers_54: 5588798418343716680
+      Flowers_55: -6764643010536285260
+      Flowers_56: -3732793318766742157
+      Flowers_57: -7739399690219588403
+      Flowers_58: 7389352811964767460
+      Flowers_59: 8993680631451306857
+      Flowers_6: 1875809120407446195
+      Flowers_60: -3268943929105412283
+      Flowers_61: 3263247686079354958
+      Flowers_62: -7631984583350442837
+      Flowers_63: 2516103473478829077
+      Flowers_64: -4314441750085652250
+      Flowers_65: 6090863950368956019
+      Flowers_66: -3360115246814587884
+      Flowers_67: 4117788918525421209
+      Flowers_68: -2816593122620210389
+      Flowers_69: -1494453518980533357
+      Flowers_7: -3155580625666305983
+      Flowers_70: -4752940168304804084
+      Flowers_71: -5559339295800876397
+      Flowers_72: 9018028660510985398
+      Flowers_73: -8005205398622778857
+      Flowers_74: 4279822012874923246
+      Flowers_8: -2757444085851235607
+      Flowers_9: 388093049040395086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

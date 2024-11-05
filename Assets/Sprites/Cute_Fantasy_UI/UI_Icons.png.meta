@@ -211,7 +211,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -249,7 +249,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1584,7 +1584,66 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_Icons_0: 3980140487562858156
+      UI_Icons_1: -2906203513720773286
+      UI_Icons_10: 5792423179205867691
+      UI_Icons_11: 7997396682134867387
+      UI_Icons_12: -6133907437499239528
+      UI_Icons_13: -134399205177501768
+      UI_Icons_14: -8105583614482094863
+      UI_Icons_15: 8336338978133800832
+      UI_Icons_16: -6589995452112104783
+      UI_Icons_17: 5372670759901458928
+      UI_Icons_18: -3505175322260496196
+      UI_Icons_19: -5087832738019020740
+      UI_Icons_2: 7952763614370864699
+      UI_Icons_20: -3794294518773832241
+      UI_Icons_21: 8403360033282497016
+      UI_Icons_22: 627122315310295263
+      UI_Icons_23: 6066696059382277178
+      UI_Icons_24: -7599409597332472104
+      UI_Icons_25: 8681368008607989820
+      UI_Icons_26: 8354703187029471169
+      UI_Icons_27: 1916193675037420691
+      UI_Icons_28: 8595499010995761775
+      UI_Icons_29: 8274403370426459257
+      UI_Icons_3: 3947923570558630869
+      UI_Icons_30: -5812994952030560099
+      UI_Icons_31: 4906315821591407795
+      UI_Icons_32: -3217369847038416431
+      UI_Icons_33: 7287959581154924195
+      UI_Icons_34: -696582204694407912
+      UI_Icons_35: -7796506915059553832
+      UI_Icons_36: 8604531968383364363
+      UI_Icons_37: -2327601162367492984
+      UI_Icons_38: 4380814036027790768
+      UI_Icons_39: 7730400271570239736
+      UI_Icons_4: 9097076552385637842
+      UI_Icons_40: -4420454442188118869
+      UI_Icons_41: 1247943643513247117
+      UI_Icons_42: 1117770609672613672
+      UI_Icons_43: -1749152620874878582
+      UI_Icons_44: -8078462074961254975
+      UI_Icons_45: -2800365521031642671
+      UI_Icons_46: -8568575634538229854
+      UI_Icons_47: -8588027743890243791
+      UI_Icons_48: 2812747132305574276
+      UI_Icons_49: 4107418683824281044
+      UI_Icons_5: -4226872718049967284
+      UI_Icons_50: -7424883931173030452
+      UI_Icons_51: -7087902729326941150
+      UI_Icons_52: 1898986254282316466
+      UI_Icons_53: 1998910357211804783
+      UI_Icons_54: -3155862702242575751
+      UI_Icons_55: 4663682161734173233
+      UI_Icons_56: 4833471249372207096
+      UI_Icons_57: -6798854429710057253
+      UI_Icons_58: -2968221692095555650
+      UI_Icons_6: -9021710533849938375
+      UI_Icons_7: -462466937998599627
+      UI_Icons_8: -1575159352736387845
+      UI_Icons_9: 4714650523311372786
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -121,7 +121,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -135,7 +135,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -159,7 +159,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Signs_0: 1714756807398554617
+      Signs_1: 8051134168378353487
+      Signs_10: 1951725531057319082
+      Signs_11: 4983968925132512035
+      Signs_12: 2947539016825648776
+      Signs_13: -6136198190554652223
+      Signs_14: -860085043572446729
+      Signs_15: 2395265649816900946
+      Signs_16: -3318421643493228518
+      Signs_17: -6361733155870394759
+      Signs_18: 7789716986001276017
+      Signs_19: 6731457116575203765
+      Signs_2: -5459743574113085061
+      Signs_20: 4917734464384847937
+      Signs_21: -6260122000949756345
+      Signs_22: 279569666823812348
+      Signs_23: -1911067049591034538
+      Signs_24: -4791563071904411234
+      Signs_25: 6327337393863288184
+      Signs_26: 6723719915890970251
+      Signs_27: 641293113695392133
+      Signs_28: -3665307597008977235
+      Signs_3: -2742302684088697420
+      Signs_4: 8814233360100005479
+      Signs_5: -8967832436468776462
+      Signs_6: -1180436918578810845
+      Signs_7: 4130303453484289882
+      Signs_8: 2819549039577334838
+      Signs_9: -4109473772060519481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

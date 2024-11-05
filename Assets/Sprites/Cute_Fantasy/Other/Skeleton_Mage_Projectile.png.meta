@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton_Mage_Projectile_0: -6051230902351228391
+      Skeleton_Mage_Projectile_1: 947052808043801924
+      Skeleton_Mage_Projectile_2: 896653313049124332
+      Skeleton_Mage_Projectile_3: -9148193001763980658
+      Skeleton_Mage_Projectile_4: 7429399209675880321
+      Skeleton_Mage_Projectile_5: -7173721028268594037
+      Skeleton_Mage_Projectile_6: -1654125000092642153
+      Skeleton_Mage_Projectile_7: -4162377516178700178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

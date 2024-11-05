@@ -256,7 +256,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -270,7 +270,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -294,7 +294,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1959,7 +1959,81 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bombschroom_0: 6051587556933966806
+      Bombschroom_1: 1544647136098556478
+      Bombschroom_10: 4895331732039535951
+      Bombschroom_11: -3016954929455261172
+      Bombschroom_12: 1949067185908125913
+      Bombschroom_13: -1342452140190447727
+      Bombschroom_14: 4468886166429821780
+      Bombschroom_15: 1756628930083303137
+      Bombschroom_16: 1732472599854274288
+      Bombschroom_17: -3151299222369583594
+      Bombschroom_18: -3083418735076738530
+      Bombschroom_19: 6405057576724881548
+      Bombschroom_2: -2159205957962874232
+      Bombschroom_20: 619039516198638130
+      Bombschroom_21: 6072428284266446843
+      Bombschroom_22: 8150846685271410164
+      Bombschroom_23: 5159422928108029362
+      Bombschroom_24: -6110753167956728627
+      Bombschroom_25: 907971099812037287
+      Bombschroom_26: 1812828018820335908
+      Bombschroom_27: 5608503383978300111
+      Bombschroom_28: 8412219112569712976
+      Bombschroom_29: -8110771376390496862
+      Bombschroom_3: -8933217213778768753
+      Bombschroom_30: 7057516537323819031
+      Bombschroom_31: 7946285429645632630
+      Bombschroom_32: -3703618550402021497
+      Bombschroom_33: -4507845270238320476
+      Bombschroom_34: -512713385821558065
+      Bombschroom_35: -2433850427363932135
+      Bombschroom_36: 4244285578127026164
+      Bombschroom_37: 1447618906626181618
+      Bombschroom_38: -7137169916877202975
+      Bombschroom_39: 649535138599187609
+      Bombschroom_4: 3337298046562845502
+      Bombschroom_40: 7980382009086104152
+      Bombschroom_41: 1101975125602658368
+      Bombschroom_42: -3603291444744590364
+      Bombschroom_43: 818332536956048474
+      Bombschroom_44: -5623313651949428368
+      Bombschroom_45: 4305232512290067050
+      Bombschroom_46: 7604191061026040153
+      Bombschroom_47: -7075705808533735984
+      Bombschroom_48: 4582379179667878127
+      Bombschroom_49: 8343732401259752474
+      Bombschroom_5: -2838662060677787085
+      Bombschroom_50: 6874175515488533756
+      Bombschroom_51: 5260257668251811806
+      Bombschroom_52: -4429729449300113621
+      Bombschroom_53: -8845273922681839782
+      Bombschroom_54: -7900627353256087131
+      Bombschroom_55: -5727347997735687302
+      Bombschroom_56: 6852576729551446901
+      Bombschroom_57: -6181671823937816717
+      Bombschroom_58: -266893759349331293
+      Bombschroom_59: 9202356308699073348
+      Bombschroom_6: -8912134743286459878
+      Bombschroom_60: 1486045977087013369
+      Bombschroom_61: -5703764985377095791
+      Bombschroom_62: -793881884648393401
+      Bombschroom_63: 1240571117553079294
+      Bombschroom_64: -1033727742425609312
+      Bombschroom_65: -329635597794667548
+      Bombschroom_66: -7532528543556137109
+      Bombschroom_67: -3862107136577360314
+      Bombschroom_68: -4093190835053409353
+      Bombschroom_69: -5387327030845633563
+      Bombschroom_7: 2501405173681086517
+      Bombschroom_70: 981402421377226591
+      Bombschroom_71: -3884762581521146196
+      Bombschroom_72: 2537182939170280156
+      Bombschroom_73: -6657991662202196549
+      Bombschroom_8: 8634322565912168287
+      Bombschroom_9: 9190258771735623621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

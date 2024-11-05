@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Bow_Anim._0: -3640528860097383015
+      Player_Bow_Anim._1: 1872112752154992634
+      Player_Bow_Anim._10: 8659504425668194563
+      Player_Bow_Anim._11: 6181895047944546668
+      Player_Bow_Anim._12: -8745421975676356619
+      Player_Bow_Anim._13: -1652239070520669228
+      Player_Bow_Anim._14: 1740683297391037647
+      Player_Bow_Anim._15: -8707944017112469307
+      Player_Bow_Anim._16: 7648132131925866486
+      Player_Bow_Anim._17: -6130010000547317192
+      Player_Bow_Anim._2: 8285917456215116908
+      Player_Bow_Anim._3: -8721731076074282279
+      Player_Bow_Anim._4: -3996466067302775268
+      Player_Bow_Anim._5: -378214705269091310
+      Player_Bow_Anim._6: -6099823686058902898
+      Player_Bow_Anim._7: 2378659815404390375
+      Player_Bow_Anim._8: 1839459093412618531
+      Player_Bow_Anim._9: 6714214017788128214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

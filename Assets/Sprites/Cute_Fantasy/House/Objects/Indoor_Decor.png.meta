@@ -169,7 +169,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -183,7 +183,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -207,7 +207,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1234,7 +1234,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Indoor_Decor_0: -2902826645585602371
+      Indoor_Decor_1: 3344712945268891693
+      Indoor_Decor_10: -2459780794894411086
+      Indoor_Decor_11: 27162680321177166
+      Indoor_Decor_12: 8122099543443433271
+      Indoor_Decor_13: 1183448367839277072
+      Indoor_Decor_14: 3818921239294019970
+      Indoor_Decor_15: 5825854065764907023
+      Indoor_Decor_16: 1085479066418096445
+      Indoor_Decor_17: -328269144231165199
+      Indoor_Decor_18: 8961073377253906795
+      Indoor_Decor_19: -8189741338779347019
+      Indoor_Decor_2: 8923030546267593058
+      Indoor_Decor_20: -6254015798558362956
+      Indoor_Decor_21: 8452877872077401558
+      Indoor_Decor_22: 8019090117685267412
+      Indoor_Decor_23: -4733787457406052165
+      Indoor_Decor_24: 6188821364851469854
+      Indoor_Decor_25: -8746068286703188149
+      Indoor_Decor_26: 2596594292129162202
+      Indoor_Decor_27: 3011140103621518429
+      Indoor_Decor_28: -3954938056659337657
+      Indoor_Decor_29: 8126493325037409362
+      Indoor_Decor_3: -2267429849313683585
+      Indoor_Decor_30: 2763812293992782901
+      Indoor_Decor_31: 6321087649690272468
+      Indoor_Decor_32: 6339021761525190526
+      Indoor_Decor_33: 7861550493602762629
+      Indoor_Decor_34: -1523022110884017288
+      Indoor_Decor_35: 7565913581070044364
+      Indoor_Decor_36: -5295295415061072696
+      Indoor_Decor_37: 4954556536197654523
+      Indoor_Decor_38: -2955501475288137399
+      Indoor_Decor_39: -3297364198786500836
+      Indoor_Decor_4: -2432320405720514124
+      Indoor_Decor_40: -2979663172117094269
+      Indoor_Decor_41: -4244810051875075243
+      Indoor_Decor_42: 2793232052585332932
+      Indoor_Decor_43: -8225355706703455833
+      Indoor_Decor_44: 2233506457061945454
+      Indoor_Decor_5: -7480766592480335456
+      Indoor_Decor_6: -7827301973494543612
+      Indoor_Decor_7: -4524868078836883629
+      Indoor_Decor_8: 6070291755390593943
+      Indoor_Decor_9: 6360420064272250698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

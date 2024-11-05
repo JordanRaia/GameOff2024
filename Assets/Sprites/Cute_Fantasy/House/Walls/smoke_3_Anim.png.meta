@@ -196,7 +196,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -210,7 +210,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -234,7 +234,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1459,7 +1459,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smoke_3_Anim_0: 6919553747180267706
+      smoke_3_Anim_1: -169201641003111482
+      smoke_3_Anim_10: -2240648410525926854
+      smoke_3_Anim_11: -3159672793679461210
+      smoke_3_Anim_12: -3462189138184744598
+      smoke_3_Anim_13: -2307431841644846468
+      smoke_3_Anim_14: -822897929227832229
+      smoke_3_Anim_15: -7514512817244406490
+      smoke_3_Anim_16: -6037364565803032965
+      smoke_3_Anim_17: -1727441663801936182
+      smoke_3_Anim_18: 5064484612334906101
+      smoke_3_Anim_19: 7733727710052633077
+      smoke_3_Anim_2: 2637141662513833425
+      smoke_3_Anim_20: 575851540474221895
+      smoke_3_Anim_21: -2680047115614809561
+      smoke_3_Anim_22: -3451368015097447363
+      smoke_3_Anim_23: 7092770538936414248
+      smoke_3_Anim_24: 4663016477311264539
+      smoke_3_Anim_25: 8438472071076154902
+      smoke_3_Anim_26: 8965203589276172374
+      smoke_3_Anim_27: 1252614766701118330
+      smoke_3_Anim_28: -4060791057481082294
+      smoke_3_Anim_29: 4357858715151835858
+      smoke_3_Anim_3: 764311544466536786
+      smoke_3_Anim_30: -1147443744711706992
+      smoke_3_Anim_31: -427990092441616733
+      smoke_3_Anim_32: 3176544020149546659
+      smoke_3_Anim_33: -3390771131519751010
+      smoke_3_Anim_34: -4394743539211340845
+      smoke_3_Anim_35: -8851450967706514726
+      smoke_3_Anim_36: 6042354477465807702
+      smoke_3_Anim_37: -7536703093392226991
+      smoke_3_Anim_38: 5913246862771100386
+      smoke_3_Anim_39: -5009369083924430542
+      smoke_3_Anim_4: 4943159260545522041
+      smoke_3_Anim_40: 5020552476289932113
+      smoke_3_Anim_41: -7764079961008211864
+      smoke_3_Anim_42: -4387225449712162555
+      smoke_3_Anim_43: 2469990944466014660
+      smoke_3_Anim_44: -3470989758680628805
+      smoke_3_Anim_45: 3332265860176437848
+      smoke_3_Anim_46: 7831179074400371095
+      smoke_3_Anim_47: -3843142210238117634
+      smoke_3_Anim_48: -4238330999199680714
+      smoke_3_Anim_49: 2737934793918054516
+      smoke_3_Anim_5: 2097959125216684194
+      smoke_3_Anim_50: -7486061915321017810
+      smoke_3_Anim_51: 6785513401606255033
+      smoke_3_Anim_52: -4744340242058345246
+      smoke_3_Anim_53: 7633087458352479151
+      smoke_3_Anim_6: 5624982165951087588
+      smoke_3_Anim_7: -3308448007318143361
+      smoke_3_Anim_8: 3993391947295291354
+      smoke_3_Anim_9: 4072642953490389552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

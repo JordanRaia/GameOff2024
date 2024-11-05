@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Idle_Run_Death_Anim_0: -4998809030512954890
+      Player_Idle_Run_Death_Anim_1: 7512075106166968502
+      Player_Idle_Run_Death_Anim_10: -2798335825967475556
+      Player_Idle_Run_Death_Anim_11: -8696310357553772102
+      Player_Idle_Run_Death_Anim_12: -7820858351927888583
+      Player_Idle_Run_Death_Anim_13: -7979230941969534839
+      Player_Idle_Run_Death_Anim_14: 7164030178579721796
+      Player_Idle_Run_Death_Anim_15: -1605601740504244804
+      Player_Idle_Run_Death_Anim_16: -4950681462100623002
+      Player_Idle_Run_Death_Anim_17: 8326001889503443699
+      Player_Idle_Run_Death_Anim_18: 3126589685377562036
+      Player_Idle_Run_Death_Anim_19: -9084828346998294048
+      Player_Idle_Run_Death_Anim_2: -2483948232329799839
+      Player_Idle_Run_Death_Anim_20: -3525823430394390686
+      Player_Idle_Run_Death_Anim_21: 8386222959204057555
+      Player_Idle_Run_Death_Anim_22: -5886913843203069634
+      Player_Idle_Run_Death_Anim_23: -7811646497753575370
+      Player_Idle_Run_Death_Anim_24: -8758336238188450439
+      Player_Idle_Run_Death_Anim_25: -6700329077200518334
+      Player_Idle_Run_Death_Anim_26: -8836044306162463934
+      Player_Idle_Run_Death_Anim_27: 2940786578834873007
+      Player_Idle_Run_Death_Anim_28: -2912869228335545173
+      Player_Idle_Run_Death_Anim_29: 7170068007359443676
+      Player_Idle_Run_Death_Anim_3: -3848963858909509714
+      Player_Idle_Run_Death_Anim_30: 3560801534185906883
+      Player_Idle_Run_Death_Anim_31: -185663940658957966
+      Player_Idle_Run_Death_Anim_32: -7547237344799618634
+      Player_Idle_Run_Death_Anim_33: 1033924371831078793
+      Player_Idle_Run_Death_Anim_34: -452837721688178782
+      Player_Idle_Run_Death_Anim_35: -7206165393423454394
+      Player_Idle_Run_Death_Anim_36: 1335108723138051540
+      Player_Idle_Run_Death_Anim_37: -5133991649244690078
+      Player_Idle_Run_Death_Anim_38: 6595296891058606968
+      Player_Idle_Run_Death_Anim_39: 5434600081156271440
+      Player_Idle_Run_Death_Anim_4: 3185653201065488359
+      Player_Idle_Run_Death_Anim_40: -6687899268967047237
+      Player_Idle_Run_Death_Anim_41: 7175960365417789395
+      Player_Idle_Run_Death_Anim_42: -8775857404911379611
+      Player_Idle_Run_Death_Anim_43: 7000523120744920536
+      Player_Idle_Run_Death_Anim_44: 4516525554405467624
+      Player_Idle_Run_Death_Anim_45: -7080160666750964215
+      Player_Idle_Run_Death_Anim_46: -7622564556879649758
+      Player_Idle_Run_Death_Anim_47: 9184436082067561118
+      Player_Idle_Run_Death_Anim_48: 760940954997840310
+      Player_Idle_Run_Death_Anim_49: 3713345998958953394
+      Player_Idle_Run_Death_Anim_5: 8126246328460867290
+      Player_Idle_Run_Death_Anim_50: -648967694202875367
+      Player_Idle_Run_Death_Anim_51: -6752835904243473183
+      Player_Idle_Run_Death_Anim_52: 7866703833922499163
+      Player_Idle_Run_Death_Anim_53: 7841876498163010743
+      Player_Idle_Run_Death_Anim_54: -1634658066469287418
+      Player_Idle_Run_Death_Anim_55: -7945525124913728356
+      Player_Idle_Run_Death_Anim_56: 915878912337984018
+      Player_Idle_Run_Death_Anim_57: 2557896834714196094
+      Player_Idle_Run_Death_Anim_58: -3566649054050622812
+      Player_Idle_Run_Death_Anim_59: 4662315781588636313
+      Player_Idle_Run_Death_Anim_6: 302159537296403588
+      Player_Idle_Run_Death_Anim_60: -8038531566778595744
+      Player_Idle_Run_Death_Anim_61: -1969399105021379347
+      Player_Idle_Run_Death_Anim_62: -5373169932905274738
+      Player_Idle_Run_Death_Anim_63: -693618374796328819
+      Player_Idle_Run_Death_Anim_64: -204323369928455448
+      Player_Idle_Run_Death_Anim_65: -1998690744856663852
+      Player_Idle_Run_Death_Anim_66: -1641989494510448006
+      Player_Idle_Run_Death_Anim_67: 8162798323453938167
+      Player_Idle_Run_Death_Anim_68: 1024807965501179911
+      Player_Idle_Run_Death_Anim_69: -3798920707951303736
+      Player_Idle_Run_Death_Anim_7: 3609774448813340877
+      Player_Idle_Run_Death_Anim_70: 2069252859426921090
+      Player_Idle_Run_Death_Anim_71: 2577224986286316364
+      Player_Idle_Run_Death_Anim_8: -603185980566174650
+      Player_Idle_Run_Death_Anim_9: 3055039122668975894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

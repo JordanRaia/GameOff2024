@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Torch_Lantern_Anim_0: 6479451247799455209
+      Player_Torch_Lantern_Anim_1: 8732206642320415195
+      Player_Torch_Lantern_Anim_10: 6378009858835920404
+      Player_Torch_Lantern_Anim_11: -57769337797284718
+      Player_Torch_Lantern_Anim_12: 1475300050276318894
+      Player_Torch_Lantern_Anim_13: 7293169310528159086
+      Player_Torch_Lantern_Anim_14: 1040972331794319083
+      Player_Torch_Lantern_Anim_15: -8987059755518898273
+      Player_Torch_Lantern_Anim_16: 366148894642381872
+      Player_Torch_Lantern_Anim_17: 3201851557257137214
+      Player_Torch_Lantern_Anim_18: 2098913901934631067
+      Player_Torch_Lantern_Anim_19: -4751421671137615710
+      Player_Torch_Lantern_Anim_2: -5644497325003569704
+      Player_Torch_Lantern_Anim_20: 7628341647040348950
+      Player_Torch_Lantern_Anim_21: -577737015894501987
+      Player_Torch_Lantern_Anim_22: 9188648752595155800
+      Player_Torch_Lantern_Anim_23: 3418648769198575363
+      Player_Torch_Lantern_Anim_24: 7875066957735331862
+      Player_Torch_Lantern_Anim_25: 2584761135075496518
+      Player_Torch_Lantern_Anim_26: -3619165425287677692
+      Player_Torch_Lantern_Anim_27: -7630618364248214415
+      Player_Torch_Lantern_Anim_28: -4006875682201724839
+      Player_Torch_Lantern_Anim_29: -6968921180965406487
+      Player_Torch_Lantern_Anim_3: 3925384835907204813
+      Player_Torch_Lantern_Anim_30: -7710378699380549036
+      Player_Torch_Lantern_Anim_31: 720405823004956561
+      Player_Torch_Lantern_Anim_32: 7879933975913589657
+      Player_Torch_Lantern_Anim_33: -4871946733916191660
+      Player_Torch_Lantern_Anim_34: 5078048894298929475
+      Player_Torch_Lantern_Anim_35: 6203779357322640671
+      Player_Torch_Lantern_Anim_36: -7198400103315225038
+      Player_Torch_Lantern_Anim_37: -3137723889229307843
+      Player_Torch_Lantern_Anim_38: -7028731453885457429
+      Player_Torch_Lantern_Anim_39: 7218545606399149826
+      Player_Torch_Lantern_Anim_4: -8992973721342414709
+      Player_Torch_Lantern_Anim_40: 5133447206397318592
+      Player_Torch_Lantern_Anim_41: 1648245044382024701
+      Player_Torch_Lantern_Anim_42: -3050565612861259209
+      Player_Torch_Lantern_Anim_43: 3737000965349435314
+      Player_Torch_Lantern_Anim_44: -4979780497506309159
+      Player_Torch_Lantern_Anim_45: -5776188689958236689
+      Player_Torch_Lantern_Anim_46: 4503398961036111260
+      Player_Torch_Lantern_Anim_47: 5954944009051305244
+      Player_Torch_Lantern_Anim_48: -5591617723581902248
+      Player_Torch_Lantern_Anim_49: 530212519254418311
+      Player_Torch_Lantern_Anim_5: -340145418995345933
+      Player_Torch_Lantern_Anim_50: -8194224763400130598
+      Player_Torch_Lantern_Anim_51: -8066432248960652279
+      Player_Torch_Lantern_Anim_52: 3095749067952856354
+      Player_Torch_Lantern_Anim_53: 8719959248196175290
+      Player_Torch_Lantern_Anim_54: 6687421995931995517
+      Player_Torch_Lantern_Anim_55: 5455483796740169957
+      Player_Torch_Lantern_Anim_56: 4119836804432913702
+      Player_Torch_Lantern_Anim_57: 3306334143346800270
+      Player_Torch_Lantern_Anim_58: 3438608227514922400
+      Player_Torch_Lantern_Anim_59: 3333915629266226122
+      Player_Torch_Lantern_Anim_6: 7560938394161864746
+      Player_Torch_Lantern_Anim_60: 4076007146486204922
+      Player_Torch_Lantern_Anim_61: -2955149925106680692
+      Player_Torch_Lantern_Anim_62: -4835361736600233759
+      Player_Torch_Lantern_Anim_63: 2231093052212550483
+      Player_Torch_Lantern_Anim_64: 8209445677379043436
+      Player_Torch_Lantern_Anim_65: -9011894134431077433
+      Player_Torch_Lantern_Anim_66: -1107161596496304942
+      Player_Torch_Lantern_Anim_67: 8143101419639207660
+      Player_Torch_Lantern_Anim_68: 4764531843386490745
+      Player_Torch_Lantern_Anim_69: 9091189134518415587
+      Player_Torch_Lantern_Anim_7: 4288896822584463189
+      Player_Torch_Lantern_Anim_70: 2710450315758282071
+      Player_Torch_Lantern_Anim_71: -273492563382694959
+      Player_Torch_Lantern_Anim_8: -5624357841165966376
+      Player_Torch_Lantern_Anim_9: -7738462612407151145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

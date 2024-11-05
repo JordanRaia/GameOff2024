@@ -151,7 +151,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -165,7 +165,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -189,7 +189,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1084,7 +1084,46 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Food_Icons_Outline_0: 5099087699678198809
+      Food_Icons_Outline_1: -1467430681898236836
+      Food_Icons_Outline_10: 4385878292876790321
+      Food_Icons_Outline_11: -6507396686198247632
+      Food_Icons_Outline_12: 6728582448927759707
+      Food_Icons_Outline_13: -234619789930113407
+      Food_Icons_Outline_14: -7245124122529899103
+      Food_Icons_Outline_15: -6343204297181724478
+      Food_Icons_Outline_16: 4494981527965587060
+      Food_Icons_Outline_17: 1572820263330098998
+      Food_Icons_Outline_18: 2790764975342772929
+      Food_Icons_Outline_19: 8369636590721223975
+      Food_Icons_Outline_2: 7644846742619801738
+      Food_Icons_Outline_20: 5066466696076310630
+      Food_Icons_Outline_21: -244300909146609662
+      Food_Icons_Outline_22: -4678483361309867057
+      Food_Icons_Outline_23: 3625635600926044149
+      Food_Icons_Outline_24: 3589899295853540712
+      Food_Icons_Outline_25: -8683304310138347855
+      Food_Icons_Outline_26: -8157685955057384842
+      Food_Icons_Outline_27: 6149950051112776068
+      Food_Icons_Outline_28: 3043881447227380719
+      Food_Icons_Outline_29: -2636799760826925846
+      Food_Icons_Outline_3: 2206093790586634127
+      Food_Icons_Outline_30: -1980583327332797739
+      Food_Icons_Outline_31: -6781307531910263995
+      Food_Icons_Outline_32: 6418845437435333081
+      Food_Icons_Outline_33: 6455856859542571406
+      Food_Icons_Outline_34: 2854621683672393927
+      Food_Icons_Outline_35: 422054539723723189
+      Food_Icons_Outline_36: 3772769243801258177
+      Food_Icons_Outline_37: 5660434027787319389
+      Food_Icons_Outline_38: -7828203280693136617
+      Food_Icons_Outline_4: 4098116959379348166
+      Food_Icons_Outline_5: 5095461931672632931
+      Food_Icons_Outline_6: -4384832615462670591
+      Food_Icons_Outline_7: -6198162259889442824
+      Food_Icons_Outline_8: -8268056345275085053
+      Food_Icons_Outline_9: -4659716123039874011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

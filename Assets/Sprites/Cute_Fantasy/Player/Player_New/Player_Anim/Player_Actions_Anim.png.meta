@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Actions_Anim_0: 3584240544418501261
+      Player_Actions_Anim_1: -154809906722862381
+      Player_Actions_Anim_10: 6863996497994342073
+      Player_Actions_Anim_11: -7698925903381712326
+      Player_Actions_Anim_12: 628232987231563868
+      Player_Actions_Anim_13: -8451170339219668823
+      Player_Actions_Anim_14: -847623075318660954
+      Player_Actions_Anim_15: -2010071812480147932
+      Player_Actions_Anim_16: -7020080314367587571
+      Player_Actions_Anim_17: -8140888897611972278
+      Player_Actions_Anim_18: 3280372893502395413
+      Player_Actions_Anim_19: 1399131961683445678
+      Player_Actions_Anim_2: -9106850004836843851
+      Player_Actions_Anim_20: 8903420681064853258
+      Player_Actions_Anim_21: 1773500420426134973
+      Player_Actions_Anim_22: 3685895371509643710
+      Player_Actions_Anim_23: -860050484201405077
+      Player_Actions_Anim_24: -6531865210284843230
+      Player_Actions_Anim_25: -2065846274127354936
+      Player_Actions_Anim_26: 1705679833154212053
+      Player_Actions_Anim_27: 7419394915847081947
+      Player_Actions_Anim_28: 8991268374341489179
+      Player_Actions_Anim_29: -8980669475452098804
+      Player_Actions_Anim_3: -8645020183398848043
+      Player_Actions_Anim_30: 1279475250650266110
+      Player_Actions_Anim_31: -7382066164923662128
+      Player_Actions_Anim_32: 2245122982761487080
+      Player_Actions_Anim_33: -3230659949402156236
+      Player_Actions_Anim_34: -3691245224205254903
+      Player_Actions_Anim_35: 2377366459605399938
+      Player_Actions_Anim_36: 5591972618171990871
+      Player_Actions_Anim_37: 1110294952351050463
+      Player_Actions_Anim_38: 422528359764918704
+      Player_Actions_Anim_39: 2668080419861140771
+      Player_Actions_Anim_4: -1797479722191239703
+      Player_Actions_Anim_40: -8216659782279502545
+      Player_Actions_Anim_41: 5859826227554131835
+      Player_Actions_Anim_42: -750496795386833153
+      Player_Actions_Anim_43: 5751700063277694363
+      Player_Actions_Anim_44: -8259773787043221158
+      Player_Actions_Anim_45: 5082495414997845728
+      Player_Actions_Anim_46: -21546508791508322
+      Player_Actions_Anim_47: 7187271176228582881
+      Player_Actions_Anim_48: -5632682152695742879
+      Player_Actions_Anim_49: -2681817400714996247
+      Player_Actions_Anim_5: -3654997725017426487
+      Player_Actions_Anim_50: -2052249793720223744
+      Player_Actions_Anim_51: 3984368617747215703
+      Player_Actions_Anim_52: 4348092260306163834
+      Player_Actions_Anim_53: 1143563618786760935
+      Player_Actions_Anim_54: 8701978602168084275
+      Player_Actions_Anim_55: -5826711729427499913
+      Player_Actions_Anim_56: 5716357221224820752
+      Player_Actions_Anim_57: 2625756430950488812
+      Player_Actions_Anim_58: -7756856790895564164
+      Player_Actions_Anim_59: -7852615759213806833
+      Player_Actions_Anim_6: 1146232277978556865
+      Player_Actions_Anim_60: 221376618314454975
+      Player_Actions_Anim_61: -1396699313401910191
+      Player_Actions_Anim_62: 977288357117696088
+      Player_Actions_Anim_63: 8831704047303560833
+      Player_Actions_Anim_64: -6043782532088526808
+      Player_Actions_Anim_65: 855054915466387460
+      Player_Actions_Anim_66: 8441374024402851612
+      Player_Actions_Anim_67: 4814668989175836164
+      Player_Actions_Anim_68: -7794939645445098076
+      Player_Actions_Anim_69: 3606963946779392726
+      Player_Actions_Anim_7: -2302292691930875137
+      Player_Actions_Anim_70: 8796929142413396608
+      Player_Actions_Anim_71: 4671881624299889231
+      Player_Actions_Anim_8: -2269777935319586586
+      Player_Actions_Anim_9: -7456764998670075920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

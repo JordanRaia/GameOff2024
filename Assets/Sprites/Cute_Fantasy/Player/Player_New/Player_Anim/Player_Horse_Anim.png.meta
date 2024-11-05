@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Horse_Anim_0: -2666330500869242355
+      Player_Horse_Anim_1: 8811895494857355167
+      Player_Horse_Anim_10: 283982055160953733
+      Player_Horse_Anim_11: 3403275201788234191
+      Player_Horse_Anim_12: -8162803617103840536
+      Player_Horse_Anim_13: -2166137307735731726
+      Player_Horse_Anim_14: 1255196327976792031
+      Player_Horse_Anim_15: 6500020997457968089
+      Player_Horse_Anim_16: -1410238328063406201
+      Player_Horse_Anim_17: -3835767727814377963
+      Player_Horse_Anim_18: 7775170592692784768
+      Player_Horse_Anim_19: 1840441907518144944
+      Player_Horse_Anim_2: -6381209949677106068
+      Player_Horse_Anim_20: 7086513119971230903
+      Player_Horse_Anim_21: 154533809561337194
+      Player_Horse_Anim_22: 4597600884008202340
+      Player_Horse_Anim_23: 1552144965152017015
+      Player_Horse_Anim_24: -5922714485606394434
+      Player_Horse_Anim_25: -8332910094482750055
+      Player_Horse_Anim_26: -5552577415185156237
+      Player_Horse_Anim_27: -7523106695176910777
+      Player_Horse_Anim_28: 1029876443911277584
+      Player_Horse_Anim_29: -1665857312907826803
+      Player_Horse_Anim_3: -3177051991477864663
+      Player_Horse_Anim_30: 9121011542834309086
+      Player_Horse_Anim_31: -4026878116800007758
+      Player_Horse_Anim_32: -3635307383119224412
+      Player_Horse_Anim_33: 7289626746723675061
+      Player_Horse_Anim_34: 4333815720182018089
+      Player_Horse_Anim_35: 6512504138302660175
+      Player_Horse_Anim_4: 8212423317583458876
+      Player_Horse_Anim_5: 8330936715195070579
+      Player_Horse_Anim_6: 8682063011724735161
+      Player_Horse_Anim_7: -7758856192511243548
+      Player_Horse_Anim_8: -8244655646317637024
+      Player_Horse_Anim_9: 6512597422620359676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

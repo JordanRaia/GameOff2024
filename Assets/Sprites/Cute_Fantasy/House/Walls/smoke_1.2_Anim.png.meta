@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      smoke_1.2_Anim_0: -2771848924685293785
+      smoke_1.2_Anim_1: 9181068403554514741
+      smoke_1.2_Anim_2: -5326086623131140459
+      smoke_1.2_Anim_3: -5379203619452930501
+      smoke_1.2_Anim_4: -8519502186058466917
+      smoke_1.2_Anim_5: 271188631220301997
+      smoke_1.2_Anim_6: 2994553896200694642
+      smoke_1.2_Anim_7: 7609229463951766541
+      smoke_1.2_Anim_8: -3220395290366412153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

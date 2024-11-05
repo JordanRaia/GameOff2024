@@ -250,7 +250,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -264,7 +264,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lanter_Posts_0: -8420656521433951643
+      Lanter_Posts_1: -4625995586840487784
+      Lanter_Posts_10: -9014419765990237329
+      Lanter_Posts_11: 800002245178658202
+      Lanter_Posts_12: -7564322159677396205
+      Lanter_Posts_13: 7177763749234150978
+      Lanter_Posts_14: 902001979663784862
+      Lanter_Posts_15: -6501127729165385508
+      Lanter_Posts_16: 3760255384892501986
+      Lanter_Posts_17: -2443185061666012692
+      Lanter_Posts_18: -8393919995813249788
+      Lanter_Posts_19: -594846744050896046
+      Lanter_Posts_2: 455746514001038174
+      Lanter_Posts_20: 1220205278672845793
+      Lanter_Posts_21: -6743864273348983660
+      Lanter_Posts_22: 7255759717404327199
+      Lanter_Posts_23: 1169882853862764540
+      Lanter_Posts_24: -7833940422117078960
+      Lanter_Posts_25: -8078315897205575904
+      Lanter_Posts_26: 2570026411855532987
+      Lanter_Posts_27: -6897316409879024351
+      Lanter_Posts_28: 4284863500089576272
+      Lanter_Posts_29: 8307818907261099483
+      Lanter_Posts_3: -573188284960517907
+      Lanter_Posts_30: 6066049312697798483
+      Lanter_Posts_31: -3183380142752696365
+      Lanter_Posts_32: 8643719388350949194
+      Lanter_Posts_33: 1238481330691693880
+      Lanter_Posts_34: -765105301274657097
+      Lanter_Posts_35: -2067076785419304135
+      Lanter_Posts_36: -2686811100745311587
+      Lanter_Posts_37: -5615208488222368567
+      Lanter_Posts_38: 5399966257832696246
+      Lanter_Posts_39: 1523884466453802624
+      Lanter_Posts_4: -6175710372533461360
+      Lanter_Posts_40: -5827593134528673156
+      Lanter_Posts_41: -4101266339581690455
+      Lanter_Posts_42: 817696570737467037
+      Lanter_Posts_43: 4474868671990698923
+      Lanter_Posts_44: -3104742258472151109
+      Lanter_Posts_45: -985765619916133680
+      Lanter_Posts_46: -1034807706883367777
+      Lanter_Posts_47: 4025008314785886845
+      Lanter_Posts_48: -7291585657041860186
+      Lanter_Posts_49: 3561112703106385165
+      Lanter_Posts_5: -5347100457883988085
+      Lanter_Posts_50: 8173379025571465584
+      Lanter_Posts_51: 6745051526137088458
+      Lanter_Posts_52: -9085165107359402288
+      Lanter_Posts_53: 291486259402788974
+      Lanter_Posts_54: 8962879639134406488
+      Lanter_Posts_55: -6856450239752581495
+      Lanter_Posts_56: 9103034050122137633
+      Lanter_Posts_57: -329981183337634040
+      Lanter_Posts_58: 1325059684006325339
+      Lanter_Posts_59: -7122744629075034746
+      Lanter_Posts_6: -8062206263365766258
+      Lanter_Posts_60: -6845842016396716214
+      Lanter_Posts_61: -1886731453431341685
+      Lanter_Posts_62: 1705593925970575481
+      Lanter_Posts_63: 4951040778428463514
+      Lanter_Posts_64: -4564933661725145919
+      Lanter_Posts_65: -6281863995768937064
+      Lanter_Posts_66: 3221320516282512400
+      Lanter_Posts_67: 1125153427547735139
+      Lanter_Posts_68: -1606910863256887422
+      Lanter_Posts_69: 7363545662821993699
+      Lanter_Posts_7: -6852520874384543127
+      Lanter_Posts_70: 3075269496140785760
+      Lanter_Posts_71: 5340304704959942960
+      Lanter_Posts_8: -2694682557127748604
+      Lanter_Posts_9: 2282986336010961777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

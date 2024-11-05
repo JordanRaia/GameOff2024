@@ -190,7 +190,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -204,7 +204,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -228,7 +228,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1409,7 +1409,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Fishing_Anim_0: -8780176592232124610
+      Player_Fishing_Anim_1: 316941191076692973
+      Player_Fishing_Anim_10: 2787197649049525310
+      Player_Fishing_Anim_11: 5309876621469254653
+      Player_Fishing_Anim_12: 6712951561405765778
+      Player_Fishing_Anim_13: 648923494122599990
+      Player_Fishing_Anim_14: 4637401619929956287
+      Player_Fishing_Anim_15: 5525355628629406070
+      Player_Fishing_Anim_16: -2627806550550041667
+      Player_Fishing_Anim_17: 4696313578536227993
+      Player_Fishing_Anim_18: -7563070952011894525
+      Player_Fishing_Anim_19: -1552720003330775321
+      Player_Fishing_Anim_2: -6390615653825490115
+      Player_Fishing_Anim_20: 1645226064846253371
+      Player_Fishing_Anim_21: 4428824223088780036
+      Player_Fishing_Anim_22: -8611985021575592040
+      Player_Fishing_Anim_23: -7603793016579383579
+      Player_Fishing_Anim_24: -390532011216399631
+      Player_Fishing_Anim_25: 5895249020071502108
+      Player_Fishing_Anim_26: -740890296451147090
+      Player_Fishing_Anim_27: -3381861072802972094
+      Player_Fishing_Anim_28: 6090971857299177932
+      Player_Fishing_Anim_29: -859713840747722951
+      Player_Fishing_Anim_3: -9017916909596208727
+      Player_Fishing_Anim_30: -5212841116878203476
+      Player_Fishing_Anim_31: 6727888409018600219
+      Player_Fishing_Anim_32: -8650708606875096493
+      Player_Fishing_Anim_33: 8365186140751225014
+      Player_Fishing_Anim_34: 7380860096217887113
+      Player_Fishing_Anim_35: -1974492232004250913
+      Player_Fishing_Anim_36: -5263260451668147207
+      Player_Fishing_Anim_37: -4271166428661110128
+      Player_Fishing_Anim_38: -8467068070747892037
+      Player_Fishing_Anim_39: -5152033391080652296
+      Player_Fishing_Anim_4: -3524025592729484826
+      Player_Fishing_Anim_40: -4175151754658350076
+      Player_Fishing_Anim_41: -1943296931361533122
+      Player_Fishing_Anim_42: -3586522489040777931
+      Player_Fishing_Anim_43: -6221733788663443652
+      Player_Fishing_Anim_44: 498931233989791518
+      Player_Fishing_Anim_45: 2411999738279278939
+      Player_Fishing_Anim_46: -5047037481585872849
+      Player_Fishing_Anim_47: 6726853077242801090
+      Player_Fishing_Anim_48: 1859700334577909672
+      Player_Fishing_Anim_49: 7951249127702587262
+      Player_Fishing_Anim_5: -3117774764156787225
+      Player_Fishing_Anim_50: -8020839487399386617
+      Player_Fishing_Anim_51: 5903746599058150487
+      Player_Fishing_Anim_6: -5254306158746479780
+      Player_Fishing_Anim_7: -1463121344893815855
+      Player_Fishing_Anim_8: -1995217501697410078
+      Player_Fishing_Anim_9: 1386166868331161783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Attack_Anim_0: -3796593151376779655
+      Player_Attack_Anim_1: -2117733330006916345
+      Player_Attack_Anim_10: 4331358246292791840
+      Player_Attack_Anim_11: -4899954884887493228
+      Player_Attack_Anim_12: -5215454500408618036
+      Player_Attack_Anim_13: -5689694490193580291
+      Player_Attack_Anim_14: -2752998668852782378
+      Player_Attack_Anim_15: -3520424249661482467
+      Player_Attack_Anim_16: 1979385619843057759
+      Player_Attack_Anim_17: -36599013192300162
+      Player_Attack_Anim_18: -2958099457507420243
+      Player_Attack_Anim_19: 1135959108612605454
+      Player_Attack_Anim_2: -1217365399848997999
+      Player_Attack_Anim_20: -1668423126609706571
+      Player_Attack_Anim_21: -1071159317864457815
+      Player_Attack_Anim_22: -1257348765745944498
+      Player_Attack_Anim_23: 7940781379632868554
+      Player_Attack_Anim_24: 3844171336991735128
+      Player_Attack_Anim_25: 3368103457988535768
+      Player_Attack_Anim_26: 4133196139935671584
+      Player_Attack_Anim_27: 3763743279738110325
+      Player_Attack_Anim_28: -8536184053895632399
+      Player_Attack_Anim_29: -5908580611960410375
+      Player_Attack_Anim_3: 8875181877302479121
+      Player_Attack_Anim_30: -5669835136545683164
+      Player_Attack_Anim_31: -7810187538852608592
+      Player_Attack_Anim_32: 3584686316442412814
+      Player_Attack_Anim_33: -8318533576095984044
+      Player_Attack_Anim_34: -6123441771933362747
+      Player_Attack_Anim_35: 4470960668316215822
+      Player_Attack_Anim_4: 2719046875213830938
+      Player_Attack_Anim_5: 1499222706054077194
+      Player_Attack_Anim_6: 4463154238611974972
+      Player_Attack_Anim_7: 2508719883476898380
+      Player_Attack_Anim_8: 5738176340165330191
+      Player_Attack_Anim_9: -1526554388950435722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

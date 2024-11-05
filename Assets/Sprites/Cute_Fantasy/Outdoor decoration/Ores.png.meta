@@ -184,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -198,7 +198,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -222,7 +222,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1359,7 +1359,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ores_0: -6760471406004971263
+      Ores_1: -1555048745898646385
+      Ores_10: -7010895441811636435
+      Ores_11: -5094265515718355966
+      Ores_12: -2177221028749730195
+      Ores_13: -4365763915754762665
+      Ores_14: 2547314015235608150
+      Ores_15: 437004221507629549
+      Ores_16: -3476202021705219157
+      Ores_17: -2543021530392309705
+      Ores_18: -1349444567941034398
+      Ores_19: 6473354811654424704
+      Ores_2: 8769119812877717279
+      Ores_20: -8945614803039363433
+      Ores_21: -9066429286257605411
+      Ores_22: -5032718680284062416
+      Ores_23: 7382401974310820035
+      Ores_24: -4797693821990039991
+      Ores_25: -2215917271491460458
+      Ores_26: 5172604829496079764
+      Ores_27: -2676170694544633309
+      Ores_28: -4482867674037570230
+      Ores_29: 2351864058343238337
+      Ores_3: -4622283339285158890
+      Ores_30: -8040139261043481375
+      Ores_31: 1194227659376301832
+      Ores_32: 7473302359189358601
+      Ores_33: 1798860885705642330
+      Ores_34: -4697612568839384253
+      Ores_35: -6104379150940031412
+      Ores_36: -3571080341227920271
+      Ores_37: -5990165809376523328
+      Ores_38: 1111439125968321109
+      Ores_39: -7490273987069216890
+      Ores_4: 5344178261569492891
+      Ores_40: -623644546430554401
+      Ores_41: 866165311626972774
+      Ores_42: -8870163539805843340
+      Ores_43: 2676359961033045995
+      Ores_44: 7145681214815850558
+      Ores_45: -8864615873814593920
+      Ores_46: -2429548424110462151
+      Ores_47: -3237330118466067382
+      Ores_48: 7054577682481060284
+      Ores_49: -9081641688084140247
+      Ores_5: -4589752301385710135
+      Ores_6: -920277764410375714
+      Ores_7: 3008853960674594948
+      Ores_8: 5050492222661095950
+      Ores_9: 272733314368310961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
