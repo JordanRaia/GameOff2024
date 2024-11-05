@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toxic_Gas_Cloud_VFX_0: 8064809648448730086
+      Toxic_Gas_Cloud_VFX_1: -7878363786345717810
+      Toxic_Gas_Cloud_VFX_10: 8736415874552386322
+      Toxic_Gas_Cloud_VFX_11: -8708065852464521880
+      Toxic_Gas_Cloud_VFX_12: 1211365314013564150
+      Toxic_Gas_Cloud_VFX_13: -7500964906466842202
+      Toxic_Gas_Cloud_VFX_14: -2165356283761653795
+      Toxic_Gas_Cloud_VFX_15: -6449820945807803629
+      Toxic_Gas_Cloud_VFX_16: 6502053796844756138
+      Toxic_Gas_Cloud_VFX_17: 5985128203786314568
+      Toxic_Gas_Cloud_VFX_18: -7338670100831985987
+      Toxic_Gas_Cloud_VFX_19: 1847579922593615747
+      Toxic_Gas_Cloud_VFX_2: 915998194366449105
+      Toxic_Gas_Cloud_VFX_20: 2717203731868093922
+      Toxic_Gas_Cloud_VFX_21: -8606651705900987627
+      Toxic_Gas_Cloud_VFX_3: -907488074692277567
+      Toxic_Gas_Cloud_VFX_4: -6102474011713521250
+      Toxic_Gas_Cloud_VFX_5: 6087152264881424027
+      Toxic_Gas_Cloud_VFX_6: 8220714826872536455
+      Toxic_Gas_Cloud_VFX_7: 3270269164345979622
+      Toxic_Gas_Cloud_VFX_8: 8323394525187505050
+      Toxic_Gas_Cloud_VFX_9: -4526160309075426395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -584,7 +584,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Broom_0: 8301961774509548615
+      Broom_1: 1503390876011819604
+      Broom_10: 5476607801710475128
+      Broom_11: 4030038033205265057
+      Broom_12: -5359395982767103854
+      Broom_13: 96612540180249122
+      Broom_14: -1959577674214264347
+      Broom_15: 6138581103352408385
+      Broom_16: 2496115957676757863
+      Broom_17: -1969988276791440872
+      Broom_18: 5530476967760163366
+      Broom_2: 1060557403788106
+      Broom_3: 8814412584615703751
+      Broom_4: -8735606552527442649
+      Broom_5: -6546275215422000788
+      Broom_6: 6443189378194084277
+      Broom_7: 7598855158164058491
+      Broom_8: -6924597878401480014
+      Broom_9: 6870769207172289976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Picnic_Blankets_0: 6270341823059973912
+      Picnic_Blankets_1: 6488274828467309997
+      Picnic_Blankets_2: 3076555489334943983
+      Picnic_Blankets_3: -2418499289439650795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

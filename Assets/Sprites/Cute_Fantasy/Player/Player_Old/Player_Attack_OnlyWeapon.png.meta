@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Attack_OnlyWeapon_0: 3614327276305291807
+      Player_Attack_OnlyWeapon_1: 786892261180665361
+      Player_Attack_OnlyWeapon_10: 1436435854385053879
+      Player_Attack_OnlyWeapon_11: 505679069296213764
+      Player_Attack_OnlyWeapon_12: 6586183873407104605
+      Player_Attack_OnlyWeapon_13: 2045149346132234864
+      Player_Attack_OnlyWeapon_14: -7777720004552600019
+      Player_Attack_OnlyWeapon_15: 662439115396336331
+      Player_Attack_OnlyWeapon_16: -3052803974693495459
+      Player_Attack_OnlyWeapon_17: 6242228399442283039
+      Player_Attack_OnlyWeapon_18: 5133869279970048410
+      Player_Attack_OnlyWeapon_19: -7898046054638922917
+      Player_Attack_OnlyWeapon_2: -2046997279836365195
+      Player_Attack_OnlyWeapon_20: -5078115447041570278
+      Player_Attack_OnlyWeapon_21: 8990121016606570894
+      Player_Attack_OnlyWeapon_22: 3766877171237401177
+      Player_Attack_OnlyWeapon_23: -2586407034298938395
+      Player_Attack_OnlyWeapon_24: -1872050657213536624
+      Player_Attack_OnlyWeapon_25: -5404693239990910970
+      Player_Attack_OnlyWeapon_26: 725441839988557514
+      Player_Attack_OnlyWeapon_27: -2530343260177023084
+      Player_Attack_OnlyWeapon_28: -8782475470980090222
+      Player_Attack_OnlyWeapon_29: -7415415680878664454
+      Player_Attack_OnlyWeapon_3: -2537592875155306717
+      Player_Attack_OnlyWeapon_4: -4449854569315941377
+      Player_Attack_OnlyWeapon_5: -9133617781726530810
+      Player_Attack_OnlyWeapon_6: 4472946194132782667
+      Player_Attack_OnlyWeapon_7: 5004213674372290947
+      Player_Attack_OnlyWeapon_8: -8762836935709104251
+      Player_Attack_OnlyWeapon_9: -7385634517104662991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

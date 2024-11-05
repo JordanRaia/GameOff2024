@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungeon_1_Door_Open_0: 938291995137259852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungeon_1_Sewer_0: 5875566709592812166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

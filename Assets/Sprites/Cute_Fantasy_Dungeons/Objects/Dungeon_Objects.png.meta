@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungeon_Objects_0: -9157136295172845311
+      Dungeon_Objects_1: 2510114221902646279
+      Dungeon_Objects_10: 5999860363290446099
+      Dungeon_Objects_11: -4920842744535907056
+      Dungeon_Objects_12: 236449836471783389
+      Dungeon_Objects_13: -4607835641531972281
+      Dungeon_Objects_14: 7593447659565870821
+      Dungeon_Objects_15: 7780747174430601102
+      Dungeon_Objects_16: -5022535649256466183
+      Dungeon_Objects_17: 6628678881354252987
+      Dungeon_Objects_18: -7148984989042401414
+      Dungeon_Objects_19: 1086265868164812535
+      Dungeon_Objects_2: -4861123564966978489
+      Dungeon_Objects_20: 522658900274213588
+      Dungeon_Objects_21: -4929755297179058963
+      Dungeon_Objects_22: 2963594477799981075
+      Dungeon_Objects_23: -2627280039510597024
+      Dungeon_Objects_24: -3726469635597064741
+      Dungeon_Objects_25: 8343158734564116517
+      Dungeon_Objects_26: -1438590258437702668
+      Dungeon_Objects_27: 3207270034746945040
+      Dungeon_Objects_3: 5373044996918418005
+      Dungeon_Objects_4: 6444774418041669159
+      Dungeon_Objects_5: -8382220142040987137
+      Dungeon_Objects_6: 5363312688841817477
+      Dungeon_Objects_7: 6128989402879876792
+      Dungeon_Objects_8: 5977031690539158446
+      Dungeon_Objects_9: 1001510472383365977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

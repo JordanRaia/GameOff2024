@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Riding_Horse_0: 8512988407831894603
+      Player_Riding_Horse_1: 4748538928957265437
+      Player_Riding_Horse_10: 6279203353350229404
+      Player_Riding_Horse_11: -4806260711977805039
+      Player_Riding_Horse_12: -4202162351884871305
+      Player_Riding_Horse_13: -4304280520358547479
+      Player_Riding_Horse_14: 8389615381717410043
+      Player_Riding_Horse_15: -4496616171169688113
+      Player_Riding_Horse_16: -774492816181848753
+      Player_Riding_Horse_17: 4297263933040045078
+      Player_Riding_Horse_18: -3599796128613339601
+      Player_Riding_Horse_19: -4073148801425339914
+      Player_Riding_Horse_2: 320399769394766313
+      Player_Riding_Horse_20: -4663343934626774017
+      Player_Riding_Horse_21: 4118881554691012916
+      Player_Riding_Horse_22: -6132524643040634816
+      Player_Riding_Horse_23: 2407442444097896472
+      Player_Riding_Horse_24: 6870271393418125685
+      Player_Riding_Horse_25: 5378437349588364740
+      Player_Riding_Horse_26: -972413914435474830
+      Player_Riding_Horse_27: 3976941690569776131
+      Player_Riding_Horse_28: 1065549261753082701
+      Player_Riding_Horse_29: -1319333627388276237
+      Player_Riding_Horse_3: 5866234252626851862
+      Player_Riding_Horse_30: 3894969568739553718
+      Player_Riding_Horse_31: 8219619977082998148
+      Player_Riding_Horse_32: -7024424781579012438
+      Player_Riding_Horse_33: -1116211184121180679
+      Player_Riding_Horse_34: -2625619541464700537
+      Player_Riding_Horse_35: -2986270379077359951
+      Player_Riding_Horse_4: -899651535462682524
+      Player_Riding_Horse_5: -3545704586325392024
+      Player_Riding_Horse_6: 2957383158684864467
+      Player_Riding_Horse_7: -4375695410866883517
+      Player_Riding_Horse_8: 410332532635479147
+      Player_Riding_Horse_9: -1344184538663134405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

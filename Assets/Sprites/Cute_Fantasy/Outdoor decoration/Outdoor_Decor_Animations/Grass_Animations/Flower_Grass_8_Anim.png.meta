@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flower_Grass_8_Anim_0: -7937824420141670712
+      Flower_Grass_8_Anim_1: 3790565712573194059
+      Flower_Grass_8_Anim_2: 975470216991887812
+      Flower_Grass_8_Anim_3: 8396434051534603087
+      Flower_Grass_8_Anim_4: -2258758034172052348
+      Flower_Grass_8_Anim_5: -157631498002148383
+      Flower_Grass_8_Anim_6: -8097689172278551500
+      Flower_Grass_8_Anim_7: 8716788034774740511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

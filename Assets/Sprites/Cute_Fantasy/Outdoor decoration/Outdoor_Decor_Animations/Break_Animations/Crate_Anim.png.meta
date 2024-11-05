@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crate_Anim_0: -2976123763410599120
+      Crate_Anim_1: 6392783576849202541
+      Crate_Anim_10: 4775988241176657949
+      Crate_Anim_11: -7248549348449609383
+      Crate_Anim_2: 5344692495659074154
+      Crate_Anim_3: -7521150386454093534
+      Crate_Anim_4: 1152396375740548740
+      Crate_Anim_5: -7567188350107607796
+      Crate_Anim_6: 9126424004240839263
+      Crate_Anim_7: 3140848679996035016
+      Crate_Anim_8: -969881073039627513
+      Crate_Anim_9: 8221275910285875457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

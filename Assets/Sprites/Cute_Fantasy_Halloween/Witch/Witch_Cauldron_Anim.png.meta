@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Witch_Cauldron_Anim_0: -6316128909204395339
+      Witch_Cauldron_Anim_1: -4879045778416903039
+      Witch_Cauldron_Anim_10: 7229468475605822579
+      Witch_Cauldron_Anim_11: 1485771021983057120
+      Witch_Cauldron_Anim_2: -7520368420929746588
+      Witch_Cauldron_Anim_3: 3339427329531671967
+      Witch_Cauldron_Anim_4: -4746529682640127511
+      Witch_Cauldron_Anim_5: -2601226311743725169
+      Witch_Cauldron_Anim_6: -601169322801286814
+      Witch_Cauldron_Anim_7: 7030364784122536734
+      Witch_Cauldron_Anim_8: -8533676843455045213
+      Witch_Cauldron_Anim_9: 2341204956702099104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kapybara_Emerge_0: 1893028798116683822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

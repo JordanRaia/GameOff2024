@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floor_spikes_1_0: 7450744865043572123
+      Floor_spikes_1_1: 8853283865190302041
+      Floor_spikes_1_10: -5471926715228164837
+      Floor_spikes_1_11: 4018490890984277518
+      Floor_spikes_1_2: -5718004674815879075
+      Floor_spikes_1_3: 6108610265942860671
+      Floor_spikes_1_4: 4055848128676980094
+      Floor_spikes_1_5: 463111246191483336
+      Floor_spikes_1_6: 5678837106433774509
+      Floor_spikes_1_7: 6158752518990448275
+      Floor_spikes_1_8: -7379425467524928338
+      Floor_spikes_1_9: -1882951540524697053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

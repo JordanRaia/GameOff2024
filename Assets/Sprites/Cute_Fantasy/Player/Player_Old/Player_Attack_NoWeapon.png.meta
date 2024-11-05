@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Attack_NoWeapon_0: -4607577486004578798
+      Player_Attack_NoWeapon_1: -1595969989498960136
+      Player_Attack_NoWeapon_10: 4050276000064250884
+      Player_Attack_NoWeapon_11: -8747894808430044968
+      Player_Attack_NoWeapon_12: -6767385835704882173
+      Player_Attack_NoWeapon_13: 8031745924563399660
+      Player_Attack_NoWeapon_14: -5716926224420759961
+      Player_Attack_NoWeapon_15: 4524192123672681748
+      Player_Attack_NoWeapon_16: -8457609233939091166
+      Player_Attack_NoWeapon_17: -4950139279956267795
+      Player_Attack_NoWeapon_18: 2715821576545188397
+      Player_Attack_NoWeapon_19: -2028172398123974216
+      Player_Attack_NoWeapon_2: 4824966484558197520
+      Player_Attack_NoWeapon_20: 3114608898470192600
+      Player_Attack_NoWeapon_21: 4609646464469737279
+      Player_Attack_NoWeapon_22: 8977391392069938889
+      Player_Attack_NoWeapon_23: -7412106385125673786
+      Player_Attack_NoWeapon_24: 1482566552698772691
+      Player_Attack_NoWeapon_25: 4572964306844563613
+      Player_Attack_NoWeapon_26: -2398337156230041562
+      Player_Attack_NoWeapon_27: 7390210794446356495
+      Player_Attack_NoWeapon_28: 4929942590519506451
+      Player_Attack_NoWeapon_29: -8649964982310769935
+      Player_Attack_NoWeapon_3: 3385112877970529333
+      Player_Attack_NoWeapon_30: -3946917584000167842
+      Player_Attack_NoWeapon_31: 7225492699923136965
+      Player_Attack_NoWeapon_32: 7339096987463832082
+      Player_Attack_NoWeapon_33: -5942781606652836014
+      Player_Attack_NoWeapon_34: -1572371425090995077
+      Player_Attack_NoWeapon_35: 760247549891883041
+      Player_Attack_NoWeapon_4: -6089507422828621876
+      Player_Attack_NoWeapon_5: -4657737529818370031
+      Player_Attack_NoWeapon_6: -7341567828608687620
+      Player_Attack_NoWeapon_7: -15530196982149824
+      Player_Attack_NoWeapon_8: 9010180118457097260
+      Player_Attack_NoWeapon_9: 4412275118266782422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Scarecrow_1_Anim_0: -1299052573383970887
+      Scarecrow_1_Anim_1: -8815684286494970414
+      Scarecrow_1_Anim_2: -2648048865500487185
+      Scarecrow_1_Anim_3: -5662659159799182056
+      Scarecrow_1_Anim_4: -3387196332516036063
+      Scarecrow_1_Anim_5: -4980953468538794109
+      Scarecrow_1_Anim_6: -8562005894607949397
+      Scarecrow_1_Anim_7: -2158786481833390859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

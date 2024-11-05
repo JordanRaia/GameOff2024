@@ -684,7 +684,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Bow_0: 5849608534415981286
+      Wooden_Bow_1: -838920577232063443
+      Wooden_Bow_10: -8166786815410762559
+      Wooden_Bow_11: -615297467313003445
+      Wooden_Bow_12: -8217634540047800038
+      Wooden_Bow_13: 1180985579977277574
+      Wooden_Bow_14: 5660584322941667817
+      Wooden_Bow_15: 2941546016682240337
+      Wooden_Bow_16: -3766998859976274400
+      Wooden_Bow_17: 6551152055064346806
+      Wooden_Bow_18: 562025260223904158
+      Wooden_Bow_19: 7612083545089555931
+      Wooden_Bow_2: 4602147544706569161
+      Wooden_Bow_20: 8508906664761795468
+      Wooden_Bow_21: 5038338235114838954
+      Wooden_Bow_22: -3057010941862942295
+      Wooden_Bow_3: 7897134938422251748
+      Wooden_Bow_4: 562366810964267014
+      Wooden_Bow_5: 2301615834492823772
+      Wooden_Bow_6: 4375325013512065213
+      Wooden_Bow_7: 9063974274096824403
+      Wooden_Bow_8: -2534102599099402939
+      Wooden_Bow_9: -4983007197757520820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

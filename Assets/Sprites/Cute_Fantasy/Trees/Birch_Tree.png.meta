@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Birch_Tree_0: -3311195536674295339
+      Birch_Tree_1: 8452191100853442476
+      Birch_Tree_2: 1913231937068299815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

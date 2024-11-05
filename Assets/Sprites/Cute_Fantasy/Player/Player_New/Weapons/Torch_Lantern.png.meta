@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Torch_Lantern_0: -240730303709143181
+      Torch_Lantern_1: -7591848448090722410
+      Torch_Lantern_10: -8938278554174375317
+      Torch_Lantern_11: 4072351297974720957
+      Torch_Lantern_12: -584035314413043285
+      Torch_Lantern_13: -8034190148192518673
+      Torch_Lantern_14: 7537625309447323102
+      Torch_Lantern_15: 2714951051301580833
+      Torch_Lantern_16: 2274569473950735361
+      Torch_Lantern_17: 5294296562953006502
+      Torch_Lantern_18: 3287975561662461211
+      Torch_Lantern_19: 5018793665391831610
+      Torch_Lantern_2: 3253233564378888378
+      Torch_Lantern_20: -5459078863135177100
+      Torch_Lantern_21: 662680688088593486
+      Torch_Lantern_22: 1315669810665091701
+      Torch_Lantern_23: -1728862500805403664
+      Torch_Lantern_24: 4271864151608802259
+      Torch_Lantern_25: -9015661221244600390
+      Torch_Lantern_26: -3108632808731535788
+      Torch_Lantern_27: -7083098852882484886
+      Torch_Lantern_28: -7449845247580274556
+      Torch_Lantern_29: -7929916800698748104
+      Torch_Lantern_3: 7549412522913850752
+      Torch_Lantern_30: -6833227490542518465
+      Torch_Lantern_31: 8751349666186814767
+      Torch_Lantern_32: 3910241319464873338
+      Torch_Lantern_33: -7718582436913558966
+      Torch_Lantern_34: 2515648420085619768
+      Torch_Lantern_35: 9031645378948379017
+      Torch_Lantern_36: 2560643895271798329
+      Torch_Lantern_37: -1588753058020997422
+      Torch_Lantern_38: 5743428520381728221
+      Torch_Lantern_39: 1042104760216472783
+      Torch_Lantern_4: 1266117013327622967
+      Torch_Lantern_40: 7045418843930249529
+      Torch_Lantern_41: 562707116028626040
+      Torch_Lantern_42: 894340124135741324
+      Torch_Lantern_43: -4111595480002915520
+      Torch_Lantern_44: -7341940976515679284
+      Torch_Lantern_45: 5974336332918312863
+      Torch_Lantern_46: -8191120042585383969
+      Torch_Lantern_47: -3976336162038996348
+      Torch_Lantern_48: -945644260529417617
+      Torch_Lantern_49: -2591236234393693440
+      Torch_Lantern_5: -8741049457012601510
+      Torch_Lantern_50: 8513159831572357499
+      Torch_Lantern_51: -561602127243408594
+      Torch_Lantern_52: 4008222795637599968
+      Torch_Lantern_53: 1824495374044528849
+      Torch_Lantern_54: 4996466770583428624
+      Torch_Lantern_55: 1458221227134329721
+      Torch_Lantern_56: -319855841304547674
+      Torch_Lantern_57: 5957568270189984789
+      Torch_Lantern_58: 3403012295129091202
+      Torch_Lantern_59: -5495353724007857164
+      Torch_Lantern_6: 4800218386511533247
+      Torch_Lantern_60: -2966183304500960570
+      Torch_Lantern_61: 8532035465478504524
+      Torch_Lantern_62: -1515025461651766754
+      Torch_Lantern_63: 8372166653012417325
+      Torch_Lantern_64: -1868821546896710275
+      Torch_Lantern_65: -7823440868156002805
+      Torch_Lantern_66: -4205220378695891887
+      Torch_Lantern_67: -5301561716083098234
+      Torch_Lantern_68: 1990682035108554720
+      Torch_Lantern_69: 4245814057487522367
+      Torch_Lantern_7: 6965205278775723494
+      Torch_Lantern_70: -4411761602192164095
+      Torch_Lantern_71: -5912850253063670240
+      Torch_Lantern_8: 4210391833468951482
+      Torch_Lantern_9: -6408628477678292040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

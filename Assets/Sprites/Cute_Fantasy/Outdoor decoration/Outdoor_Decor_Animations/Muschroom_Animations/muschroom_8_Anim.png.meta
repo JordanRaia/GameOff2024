@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      muschroom_8_Anim_0: 4481352311328703052
+      muschroom_8_Anim_1: 3780848117701630091
+      muschroom_8_Anim_2: 4210445631833136998
+      muschroom_8_Anim_3: -4406676901233313878
+      muschroom_8_Anim_4: 544419062584767271
+      muschroom_8_Anim_5: 6222492781941104372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

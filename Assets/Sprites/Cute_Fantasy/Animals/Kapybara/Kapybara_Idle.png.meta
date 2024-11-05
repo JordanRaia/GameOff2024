@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kapybara_Idle_0: -8990359371992529244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

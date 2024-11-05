@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bee_Flying_Animation_0: -5962620159239149606
+      Bee_Flying_Animation_1: 73615401178239410
+      Bee_Flying_Animation_2: -2188567842504887664
+      Bee_Flying_Animation_3: 2351682480815645793
+      Bee_Flying_Animation_4: 7012656314752050041
+      Bee_Flying_Animation_5: -7637488483339160645
+      Bee_Flying_Animation_6: 1476852706960345
+      Bee_Flying_Animation_7: -5420074577068891368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

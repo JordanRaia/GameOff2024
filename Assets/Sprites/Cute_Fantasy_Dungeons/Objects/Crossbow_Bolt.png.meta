@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crossbow_Bolt_0: 1881756205816718556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

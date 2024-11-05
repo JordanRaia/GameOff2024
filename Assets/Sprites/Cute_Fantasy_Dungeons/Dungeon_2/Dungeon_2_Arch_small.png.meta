@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungeon_2_Arch_small_0: 543593411429521540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

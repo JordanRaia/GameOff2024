@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mounted_Crossbow_anim_0: 8162988674650109758
+      Mounted_Crossbow_anim_1: -1745409531197442033
+      Mounted_Crossbow_anim_2: 3875716800506784330
+      Mounted_Crossbow_anim_3: 3735695931159172730
+      Mounted_Crossbow_anim_4: -8684963041163243899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

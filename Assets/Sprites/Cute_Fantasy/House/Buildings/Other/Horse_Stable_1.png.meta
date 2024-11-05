@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Horse_Stable_1_0: 6356949530598255679
+      Horse_Stable_1_1: 7078350952021295843
+      Horse_Stable_1_2: 6037587305379321978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

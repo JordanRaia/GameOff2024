@@ -1409,7 +1409,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Fishing_0: -2049226662085402262
+      Player_Fishing_1: 1381612673743635480
+      Player_Fishing_10: -2537680669280380292
+      Player_Fishing_11: -3492259739799229934
+      Player_Fishing_12: 5293131928148191602
+      Player_Fishing_13: -5229767757537840499
+      Player_Fishing_14: 9151943057362790717
+      Player_Fishing_15: -7081260569258903905
+      Player_Fishing_16: -8486177549837248362
+      Player_Fishing_17: -1250926269793205630
+      Player_Fishing_18: 8160889493730039795
+      Player_Fishing_19: -7471923719730123958
+      Player_Fishing_2: 3902126278199344626
+      Player_Fishing_20: 331546526348897765
+      Player_Fishing_21: 1592140206794974906
+      Player_Fishing_22: -5057712332572210905
+      Player_Fishing_23: -5678040938946937659
+      Player_Fishing_24: -3880064216476694602
+      Player_Fishing_25: 4471812227437067123
+      Player_Fishing_26: 671858550996868068
+      Player_Fishing_27: -1139188050876208425
+      Player_Fishing_28: -707013499968485501
+      Player_Fishing_29: -3707861933478265073
+      Player_Fishing_3: 5507894449172730851
+      Player_Fishing_30: -7367795231377641094
+      Player_Fishing_31: -5146569018806990740
+      Player_Fishing_32: -1887066173000702860
+      Player_Fishing_33: -3715684937037601349
+      Player_Fishing_34: 7106408713430885065
+      Player_Fishing_35: -8324486136600493752
+      Player_Fishing_36: 1713740821123660438
+      Player_Fishing_37: 3728791090927157355
+      Player_Fishing_38: 3828311165707724629
+      Player_Fishing_39: 3313476060372560179
+      Player_Fishing_4: 7904734282858279131
+      Player_Fishing_40: 8841153860431664166
+      Player_Fishing_41: -5415651409787355187
+      Player_Fishing_42: 6445199275785371324
+      Player_Fishing_43: 9062435224983550856
+      Player_Fishing_44: 301292159305226471
+      Player_Fishing_45: -1459643472524193450
+      Player_Fishing_46: -3720777923965550829
+      Player_Fishing_47: 8576261892264362232
+      Player_Fishing_48: 6246598377356116778
+      Player_Fishing_49: -1924404583221051406
+      Player_Fishing_5: 5537534204912931863
+      Player_Fishing_50: -3825413481818947712
+      Player_Fishing_51: 8141134311862836795
+      Player_Fishing_6: -355413242077978624
+      Player_Fishing_7: -7161792028004076346
+      Player_Fishing_8: 4068117469187521538
+      Player_Fishing_9: 1892156639219665007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

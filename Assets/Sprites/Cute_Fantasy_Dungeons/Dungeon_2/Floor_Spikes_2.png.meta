@@ -934,7 +934,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floor_Spikes_2_0: -2977251273653866797
+      Floor_Spikes_2_1: 8683659118421113009
+      Floor_Spikes_2_10: -1557791273430157733
+      Floor_Spikes_2_11: -1873802948982578953
+      Floor_Spikes_2_12: -4609579452947643168
+      Floor_Spikes_2_13: -2230556814068693890
+      Floor_Spikes_2_14: -8115397822172985207
+      Floor_Spikes_2_15: 8202688697685806986
+      Floor_Spikes_2_16: -5904672503616663693
+      Floor_Spikes_2_17: 8754414845838814679
+      Floor_Spikes_2_18: -6518764822472607099
+      Floor_Spikes_2_19: -8789597259634254339
+      Floor_Spikes_2_2: -5582120907456409236
+      Floor_Spikes_2_20: 5936019542259820589
+      Floor_Spikes_2_21: 7343614891845907688
+      Floor_Spikes_2_22: -1271677488570742045
+      Floor_Spikes_2_23: 169188749852835195
+      Floor_Spikes_2_24: 1347044571848894313
+      Floor_Spikes_2_25: -1012649462924843494
+      Floor_Spikes_2_26: 3302251504214411967
+      Floor_Spikes_2_27: 620408107786080944
+      Floor_Spikes_2_28: 1156640569835083785
+      Floor_Spikes_2_29: 6654897873612275350
+      Floor_Spikes_2_3: 317793412978436617
+      Floor_Spikes_2_30: 8575195893027415430
+      Floor_Spikes_2_31: -199867428164203421
+      Floor_Spikes_2_32: 6474153846115219967
+      Floor_Spikes_2_4: 2486236866015700802
+      Floor_Spikes_2_5: -8769688900796695526
+      Floor_Spikes_2_6: -3510808580684768608
+      Floor_Spikes_2_7: -3710026764368247334
+      Floor_Spikes_2_8: 4934333423042716695
+      Floor_Spikes_2_9: -9119049939800143605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

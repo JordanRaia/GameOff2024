@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pole_and_Bunting_1_Anim_0: 8409889790364964063
+      Pole_and_Bunting_1_Anim_1: 8876513482971599866
+      Pole_and_Bunting_1_Anim_2: -3142253021096898424
+      Pole_and_Bunting_1_Anim_3: 6624674489167444414
+      Pole_and_Bunting_1_Anim_4: 3442738281651626150
+      Pole_and_Bunting_1_Anim_5: -233125279658248732
+      Pole_and_Bunting_1_Anim_6: -3478884672060121733
+      Pole_and_Bunting_1_Anim_7: -2626680362790780414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

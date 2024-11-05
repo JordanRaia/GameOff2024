@@ -1909,7 +1909,79 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Player_Holding_Torch_Lantern_0: 7147945757513306723
+      Player_Holding_Torch_Lantern_1: 8815419678757186851
+      Player_Holding_Torch_Lantern_10: -4988046730542502398
+      Player_Holding_Torch_Lantern_11: -9067167889523800845
+      Player_Holding_Torch_Lantern_12: -348856129715220544
+      Player_Holding_Torch_Lantern_13: 5008314042481178082
+      Player_Holding_Torch_Lantern_14: 481024939433828856
+      Player_Holding_Torch_Lantern_15: 53289278608374333
+      Player_Holding_Torch_Lantern_16: -7785644563541546560
+      Player_Holding_Torch_Lantern_17: -7268346096132698499
+      Player_Holding_Torch_Lantern_18: -1231302956218533749
+      Player_Holding_Torch_Lantern_19: -4925658445806063615
+      Player_Holding_Torch_Lantern_2: -1234049568772814699
+      Player_Holding_Torch_Lantern_20: -3756732211668861690
+      Player_Holding_Torch_Lantern_21: 6625491045619659116
+      Player_Holding_Torch_Lantern_22: 3474107395623206410
+      Player_Holding_Torch_Lantern_23: 266170978750911769
+      Player_Holding_Torch_Lantern_24: -7462400300031564007
+      Player_Holding_Torch_Lantern_25: 7372923657209251172
+      Player_Holding_Torch_Lantern_26: 6742804525861135854
+      Player_Holding_Torch_Lantern_27: -3763404730604394211
+      Player_Holding_Torch_Lantern_28: -1963382108447534826
+      Player_Holding_Torch_Lantern_29: -1352216145835712154
+      Player_Holding_Torch_Lantern_3: -5976426745999099581
+      Player_Holding_Torch_Lantern_30: 9017099885534536719
+      Player_Holding_Torch_Lantern_31: -4544742126291461970
+      Player_Holding_Torch_Lantern_32: -2754491447760848535
+      Player_Holding_Torch_Lantern_33: -205716908227618671
+      Player_Holding_Torch_Lantern_34: 8450743082475225494
+      Player_Holding_Torch_Lantern_35: -7216884940557880720
+      Player_Holding_Torch_Lantern_36: 844922490887901317
+      Player_Holding_Torch_Lantern_37: 3449742275829541316
+      Player_Holding_Torch_Lantern_38: -900567341743869869
+      Player_Holding_Torch_Lantern_39: 8499834606756015796
+      Player_Holding_Torch_Lantern_4: 1088607281504840904
+      Player_Holding_Torch_Lantern_40: 5865085754626265721
+      Player_Holding_Torch_Lantern_41: -965877683213734739
+      Player_Holding_Torch_Lantern_42: -4514979654313248064
+      Player_Holding_Torch_Lantern_43: 7343601710603935753
+      Player_Holding_Torch_Lantern_44: -3755626748007324911
+      Player_Holding_Torch_Lantern_45: -4641853727408050473
+      Player_Holding_Torch_Lantern_46: -5152364579084147756
+      Player_Holding_Torch_Lantern_47: 3947702810820302077
+      Player_Holding_Torch_Lantern_48: 4461898238935620327
+      Player_Holding_Torch_Lantern_49: 4248105689739879898
+      Player_Holding_Torch_Lantern_5: 6097031464341729686
+      Player_Holding_Torch_Lantern_50: 5530823984909746686
+      Player_Holding_Torch_Lantern_51: 3996413759438758217
+      Player_Holding_Torch_Lantern_52: 350870462787931139
+      Player_Holding_Torch_Lantern_53: 6590399614073903749
+      Player_Holding_Torch_Lantern_54: -6907162301659176934
+      Player_Holding_Torch_Lantern_55: -51098426268103264
+      Player_Holding_Torch_Lantern_56: 6766226791716988367
+      Player_Holding_Torch_Lantern_57: 9121223187398176955
+      Player_Holding_Torch_Lantern_58: 1465911811624423465
+      Player_Holding_Torch_Lantern_59: -8522773201147171765
+      Player_Holding_Torch_Lantern_6: 1455986175158802285
+      Player_Holding_Torch_Lantern_60: 480932195455424255
+      Player_Holding_Torch_Lantern_61: -557709208713555048
+      Player_Holding_Torch_Lantern_62: -4236955138726269642
+      Player_Holding_Torch_Lantern_63: -2651688054781682632
+      Player_Holding_Torch_Lantern_64: -1431612651048743247
+      Player_Holding_Torch_Lantern_65: -7209377203614186839
+      Player_Holding_Torch_Lantern_66: 6849097058835421387
+      Player_Holding_Torch_Lantern_67: 6957596875748240236
+      Player_Holding_Torch_Lantern_68: -9055146551632564838
+      Player_Holding_Torch_Lantern_69: 5505096374283177116
+      Player_Holding_Torch_Lantern_7: 4309689698855195633
+      Player_Holding_Torch_Lantern_70: -7374571707127100495
+      Player_Holding_Torch_Lantern_71: -8082883973179263657
+      Player_Holding_Torch_Lantern_8: -210617958653848127
+      Player_Holding_Torch_Lantern_9: 3133873988444654686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

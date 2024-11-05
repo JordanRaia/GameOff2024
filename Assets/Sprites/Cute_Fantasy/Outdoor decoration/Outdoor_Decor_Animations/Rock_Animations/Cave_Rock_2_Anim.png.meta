@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cave_Rock_2_Anim_0: -8447609200938644246
+      Cave_Rock_2_Anim_1: -6369424051072336947
+      Cave_Rock_2_Anim_2: -1155482651570435504
+      Cave_Rock_2_Anim_3: -513905207376371675
+      Cave_Rock_2_Anim_4: -2422473873574229094
+      Cave_Rock_2_Anim_5: 2717066054249092578
+      Cave_Rock_2_Anim_6: 3843314263853086419
+      Cave_Rock_2_Anim_7: -84026893046850056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

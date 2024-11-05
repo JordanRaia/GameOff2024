@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kapybara_LookAround_submerged_0: -8706234878761726192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

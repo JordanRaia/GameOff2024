@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flowers_3_Potted_Anim_0: -2316576529592961064
+      Flowers_3_Potted_Anim_1: 3701082019909397887
+      Flowers_3_Potted_Anim_2: 3316483919238448564
+      Flowers_3_Potted_Anim_3: 6809396827306129794
+      Flowers_3_Potted_Anim_4: -8112259359648709532
+      Flowers_3_Potted_Anim_5: -3462909668028336486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

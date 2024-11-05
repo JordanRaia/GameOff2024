@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spruce_Needle_Particle_0: 2342188860011808994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

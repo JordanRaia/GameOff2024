@@ -1834,7 +1834,76 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton_Swordman_0: -2139014974517455860
+      Skeleton_Swordman_1: -81046252240279190
+      Skeleton_Swordman_10: 303929540474173098
+      Skeleton_Swordman_11: 1749264423185140654
+      Skeleton_Swordman_12: -6726682081434484732
+      Skeleton_Swordman_13: 5018202308078946417
+      Skeleton_Swordman_14: 5763554937920330277
+      Skeleton_Swordman_15: -5420403795130654960
+      Skeleton_Swordman_16: 435645334167733957
+      Skeleton_Swordman_17: 1586505396914933798
+      Skeleton_Swordman_18: 3912347365134502067
+      Skeleton_Swordman_19: -6487511258568549572
+      Skeleton_Swordman_2: -5508398646141748056
+      Skeleton_Swordman_20: -9080490242317514627
+      Skeleton_Swordman_21: 7187269288992836639
+      Skeleton_Swordman_22: 3129681026420102672
+      Skeleton_Swordman_23: 6045581567832326467
+      Skeleton_Swordman_24: 8693618221358165682
+      Skeleton_Swordman_25: 4898933219121613198
+      Skeleton_Swordman_26: 4134222529605250073
+      Skeleton_Swordman_27: 3121168825195161488
+      Skeleton_Swordman_28: -6306511445404187630
+      Skeleton_Swordman_29: -7554902761152065676
+      Skeleton_Swordman_3: -7390707598913306724
+      Skeleton_Swordman_30: -507506257024524990
+      Skeleton_Swordman_31: 3440867777906029166
+      Skeleton_Swordman_32: -7666922797052602666
+      Skeleton_Swordman_33: 8436134155033038065
+      Skeleton_Swordman_34: -8034280353865871046
+      Skeleton_Swordman_35: -4097465321999510321
+      Skeleton_Swordman_36: -6263961605685586323
+      Skeleton_Swordman_37: -7020367248093138695
+      Skeleton_Swordman_38: 5043297736964054810
+      Skeleton_Swordman_39: -6803479749589313979
+      Skeleton_Swordman_4: 2003821801105998304
+      Skeleton_Swordman_40: 926649707102735104
+      Skeleton_Swordman_41: -5513269284301065931
+      Skeleton_Swordman_42: -725851062426542675
+      Skeleton_Swordman_43: -3641595416677297295
+      Skeleton_Swordman_44: 687317608937465970
+      Skeleton_Swordman_45: -4544740508275763760
+      Skeleton_Swordman_46: -3607424936148896810
+      Skeleton_Swordman_47: -4515850417510446775
+      Skeleton_Swordman_48: -3804941544841085904
+      Skeleton_Swordman_49: -5375895419859368945
+      Skeleton_Swordman_5: 5997724125877388095
+      Skeleton_Swordman_50: 2687938503861104269
+      Skeleton_Swordman_51: 4187201569251180807
+      Skeleton_Swordman_52: -7756005030352062900
+      Skeleton_Swordman_53: -7634739805763892249
+      Skeleton_Swordman_54: 4669138721655578069
+      Skeleton_Swordman_55: 5929257611668620584
+      Skeleton_Swordman_56: -5288251305638283293
+      Skeleton_Swordman_57: 8437705398518497435
+      Skeleton_Swordman_58: 6872707372800579156
+      Skeleton_Swordman_59: 8304072122565537678
+      Skeleton_Swordman_6: 6173503411186958253
+      Skeleton_Swordman_60: 2739187994735623694
+      Skeleton_Swordman_61: 1712406973619080984
+      Skeleton_Swordman_62: 1912853545899989980
+      Skeleton_Swordman_63: 8848490522443478762
+      Skeleton_Swordman_64: -1333153846373734926
+      Skeleton_Swordman_65: -172421028896084785
+      Skeleton_Swordman_66: 831231711611584342
+      Skeleton_Swordman_67: 2239677846191183163
+      Skeleton_Swordman_68: -1987950471551108085
+      Skeleton_Swordman_7: 2800561364631814297
+      Skeleton_Swordman_8: -6990614744270310997
+      Skeleton_Swordman_9: 8223320726261094546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
