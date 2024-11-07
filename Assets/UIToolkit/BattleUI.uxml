@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIToolkit/stylesheets/Stylesheet.uss?fileID=7433441132597879392&amp;guid=8eed9d5abafd75c4da1855f0893f2056&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="flex-grow: 1; align-content: center; justify-content: flex-end; align-items: center; align-self: auto; margin-left: 10px; border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;">
+        <ui:VisualElement name="Box" style="flex-grow: 0; flex-basis: 20%; flex-direction: row; width: 90%; -unity-text-outline-width: 0; -unity-text-outline-color: rgba(0, 0, 0, 0); border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; background-color: rgb(255, 255, 255);" />
+        <ui:VisualElement name="StatsRow" style="flex-grow: 0; flex-basis: 5%; width: 100%; flex-direction: row; margin-top: 10px;">
+            <ui:Label text="Name&#10;" name="Name" style="font-size: 36px; width: 10%; -unity-text-align: middle-left; margin-left: 20px;" />
+            <ui:Label text="LV 1&#10;" style="font-size: 36px; -unity-text-align: middle-left; width: 10%; margin-left: 20px;" />
+            <ui:VisualElement style="flex-grow: 1; flex-direction: row; align-items: center; justify-content: center;">
+                <ui:Label text="HP 20/20" style="font-size: 36px; -unity-text-align: middle-left; flex-grow: 0; justify-content: flex-start; flex-direction: column;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="ButtonRow" style="flex-grow: 0; flex-basis: 10%; align-items: center; justify-content: space-evenly; flex-direction: row; bottom: auto; width: 100%;">
+            <ui:Button text="Fight" name="ButtonFight" class="button" />
+            <ui:Button text="Act" name="ButtonAct" class="button" />
+            <ui:Button text="Item" name="ButtonItem" class="button" />
+            <ui:Button text="Mercy" name="ButtonMercy" class="button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
