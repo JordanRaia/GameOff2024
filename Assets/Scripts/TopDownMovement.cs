@@ -18,6 +18,8 @@ public class TopDownMovement : MonoBehaviour
     private Vector2 moveInput;
     private bool controlsEnabled = true; // Controls enabled by default
 
+    public static TopDownMovement Instance; // Singleton instance
+
     void Awake()
     {
         // Singleton setup
@@ -38,7 +40,14 @@ public class TopDownMovement : MonoBehaviour
 
     void Update()
     {
-        playerMovement();
+        if (controlsEnabled)
+        {
+            playerMovement();
+        }
+        else
+        {
+            moveInput = Vector2.zero;
+        }
     }
     void FixedUpdate()
     {
@@ -59,20 +68,20 @@ public class TopDownMovement : MonoBehaviour
             currentSpeed = moveSpeed * 1.5f;
             currentStamina -= (staminaDecay * Time.deltaTime);
         }
-         else if (currentStamina == 0 && Input.GetKey(KeyCode.LeftShift))
+        else if (currentStamina == 0 && Input.GetKey(KeyCode.LeftShift))
         {
             currentSpeed = moveSpeed;
             regenTimer = regenDelay;
-        } 
+        }
         else
         {
             currentSpeed = moveSpeed;
 
             if (regenTimer > 0)
-            regenTimer -= Time.deltaTime;
+                regenTimer -= Time.deltaTime;
             else
-            currentStamina += staminaRegen * Time.deltaTime;
-                
+                currentStamina += staminaRegen * Time.deltaTime;
+
         }
 
         updateStaminaUI();
@@ -81,7 +90,19 @@ public class TopDownMovement : MonoBehaviour
     private void updateStaminaUI()
     {
         float percentage = Mathf.Clamp01(currentStamina / maxStamina);
-        int stageIndex = Mathf.Clamp(Mathf.FloorToInt(percentage * (staminaStages.Length - 1)), 0, staminaStages.Length -1);
+        int stageIndex = Mathf.Clamp(Mathf.FloorToInt(percentage * (staminaStages.Length - 1)), 0, staminaStages.Length - 1);
         staminaBarImage.sprite = staminaStages[stageIndex];
+    }
+
+    // Method to disable controls
+    public void DisableControls()
+    {
+        controlsEnabled = false;
+    }
+
+    // Method to enable controls
+    public void EnableControls()
+    {
+        controlsEnabled = true;
     }
 }
