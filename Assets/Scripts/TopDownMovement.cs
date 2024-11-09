@@ -16,14 +16,26 @@ public class TopDownMovement : MonoBehaviour
     public Sprite[] staminaStages;
     private Rigidbody2D rb2d;
     private Vector2 moveInput;
+    private bool controlsEnabled = true; // Controls enabled by default
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Awake()
+    {
+        // Singleton setup
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         playerMovement();
