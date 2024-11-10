@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1abcc96804a7374982414e01235a42e, type: 3}
+  m_Name: StarterWeapon
+  m_EditorClassIdentifier: 
+  itemName: Small Dagger
+  itemType: 1
+  damage: 3
+  sprite: {fileID: 2601603839896418933, guid: 21805e50c0bda7a4ea1a2c03b6d34ada, type: 3}

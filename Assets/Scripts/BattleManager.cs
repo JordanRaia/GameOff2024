@@ -12,24 +12,45 @@ public enum BattleState
 
 public class BattleManager : MonoBehaviour
 {
-    private Button fightButton;
-    private Button actButton;
-    private Button itemButton;
-    private Button mercyButton;
-    private Label boxText;
-    private VisualElement dialogueBox;
-    private VisualElement itemsPage;
-    private VisualElement actPage;
-    private VisualElement enemyPage;
+    //--- Serialized Fields (UI and Prefabs) ---
+    [Header("UI and Prefabs")]
+    [SerializeField] private GameObject linePrefab; // Reference to the line prefab
+    [SerializeField] private BoxScaler boxScaler;   // Reference to the BoxScaler component
+    [SerializeField] private Sprite radiantSprite;  // Sprite to display in the box for a radiant effect
 
-    public BattleItemUI battleItemUI;
-    public BattleActUI battleActUI;
-    public BattleEnemiesUI battleEnemyUI;
+    //--- UI Elements (Buttons and Pages) ---
+    [Header("UI Elements")]
+    private Button fightButton;     // Button for Fight action
+    private Button actButton;       // Button for Act action
+    private Button itemButton;      // Button for Item action
+    private Button mercyButton;     // Button for Mercy action
+    private Label boxText;          // Label for dialogue or text display in the box
+    private VisualElement dialogueBox; // Main dialogue box
+    private VisualElement itemsPage;   // Visual element for item display page
+    private VisualElement actPage;     // Visual element for act options page
+    private VisualElement enemyPage;   // Visual element for enemy selection page
 
-    public PlayerInventory playerInventory;
-    public List<BattleEnemy> enemies;
+    //--- UI Management Scripts ---
+    [Header("UI Management Scripts")]
+    private BattleItemUI battleItemUI;  // UI component for displaying items
+    private BattleActUI battleActUI;    // UI component for displaying act options
+    private BattleEnemiesUI battleEnemyUI; // UI component for displaying enemies
 
-    private BattleState state;
+    //--- Game Data (Player and Enemies) ---
+    [Header("Game Data")]
+    public Player player;              // Reference to the player object
+    public List<BattleEnemy> enemies;  // List of enemies in the battle
+
+    //--- Battle State Management ---
+    [Header("Battle State Management")]
+    private BattleState state;         // Current state of the battle
+    public static BattleManager Instance; // Singleton instance for easy access
+
+    //--- Unity Lifecycle Methods ---
+    void Awake()
+    {
+        Instance = this; // Initialize singleton instance
+    }
 
     void Start()
     {
@@ -49,22 +70,14 @@ public class BattleManager : MonoBehaviour
         itemButton.clicked += OnItemButton;
         mercyButton.clicked += OnMercyButton;
 
-        //temp
-        playerInventory = ScriptableObject.CreateInstance<PlayerInventory>();
-        AddInventoryItems();
-
-        //temp
-        enemies = new List<BattleEnemy>();
-        SetupTestEnemy();
-
         // Initialize BattleItemUI and update items
         battleItemUI = GetComponent<BattleItemUI>();
-        battleItemUI.UpdateItems(playerInventory.healthItems);
+        battleItemUI.UpdateItems(player.GetItemsByType(ItemType.Health));
 
         List<ActOption> actOptions = new List<ActOption>();
         foreach (var enemy in enemies)
         {
-            actOptions.AddRange(enemy.actOptions);
+            actOptions.AddRange(enemy.ActOptions);
         }
 
         battleActUI = GetComponent<BattleActUI>();
@@ -75,65 +88,6 @@ public class BattleManager : MonoBehaviour
 
         state = BattleState.Start;
         SetupBattle();
-    }
-
-    private void SetupTestEnemy()
-    {
-        BattleEnemy enemy = ScriptableObject.CreateInstance<BattleEnemy>();
-
-        enemy.enemyName = "Test Enemy";
-        enemy.startingDialogue.Add("Test Enemy: I am a test enemy.");
-        enemy.startingDialogue.Add("Test Enemy: I am here to test your skills.");
-        enemy.startingDialogue.Add("Test Enemy: Prepare yourself!");
-
-        ActOption actOption1 = ScriptableObject.CreateInstance<ActOption>();
-        actOption1.Act = "Act 1";
-        actOption1.responses.Add("Response 1");
-        actOption1.responses.Add("Response 2");
-        actOption1.responses.Add("Response 3");
-
-        ActOption actOption2 = ScriptableObject.CreateInstance<ActOption>();
-        actOption2.Act = "Act 2";
-        actOption2.responses.Add("Response 1");
-        actOption2.responses.Add("Response 2");
-        actOption2.responses.Add("Response 3");
-
-        enemy.actOptions.Add(actOption1);
-        enemy.actOptions.Add(actOption2);
-
-        enemies.Add(enemy);
-    }
-
-    //temp
-    private void AddInventoryItems()
-    {
-        // Create and add 10 unique health items
-        HealthItem[] healthItems = new HealthItem[10];
-
-        healthItems[0] = CreateHealthItem("Small Health Potion", 10);
-        healthItems[1] = CreateHealthItem("Medium Health Potion", 20);
-        healthItems[2] = CreateHealthItem("Large Health Potion", 30);
-        healthItems[3] = CreateHealthItem("Super Health Potion", 40);
-        healthItems[4] = CreateHealthItem("Mega Health Potion", 50);
-        healthItems[5] = CreateHealthItem("Ultra Health Potion", 60);
-        healthItems[6] = CreateHealthItem("Hyper Health Potion", 70);
-        healthItems[7] = CreateHealthItem("Ultimate Health Potion", 80);
-        healthItems[8] = CreateHealthItem("Legendary Health Potion", 90);
-        healthItems[9] = CreateHealthItem("Mythical Health Potion", 100);
-
-        foreach (var item in healthItems)
-        {
-            playerInventory.healthItems.Add(item);
-        }
-    }
-
-    //temp
-    HealthItem CreateHealthItem(string name, int healAmount)
-    {
-        HealthItem healthItem = ScriptableObject.CreateInstance<HealthItem>();
-        healthItem.itemName = name;
-        healthItem.healAmount = healAmount;
-        return healthItem;
     }
 
     void SetupBattle()
@@ -182,6 +136,28 @@ public class BattleManager : MonoBehaviour
     void EnemyTurn()
     {
         // Implement Enemy turn logic
+    }
+
+    public void OnEnemySelected()
+    {
+        ClearBox(); // Clear box content
+
+        //change box sprite to radiant
+        boxScaler.SetSprite(radiantSprite); // Set the new sprite
+
+        // Spawn the Line from the prefab
+        GameObject lineObject = Instantiate(linePrefab);
+        LinePositionTracker lineTracker = lineObject.GetComponent<LinePositionTracker>();
+        lineTracker.OnLineCoroutineComplete += SwitchToEnemyTurn; // Listen for coroutine completion
+    }
+
+    private void SwitchToEnemyTurn()
+    {
+        // set box sprite to none
+        boxScaler.SetSprite(null);
+
+        state = BattleState.EnemyTurn;
+        EnemyTurn();
     }
 
     void ClearBox()

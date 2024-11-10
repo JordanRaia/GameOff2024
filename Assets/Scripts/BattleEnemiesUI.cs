@@ -12,7 +12,7 @@ public class BattleEnemiesUI : MonoBehaviour
     private int itemsPerPage = 6;
     private int currentPage = 0;
 
-    void Start()
+    void Awake()
     {
         var root = GetComponent<UIDocument>().rootVisualElement;
 
@@ -36,7 +36,7 @@ public class BattleEnemiesUI : MonoBehaviour
         for (int i = start; i < end; i++)
         {
             Button itemButton = new Button();
-            itemButton.text = battleEnemies[i].enemyName;
+            itemButton.text = battleEnemies[i].EnemyName;
             itemButton.AddToClassList("itemButton");
 
             int index = i;
@@ -57,7 +57,8 @@ public class BattleEnemiesUI : MonoBehaviour
 
     void OnItemClicked(int index)
     {
-        Debug.Log("Clicked on " + battleEnemies[index].enemyName);
+        Debug.Log("Clicked on " + battleEnemies[index].EnemyName);
+        BattleManager.Instance.OnEnemySelected(); // Notify the BattleManager of enemy selection
     }
 
     void NextPage()

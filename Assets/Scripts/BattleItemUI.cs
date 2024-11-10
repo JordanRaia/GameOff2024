@@ -4,7 +4,7 @@ using UnityEngine.UIElements;
 
 public class BattleItemUI : MonoBehaviour
 {
-    public List<HealthItem> healthItems;
+    public List<Item> healthItems;
     private VisualElement container; // The UI container for buttons
     private Button nextPageButton;
     private Button previousPageButton;
@@ -12,7 +12,7 @@ public class BattleItemUI : MonoBehaviour
     private int itemsPerPage = 6;
     private int currentPage = 0;
 
-    void Start()
+    void Awake()
     {
         var root = GetComponent<UIDocument>().rootVisualElement;
 
@@ -36,7 +36,7 @@ public class BattleItemUI : MonoBehaviour
         for (int i = start; i < end; i++)
         {
             Button itemButton = new Button();
-            itemButton.text = healthItems[i].itemName;
+            itemButton.text = healthItems[i].ItemName;
             itemButton.AddToClassList("itemButton");
 
             int index = i;
@@ -49,7 +49,7 @@ public class BattleItemUI : MonoBehaviour
         nextPageButton.SetEnabled(end < healthItems.Count);
     }
 
-    public void UpdateItems(List<HealthItem> Items)
+    public void UpdateItems(List<Item> Items)
     {
         healthItems = Items;
         UpdateUI();
@@ -57,7 +57,7 @@ public class BattleItemUI : MonoBehaviour
 
     void OnItemClicked(int index)
     {
-        Debug.Log("Clicked on " + healthItems[index].itemName);
+        Debug.Log("Clicked on " + healthItems[index].ItemName);
     }
 
     void NextPage()

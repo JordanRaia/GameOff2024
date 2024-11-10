@@ -12,7 +12,7 @@ public class BattleActUI : MonoBehaviour
     private int itemsPerPage = 6;
     private int currentPage = 0;
 
-    void Start()
+    void Awake()
     {
         var root = GetComponent<UIDocument>().rootVisualElement;
 
