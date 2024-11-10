@@ -35,10 +35,10 @@ public class DialogueManager : MonoBehaviour
     void Update()
     {
         // Check for Space or Enter only if the continueButton is active
-        if (continueButton.gameObject.activeSelf && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return)))
-        {
-            OnContinueSelected();
-        }
+        //if (continueButton.gameObject.activeSelf && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return)))
+        //{
+        //    OnContinueSelected();
+        //}
     }
 
     public void StartDialogue(Dialogue dialogue)
