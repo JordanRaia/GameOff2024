@@ -8,3 +8,20 @@
     font-size: 36px;
     flex-grow: 1;
 }
+
+.itemButton {
+    width: 33.33%;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 36px;
+    height: 50%;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    max-width: 33.33%;
+}

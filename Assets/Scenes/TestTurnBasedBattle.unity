@@ -346,6 +346,9 @@ GameObject:
   - component: {fileID: 1998233935}
   - component: {fileID: 1998233934}
   - component: {fileID: 1998233936}
+  - component: {fileID: 1998233937}
+  - component: {fileID: 1998233938}
+  - component: {fileID: 1998233939}
   m_Layer: 5
   m_Name: BattleUI
   m_TagString: Untagged
@@ -399,6 +402,50 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7a534ffcbe617a478aaf35cdf4bd853, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  battleItemUI: {fileID: 0}
+  battleActUI: {fileID: 0}
+  battleEnemyUI: {fileID: 0}
+  playerInventory: {fileID: 0}
+  enemies: []
+--- !u!114 &1998233937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998233933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19935be639a928045bcd5918cf7f615e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthItems: []
+--- !u!114 &1998233938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998233933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5d38a0ae958084f9fc76ff02ed74aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actOptions: []
+--- !u!114 &1998233939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998233933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8bc6692ca40e90429521f6355c52da7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battleEnemies: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
