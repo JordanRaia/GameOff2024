@@ -118,13 +118,42 @@ public class BattleManager : MonoBehaviour
         }
     }
 
+    IEnumerator TypeText(string text, float speed)
+    {
+        boxText.text = ""; // Clear the text initially
+        boxText.style.display = DisplayStyle.Flex;
+
+        foreach (char letter in text.ToCharArray())
+        {
+            boxText.text += letter; // Add one character at a time
+            yield return new WaitForSeconds(speed); // Wait for the specified speed interval
+        }
+
+        yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
+    }
+
+    IEnumerator TypeEnemyText(TextMeshPro textComponent, string text, float speed)
+    {
+        textComponent.text = ""; // Clear the enemy bubble text
+        textComponent.gameObject.SetActive(true); // Make sure the text bubble is visible
+
+        foreach (char letter in text.ToCharArray())
+        {
+            textComponent.text += letter; // Add one character at a time to the enemy's text bubble
+            yield return new WaitForSeconds(speed); // Wait for the specified speed interval
+        }
+
+        yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
+    }
+
     //narrator coroutine
     IEnumerator ShowNarratorLines(List<string> lines)
     {
         foreach (var line in lines)
         {
-            boxText.text = line;
-            yield return new WaitForSeconds(2.0f);
+            // start coroutine to type out the line
+            yield return StartCoroutine(TypeText(line, 0.05f));
+            // yield return new WaitForSeconds(2.0f); //TODO change back to 2.0f
         }
 
         boxText.style.display = DisplayStyle.None;
@@ -142,8 +171,9 @@ public class BattleManager : MonoBehaviour
             foreach (var line in enemies[0].StartingDialogue)
             {
                 //change text bubble text to line
-                textComponent.text = line;
-                yield return new WaitForSeconds(2.0f);
+                // start coroutine to type out the line
+                yield return StartCoroutine(TypeEnemyText(textComponent, line, 0.05f));
+                // yield return new WaitForSeconds(2.0f); //TODO Change back to 2.0f
             }
 
             bubbleTransform.gameObject.SetActive(false);

@@ -282,6 +282,7 @@ MonoBehaviour:
   leftBorder: {fileID: 1307665008}
   rightBorder: {fileID: 1320132534}
   borderThicknessPixels: 5
+  resizeDuration: 0.5
 --- !u!212 &1203273802
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -922,8 +923,6 @@ MonoBehaviour:
   enemyScale: 6
   player: {fileID: 11400000, guid: c24da6029609d634d97f358318e0d887, type: 2}
   enemies:
-  - {fileID: 11400000, guid: 853bb890b35f64042a6532bd9b306202, type: 2}
-  - {fileID: 11400000, guid: 853bb890b35f64042a6532bd9b306202, type: 2}
   - {fileID: 11400000, guid: 853bb890b35f64042a6532bd9b306202, type: 2}
 --- !u!114 &1998233937
 MonoBehaviour:

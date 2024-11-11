@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class BoxScaler : MonoBehaviour
 {
@@ -8,6 +9,9 @@ public class BoxScaler : MonoBehaviour
     [SerializeField] private SpriteRenderer spriteRenderer; // Reference to the SpriteRenderer
     [SerializeField] private GameObject topBorder, bottomBorder, leftBorder, rightBorder; // Border GameObjects
     [SerializeField] private float borderThicknessPixels = 5f; // Desired border thickness in pixels
+    [SerializeField] private float resizeDuration = 0.5f; // Duration of the resizing animation
+
+    private Coroutine resizeCoroutine; // Reference to the resize coroutine
 
     void Start()
     {
@@ -69,10 +73,32 @@ public class BoxScaler : MonoBehaviour
 
     public void ResizeBox(float newWidthPercentage, float newHeightPercentage)
     {
-        SetWidthPercentage(newWidthPercentage);
-        SetHeightPercentage(newHeightPercentage);
+        if (resizeCoroutine != null)
+            StopCoroutine(resizeCoroutine);
+
+        resizeCoroutine = StartCoroutine(GradualResize(newWidthPercentage, newHeightPercentage));
+    }
+
+    private IEnumerator GradualResize(float targetWidthPercentage, float targetHeightPercentage)
+    {
+        float startWidth = widthPercentage;
+        float startHeight = heightPercentage;
+        float elapsedTime = 0f;
+
+        while (elapsedTime < resizeDuration)
+        {
+            elapsedTime += Time.deltaTime;
+            widthPercentage = Mathf.Lerp(startWidth, targetWidthPercentage, elapsedTime / resizeDuration);
+            heightPercentage = Mathf.Lerp(startHeight, targetHeightPercentage, elapsedTime / resizeDuration);
+
+            ScaleAndPositionBoxZone();
+            yield return null;
+        }
+
+        // Ensure final values are set exactly to target percentages
+        widthPercentage = targetWidthPercentage;
+        heightPercentage = targetHeightPercentage;
         ScaleAndPositionBoxZone();
-        //SetYOffsetPercentage(newYOffsetPercentage);
     }
 
     private void AdjustBorders(float boxWidth, float boxHeight)
