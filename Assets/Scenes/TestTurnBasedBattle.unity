@@ -181,7 +181,7 @@ Transform:
   m_GameObject: {fileID: 1153319474}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.999234, y: 0.9198059, z: -0.0122568}
+  m_LocalPosition: {x: 13.42, y: 0.9198059, z: -0.0122568}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -395,7 +395,7 @@ Transform:
   m_GameObject: {fileID: 1307665008}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.999234, y: 0.9198059, z: -0.0122568}
+  m_LocalPosition: {x: 13.42, y: 0.9198059, z: -0.0122568}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -482,7 +482,7 @@ Transform:
   m_GameObject: {fileID: 1320132534}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.999234, y: 0.9198059, z: -0.0122568}
+  m_LocalPosition: {x: 13.42, y: 0.9198059, z: -0.0122568}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -648,7 +648,7 @@ Transform:
   m_GameObject: {fileID: 1964579858}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.999234, y: 0.9198059, z: -0.0122568}
+  m_LocalPosition: {x: 13.42, y: 0.9198059, z: -0.0122568}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -918,10 +918,8 @@ MonoBehaviour:
   radiantSprite: {fileID: 21300000, guid: a3e1b8e31cf6c4f4b811c772c69c80f3, type: 3}
   enemyPrefab: {fileID: 4646318365759469726, guid: 43ce621efaa2582459d98510b343f07a, type: 3}
   spawnAreaWidth: 18
-  spawnAreaHeight: 2
   yOffset: 2
   enemyScale: 6
-  enemySpacing: 4
   player: {fileID: 11400000, guid: c24da6029609d634d97f358318e0d887, type: 2}
   enemies:
   - {fileID: 11400000, guid: 853bb890b35f64042a6532bd9b306202, type: 2}
