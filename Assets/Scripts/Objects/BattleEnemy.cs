@@ -11,7 +11,10 @@ public class BattleEnemy : ScriptableObject
 
     // Dialogue and Interactions
     [Header("Dialogue and Interaction")]
+    [SerializeField] private List<string> narratorDialogue = new List<string>();  // Narrator dialogue lines for the enemy
     [SerializeField] private List<string> startingDialogue = new List<string>();  // Initial dialogue lines the enemy might say
+    [SerializeField] private string defaultLine = "";       // Dialogue lines for the "Act" phase of battle
+    [SerializeField] private float dialogueSpeed = 0.05f;         // Speed at which dialogue is displayed
     [SerializeField] private List<ActOption> actOptions = new List<ActOption>();  // List of options available in "Act" phase of battle
 
     // Enemy Stats
@@ -31,6 +34,9 @@ public class BattleEnemy : ScriptableObject
     public string EnemyName => enemyName;
     public Sprite EnemySprite => enemySprite;
     public List<string> StartingDialogue => startingDialogue;
+    public float DialogueSpeed => dialogueSpeed;
+    public List<string> NarratorDialogue => narratorDialogue;
+    public string DefaultLine => defaultLine;
     public List<ActOption> ActOptions => actOptions;
     public int MaxHealth => maxHealth;
     public int CurrentHealth { get => currentHealth; set => currentHealth = value; }

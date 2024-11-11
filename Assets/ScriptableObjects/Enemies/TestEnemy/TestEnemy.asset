@@ -14,10 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyName: Test Enemy
   enemySprite: {fileID: -4025117895773574950, guid: 958c9bb6a1f5c194a82817f7f23e60c1, type: 3}
+  narratorDialogue:
+  - (A strange light fills the room.)
+  - (Twilight is shining through the barrier.)
+  - (It seems your journey is finally over.)
+  - (You're filled with DETERMINATION.)
   startingDialogue:
   - Hello this is a test
   - I am a very boring enemy but I hope this is all working right
   - Let's begin
+  defaultLine: ...
+  dialogueSpeed: 0.05
   actOptions:
   - {fileID: 11400000, guid: ba1d753ef3bd13241a7d02188d32aea5, type: 2}
   - {fileID: 11400000, guid: 4e98eae77cc9f4b49990926f107b2d3c, type: 2}

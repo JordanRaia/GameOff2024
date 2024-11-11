@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.UIElements;
 using System.Collections.Generic;
+using System.Collections;
+using TMPro;
 
 public enum BattleState
 {
@@ -17,6 +19,7 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private GameObject linePrefab; // Reference to the line prefab
     [SerializeField] private BoxScaler boxScaler;   // Reference to the BoxScaler component
     [SerializeField] private Sprite radiantSprite;  // Sprite to display in the box for a radiant effect
+    [SerializeField] private GameObject enemyPrefab; // Reference to the enemy prefab
 
     //--- UI Elements (Buttons and Pages) ---
     [Header("UI Elements")]
@@ -30,6 +33,15 @@ public class BattleManager : MonoBehaviour
     private VisualElement actPage;     // Visual element for act options page
     private VisualElement enemyPage;   // Visual element for enemy selection page
 
+    [Header("Enemy Spawn Settings")]
+    [SerializeField] private float spawnAreaWidth = 10.0f; // Total width for enemy spawn area
+    //[SerializeField] private float spawnAreaHeight = 2.0f; // Optional: height, if needed for vertical spacing
+    [SerializeField] private float yOffset = 2.0f; // Vertical offset from the center for positioning
+
+    [SerializeField] private float enemyScale = 6.0f;   // Desired scale for enemies
+    //[SerializeField] private float enemySpacing = 2.0f; // Desired spacing between enemies
+
+
     //--- UI Management Scripts ---
     [Header("UI Management Scripts")]
     private BattleItemUI battleItemUI;  // UI component for displaying items
@@ -40,6 +52,7 @@ public class BattleManager : MonoBehaviour
     [Header("Game Data")]
     public Player player;              // Reference to the player object
     public List<BattleEnemy> enemies;  // List of enemies in the battle
+    private List<GameObject> instantiatedEnemies = new List<GameObject>(); // List to store instantiated enemy objects
 
     //--- Battle State Management ---
     [Header("Battle State Management")]
@@ -70,6 +83,9 @@ public class BattleManager : MonoBehaviour
         itemButton.clicked += OnItemButton;
         mercyButton.clicked += OnMercyButton;
 
+        // Spawn enemies
+        LayoutEnemies(); // Layout the enemies in the battle scene
+
         // Initialize BattleItemUI and update items
         battleItemUI = GetComponent<BattleItemUI>();
         battleItemUI.UpdateItems(player.GetItemsByType(ItemType.Health));
@@ -87,7 +103,88 @@ public class BattleManager : MonoBehaviour
         battleEnemyUI.UpdateItems(enemies);
 
         state = BattleState.Start;
+
+        // if the enemy has narrator lines
+        if (enemies[0].NarratorDialogue.Count > 0)
+        {
+            boxText.style.display = DisplayStyle.Flex;
+            // start coroutine to display the narrator lines
+            StartCoroutine(ShowNarratorLines(enemies[0].NarratorDialogue));
+        }
+        else
+        {
+            SetupBattle();
+        }
+    }
+
+    //narrator coroutine
+    IEnumerator ShowNarratorLines(List<string> lines)
+    {
+        foreach (var line in lines)
+        {
+            boxText.text = line;
+            yield return new WaitForSeconds(2.0f);
+        }
+
+        boxText.style.display = DisplayStyle.None;
+
+        if (enemies[0].StartingDialogue.Count > 0)
+        {
+            GameObject enemyObject = instantiatedEnemies[0]; // Get the first enemy instance
+            Transform bubbleTransform = enemyObject.transform.Find("Bubble");
+            Transform textTransform = bubbleTransform.Find("Text");
+            TextMeshPro textComponent = textTransform.GetComponent<TextMeshPro>();
+
+            // show enemy prefab text bubble
+            bubbleTransform.gameObject.SetActive(true);
+
+            foreach (var line in enemies[0].StartingDialogue)
+            {
+                //change text bubble text to line
+                textComponent.text = line;
+                yield return new WaitForSeconds(2.0f);
+            }
+
+            bubbleTransform.gameObject.SetActive(false);
+            textComponent.text = ""; // Clear the text
+        }
+
+        ClearBox();
         SetupBattle();
+    }
+
+    void LayoutEnemies()
+    {
+        int enemyCount = enemies.Count;
+        if (enemyCount == 0) return;
+
+        // Clear the list in case LayoutEnemies() is called again
+        instantiatedEnemies.Clear();
+
+        // Calculate spacing similar to justify-content-around
+        float totalSpacing = spawnAreaWidth - (enemyCount * enemyScale);
+        float spacingBetweenEnemies = totalSpacing / (enemyCount + 1);
+
+        // Start at the leftmost point of the spawn area
+        float startX = -(spawnAreaWidth / 2) + spacingBetweenEnemies + (enemyScale / 2);
+
+        for (int i = 0; i < enemyCount; i++)
+        {
+            // Instantiate each enemy
+            GameObject enemyObject = Instantiate(enemyPrefab);
+            enemyObject.transform.localScale = Vector3.one * enemyScale; // Scale each enemy
+
+            // Position each enemy with equal spacing across the spawn area
+            float positionX = startX + i * (enemyScale + spacingBetweenEnemies);
+            enemyObject.transform.position = new Vector3(positionX, yOffset, 0);
+
+            // Assign data to the enemy
+            EnemyController enemyController = enemyObject.GetComponent<EnemyController>();
+            enemyController.SetEnemyData(enemies[i]);
+
+            // Add the instantiated enemy to the list
+            instantiatedEnemies.Add(enemyObject);
+        }
     }
 
     void SetupBattle()
@@ -165,5 +262,6 @@ public class BattleManager : MonoBehaviour
         itemsPage.style.display = DisplayStyle.None;
         actPage.style.display = DisplayStyle.None;
         enemyPage.style.display = DisplayStyle.None;
+        boxText.style.display = DisplayStyle.None;
     }
 }
