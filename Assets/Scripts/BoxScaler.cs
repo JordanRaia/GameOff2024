@@ -67,6 +67,14 @@ public class BoxScaler : MonoBehaviour
         AdjustBorders(targetWidth, targetHeight);
     }
 
+    public void ResizeBox(float newWidthPercentage, float newHeightPercentage)
+    {
+        SetWidthPercentage(newWidthPercentage);
+        SetHeightPercentage(newHeightPercentage);
+        ScaleAndPositionBoxZone();
+        //SetYOffsetPercentage(newYOffsetPercentage);
+    }
+
     private void AdjustBorders(float boxWidth, float boxHeight)
     {
         // Convert border thickness from pixels to world units

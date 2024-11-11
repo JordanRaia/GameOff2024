@@ -53,6 +53,7 @@ public class BattleManager : MonoBehaviour
     public Player player;              // Reference to the player object
     public List<BattleEnemy> enemies;  // List of enemies in the battle
     private List<GameObject> instantiatedEnemies = new List<GameObject>(); // List to store instantiated enemy objects
+    private int selectedEnemyIndex = -1; // Index of the selected enemy
 
     //--- Battle State Management ---
     [Header("Battle State Management")]
@@ -191,7 +192,14 @@ public class BattleManager : MonoBehaviour
     {
         // Start the battle
         state = BattleState.PlayerTurn;
+        DefaultLine();
         PlayerTurn();
+    }
+
+    void DefaultLine()
+    {
+        boxText.style.display = DisplayStyle.Flex;
+        boxText.text = enemies[0].DefaultLine;
     }
 
     void PlayerTurn()
@@ -232,11 +240,36 @@ public class BattleManager : MonoBehaviour
 
     void EnemyTurn()
     {
-        // Implement Enemy turn logic
+        // set box sprite to none
+        boxScaler.SetSprite(null);
+
+        // TODO resize box, make it change gradually
+        boxScaler.ResizeBox(0.25f, 0.25f);
+
+        // TODO Put Player prefab in middle of box
+
+
+        // start bullet hell sequence        
+        StartCoroutine(EnemyAttack());
+
     }
 
-    public void OnEnemySelected()
+    IEnumerator EnemyAttack()
     {
+        // Implement enemy attack logic
+        // TODO Bullet Hell Sequence
+        yield return new WaitForSeconds(2.0f);
+
+
+        // For now, just switch back to player turn
+        state = BattleState.PlayerTurn;
+        PlayerTurn();
+    }
+
+
+    public void OnEnemySelected(int index)
+    {
+        selectedEnemyIndex = index;
         ClearBox(); // Clear box content
 
         //change box sprite to radiant
@@ -245,14 +278,41 @@ public class BattleManager : MonoBehaviour
         // Spawn the Line from the prefab
         GameObject lineObject = Instantiate(linePrefab);
         LinePositionTracker lineTracker = lineObject.GetComponent<LinePositionTracker>();
+
         lineTracker.OnLineCoroutineComplete += SwitchToEnemyTurn; // Listen for coroutine completion
+    }
+
+    public void OnAttackCompleted(float percentage)
+    {
+        if (state != BattleState.PlayerTurn) return;
+
+        if (selectedEnemyIndex >= 0 && selectedEnemyIndex < instantiatedEnemies.Count)
+        {
+            EnemyController enemyController = instantiatedEnemies[selectedEnemyIndex].GetComponent<EnemyController>();
+            int damage = CalculateDamage(percentage);
+            enemyController.TakeDamage(damage);
+            selectedEnemyIndex = -1;
+
+            // TODO start coroutine to show enemy health and damage animation
+        }
+        else
+        {
+            Debug.LogError("No enemy selected or invalid enemy index.");
+        }
+    }
+
+    private int CalculateDamage(float percentage)
+    {
+        int minDamage = 1;
+        // set maxDamage to Player equipped weapon damage
+        int maxDamage = player.EquippedWeapon.Damage;
+
+        int damage = Mathf.RoundToInt(Mathf.Lerp(minDamage, maxDamage, percentage / 100f));
+        return damage;
     }
 
     private void SwitchToEnemyTurn()
     {
-        // set box sprite to none
-        boxScaler.SetSprite(null);
-
         state = BattleState.EnemyTurn;
         EnemyTurn();
     }

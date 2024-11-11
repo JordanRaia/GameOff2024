@@ -40,7 +40,7 @@ public class LinePositionTracker : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && !isFlashing) // Check if the left mouse button is clicked and not already flashing
         {
             float clickPercentage = CalculateClickPercentage();
-            Debug.Log("Click Percentage: " + clickPercentage + "%");
+            BattleManager.Instance.OnAttackCompleted(clickPercentage); // Notify the BattleManager of the attack percentage
             StartCoroutine(FlashLineForThreeSeconds());
         }
     }

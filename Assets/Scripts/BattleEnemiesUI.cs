@@ -57,8 +57,7 @@ public class BattleEnemiesUI : MonoBehaviour
 
     void OnItemClicked(int index)
     {
-        Debug.Log("Clicked on " + battleEnemies[index].EnemyName);
-        BattleManager.Instance.OnEnemySelected(); // Notify the BattleManager of enemy selection
+        BattleManager.Instance.OnEnemySelected(index); // Notify the BattleManager of enemy selection
     }
 
     void NextPage()

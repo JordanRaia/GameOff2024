@@ -45,4 +45,32 @@ public class BattleEnemy : ScriptableObject
     public int Experience => experience;
     public int Gold => gold;
     public Item ItemDrop => itemDrop;
+
+    // Method to take damage and update health
+    public void TakeDamage(int damage)
+    {
+        currentHealth -= damage - defense;
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    // Method to handle enemy defeat
+    private void Die()
+    {
+        Debug.Log($"Enemy {enemyName} defeated!");
+        // Reward player with experience, gold, and possibly drop an item
+        // Additional actions such as playing animations or destroying the GameObject
+    }
+
+    // Method to heal the enemy
+    public void Heal(int amount)
+    {
+        currentHealth += amount;
+        if (currentHealth > maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+    }
 }

@@ -24,16 +24,11 @@ public class EnemyController : MonoBehaviour
     {
         // Set the enemy sprite
         GetComponent<SpriteRenderer>().sprite = enemyData.EnemySprite;
-        enemyData.CurrentHealth = enemyData.MaxHealth;
     }
 
     public void TakeDamage(int damage)
     {
-        enemyData.CurrentHealth -= damage - enemyData.Defense;
-        if (enemyData.CurrentHealth <= 0)
-        {
-            Die();
-        }
+        enemyData.TakeDamage(damage);
     }
 
     private void Die()
