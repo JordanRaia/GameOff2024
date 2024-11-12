@@ -20,6 +20,7 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private BoxScaler boxScaler;   // Reference to the BoxScaler component
     [SerializeField] private Sprite radiantSprite;  // Sprite to display in the box for a radiant effect
     [SerializeField] private GameObject enemyPrefab; // Reference to the enemy prefab
+    [SerializeField] private GameObject playerPrefab; // Reference to the player prefab
 
     //--- UI Elements (Buttons and Pages) ---
     [Header("UI Elements")]
@@ -59,6 +60,14 @@ public class BattleManager : MonoBehaviour
     [Header("Battle State Management")]
     private BattleState state;         // Current state of the battle
     public static BattleManager Instance; // Singleton instance for easy access
+
+    private Coroutine bulletHellCoroutine; // Reference to the bullet hell coroutine
+    private GameObject playerInstance;     // Reference to the instantiated player
+    private BulletHellPattern currentBulletHellPattern; // Add this field
+
+    // Store original box size
+    private float originalWidthPercentage = 0.99f;
+    private float originalHeightPercentage = 0.35f;
 
     //--- Unity Lifecycle Methods ---
     void Awake()
@@ -274,28 +283,60 @@ public class BattleManager : MonoBehaviour
         boxScaler.SetSprite(null);
 
         // TODO resize box, make it change gradually
-        boxScaler.ResizeBox(0.25f, 0.25f);
+        boxScaler.ResizeBox(0.25f, 0.25f, true, OnBoxResizeComplete);
 
-        // TODO Put Player prefab in middle of box
+        // Remove StartCoroutine(EnemyAttack()); from here
+    }
 
+    private void OnBoxResizeComplete()
+    {
+        Vector3 spawnPosition = boxScaler.transform.position;
+        playerInstance = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
 
-        // start bullet hell sequence        
+        // Start the bullet hell sequence
         StartCoroutine(EnemyAttack());
-
     }
 
     IEnumerator EnemyAttack()
     {
-        // Implement enemy attack logic
-        // TODO Bullet Hell Sequence
-        yield return new WaitForSeconds(2.0f);
+        if (enemies.Count > 0)
+        {
+            var enemy = enemies[0];
+            // Select a random bullet hell pattern
+            currentBulletHellPattern = enemy.bulletHellPatterns[Random.Range(0, enemy.bulletHellPatterns.Count)];
+            bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(playerInstance));
+        }
 
+        // Wait for 10 seconds
+        yield return new WaitForSeconds(10f);
 
-        // For now, just switch back to player turn
-        state = BattleState.PlayerTurn;
-        PlayerTurn();
+        // Stop the bullet hell pattern
+        if (bulletHellCoroutine != null)
+        {
+            StopCoroutine(bulletHellCoroutine);
+            bulletHellCoroutine = null;
+        }
+
+        if (currentBulletHellPattern != null)
+        {
+            currentBulletHellPattern.StopPattern();
+            currentBulletHellPattern = null;
+
+            Destroy(playerInstance);
+            playerInstance = null;
+        }
+
+        // Resize the box back to original size
+        boxScaler.ResizeBox(originalWidthPercentage, originalHeightPercentage, false, OnBoxResizeBackComplete);
     }
 
+    private void OnBoxResizeBackComplete()
+    {
+        // Proceed to the player's turn
+        state = BattleState.PlayerTurn;
+        PlayerTurn();
+        DefaultLine(); // Display the enemy's default line
+    }
 
     public void OnEnemySelected(int index)
     {

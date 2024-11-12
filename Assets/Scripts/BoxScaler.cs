@@ -12,6 +12,11 @@ public class BoxScaler : MonoBehaviour
     [SerializeField] private float resizeDuration = 0.5f; // Duration of the resizing animation
 
     private Coroutine resizeCoroutine; // Reference to the resize coroutine
+    private bool forceSquare = false;
+
+    // Public getters for width and height percentages
+    public float WidthPercentage => widthPercentage;
+    public float HeightPercentage => heightPercentage;
 
     void Start()
     {
@@ -55,8 +60,17 @@ public class BoxScaler : MonoBehaviour
         float screenWorldHeight = Camera.main.orthographicSize * 2;
 
         // Calculate target width and height based on percentages
-        float targetWidth = screenWorldWidth * widthPercentage;
-        float targetHeight = screenWorldHeight * heightPercentage;
+        float targetWidth, targetHeight;
+        if (forceSquare)
+        {
+            float minScreenDimension = Mathf.Min(screenWorldWidth, screenWorldHeight);
+            targetWidth = targetHeight = minScreenDimension * widthPercentage;
+        }
+        else
+        {
+            targetWidth = screenWorldWidth * widthPercentage;
+            targetHeight = screenWorldHeight * heightPercentage;
+        }
 
         // Adjust the scale of the GameObject to match the calculated width and height
         transform.localScale = new Vector3(targetWidth, targetHeight, 1);
@@ -71,15 +85,16 @@ public class BoxScaler : MonoBehaviour
         AdjustBorders(targetWidth, targetHeight);
     }
 
-    public void ResizeBox(float newWidthPercentage, float newHeightPercentage)
+    public void ResizeBox(float newWidthPercentage, float newHeightPercentage, bool forceSquare = false, System.Action onComplete = null)
     {
         if (resizeCoroutine != null)
             StopCoroutine(resizeCoroutine);
 
-        resizeCoroutine = StartCoroutine(GradualResize(newWidthPercentage, newHeightPercentage));
+        this.forceSquare = forceSquare;
+        resizeCoroutine = StartCoroutine(GradualResize(newWidthPercentage, newHeightPercentage, onComplete));
     }
 
-    private IEnumerator GradualResize(float targetWidthPercentage, float targetHeightPercentage)
+    private IEnumerator GradualResize(float targetWidthPercentage, float targetHeightPercentage, System.Action onComplete)
     {
         float startWidth = widthPercentage;
         float startHeight = heightPercentage;
@@ -88,8 +103,16 @@ public class BoxScaler : MonoBehaviour
         while (elapsedTime < resizeDuration)
         {
             elapsedTime += Time.deltaTime;
-            widthPercentage = Mathf.Lerp(startWidth, targetWidthPercentage, elapsedTime / resizeDuration);
-            heightPercentage = Mathf.Lerp(startHeight, targetHeightPercentage, elapsedTime / resizeDuration);
+            if (forceSquare)
+            {
+                widthPercentage = Mathf.Lerp(startWidth, targetWidthPercentage, elapsedTime / resizeDuration);
+                heightPercentage = widthPercentage;
+            }
+            else
+            {
+                widthPercentage = Mathf.Lerp(startWidth, targetWidthPercentage, elapsedTime / resizeDuration);
+                heightPercentage = Mathf.Lerp(startHeight, targetHeightPercentage, elapsedTime / resizeDuration);
+            }
 
             ScaleAndPositionBoxZone();
             yield return null;
@@ -97,8 +120,14 @@ public class BoxScaler : MonoBehaviour
 
         // Ensure final values are set exactly to target percentages
         widthPercentage = targetWidthPercentage;
-        heightPercentage = targetHeightPercentage;
+        if (forceSquare)
+            heightPercentage = widthPercentage;
+        else
+            heightPercentage = targetHeightPercentage;
         ScaleAndPositionBoxZone();
+
+        if (onComplete != null)
+            onComplete();
     }
 
     private void AdjustBorders(float boxWidth, float boxHeight)

@@ -30,8 +30,8 @@ public class BattleEnemy : ScriptableObject
     [SerializeField] private int gold = 5;                            // Gold rewarded for defeating the enemy
     [SerializeField] private Item itemDrop;                       // Item dropped by the enemy upon defeat
 
-    [Header("Attack Pattern")]
-    public BulletHellPattern bulletHellPattern;
+    [Header("Attack Patterns")]
+    public List<BulletHellPattern> bulletHellPatterns;
 
     // Properties for accessing private variables
     public string EnemyName => enemyName;
