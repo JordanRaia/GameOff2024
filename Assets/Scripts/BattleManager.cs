@@ -3,6 +3,7 @@ using UnityEngine.UIElements;
 using System.Collections.Generic;
 using System.Collections;
 using TMPro;
+using System; // Ensure this line is present and outside any namespace or class
 
 public enum BattleState
 {
@@ -299,13 +300,34 @@ public class BattleManager : MonoBehaviour
 
     IEnumerator EnemyAttack()
     {
-        if (enemies.Count > 0)
+        if (enemies.Count == 0) yield break;
+
+        var enemy = enemies[0];
+        // Select a random bullet hell pattern
+        currentBulletHellPattern = enemy.bulletHellPatterns[UnityEngine.Random.Range(0, enemy.bulletHellPatterns.Count)];
+
+        // Initialize fixed target position if the pattern is static
+        SpiralPattern spiralPattern = currentBulletHellPattern as SpiralPattern;
+        if (spiralPattern != null && spiralPattern.IsStatic)
         {
-            var enemy = enemies[0];
-            // Select a random bullet hell pattern
-            currentBulletHellPattern = enemy.bulletHellPatterns[Random.Range(0, enemy.bulletHellPatterns.Count)];
-            bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(playerInstance));
+            spiralPattern.Initialize(boxScaler.transform.position);
         }
+
+        // Define a function to get the current target position
+        Func<Vector2> getTargetPosition = () =>
+        {
+            if (currentBulletHellPattern.IsStatic)
+            {
+                return boxScaler.transform.position;
+            }
+            else
+            {
+                return playerInstance.transform.position;
+            }
+        };
+
+        // Start the bullet hell pattern
+        bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(getTargetPosition));
 
         // Wait for 10 seconds
         yield return new WaitForSeconds(10f);
