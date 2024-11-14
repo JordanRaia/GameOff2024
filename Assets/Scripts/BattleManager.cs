@@ -34,6 +34,7 @@ public class BattleManager : MonoBehaviour
     private VisualElement itemsPage;   // Visual element for item display page
     private VisualElement actPage;     // Visual element for act options page
     private VisualElement enemyPage;   // Visual element for enemy selection page
+    private VisualElement enemyActPage; // Visual element for enemy act options page
 
     [Header("Enemy Spawn Settings")]
     [SerializeField] private float spawnAreaWidth = 10.0f; // Total width for enemy spawn area
@@ -49,6 +50,7 @@ public class BattleManager : MonoBehaviour
     private BattleItemUI battleItemUI;  // UI component for displaying items
     private BattleActUI battleActUI;    // UI component for displaying act options
     private BattleEnemiesUI battleEnemyUI; // UI component for displaying enemies
+    private BattleActEnemyUI battleActEnemyUI; // UI component for displaying enemies before act options
 
     //--- Game Data (Player and Enemies) ---
     [Header("Game Data")]
@@ -88,6 +90,7 @@ public class BattleManager : MonoBehaviour
         itemsPage = root.Q<VisualElement>("ItemPage");
         actPage = root.Q<VisualElement>("ActPage");
         enemyPage = root.Q<VisualElement>("EnemyPage");
+        enemyActPage = root.Q<VisualElement>("EnemyActPage");
 
         fightButton.clicked += OnFightButton;
         actButton.clicked += OnActButton;
@@ -101,17 +104,11 @@ public class BattleManager : MonoBehaviour
         battleItemUI = GetComponent<BattleItemUI>();
         battleItemUI.UpdateItems(player.GetItemsByType(ItemType.Health));
 
-        List<ActOption> actOptions = new List<ActOption>();
-        foreach (var enemy in enemies)
-        {
-            actOptions.AddRange(enemy.ActOptions);
-        }
-
-        battleActUI = GetComponent<BattleActUI>();
-        battleActUI.UpdateItems(actOptions);
-
         battleEnemyUI = GetComponent<BattleEnemiesUI>();
         battleEnemyUI.UpdateItems(enemies);
+
+        battleActEnemyUI = GetComponent<BattleActEnemyUI>();
+        battleActEnemyUI.UpdateItems(enemies);
 
         state = BattleState.Start;
 
@@ -260,7 +257,7 @@ public class BattleManager : MonoBehaviour
         if (state != BattleState.PlayerTurn) return;
 
         ClearBox();
-        actPage.style.display = DisplayStyle.Flex;
+        enemyActPage.style.display = DisplayStyle.Flex;
     }
 
     void OnItemButton()
@@ -360,6 +357,18 @@ public class BattleManager : MonoBehaviour
         DefaultLine(); // Display the enemy's default line
     }
 
+    public void OnEnemyActSelected(int index)
+    {
+        if (state != BattleState.PlayerTurn) return;
+
+        ClearBox();
+
+        battleActUI = GetComponent<BattleActUI>();
+        battleActUI.UpdateItems(enemies[index].ActOptions);
+
+        actPage.style.display = DisplayStyle.Flex;
+    }
+
     public void OnEnemySelected(int index)
     {
         selectedEnemyIndex = index;
@@ -416,5 +425,6 @@ public class BattleManager : MonoBehaviour
         actPage.style.display = DisplayStyle.None;
         enemyPage.style.display = DisplayStyle.None;
         boxText.style.display = DisplayStyle.None;
+        enemyActPage.style.display = DisplayStyle.None;
     }
 }

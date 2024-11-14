@@ -1049,6 +1049,7 @@ GameObject:
   - component: {fileID: 1998233937}
   - component: {fileID: 1998233938}
   - component: {fileID: 1998233939}
+  - component: {fileID: 1998233940}
   m_Layer: 5
   m_Name: BattleUI
   m_TagString: Untagged
@@ -1152,6 +1153,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   battleEnemies: []
+--- !u!114 &1998233940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1998233933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc4686981ecfba408e3ce38da2a33ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemies: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
