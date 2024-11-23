@@ -11,6 +11,7 @@ public class BattleActUI : MonoBehaviour
 
     private int itemsPerPage = 6;
     private int currentPage = 0;
+    private int enemyIndex = 0;
 
     void Awake()
     {
@@ -49,15 +50,16 @@ public class BattleActUI : MonoBehaviour
         nextPageButton.SetEnabled(end < actOptions.Count);
     }
 
-    public void UpdateItems(List<ActOption> Items)
+    public void UpdateItems(List<ActOption> Items, int enemyIndex)
     {
         actOptions = Items;
+        this.enemyIndex = enemyIndex;
         UpdateUI();
     }
 
     void OnItemClicked(int index)
     {
-        Debug.Log("Clicked on " + actOptions[index].Act);
+        StartCoroutine(BattleManager.Instance.OnActSelected(index, enemyIndex));
     }
 
     void NextPage()

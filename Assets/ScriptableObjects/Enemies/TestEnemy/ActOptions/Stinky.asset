@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Stinky
   m_EditorClassIdentifier: 
   Act: Stinky
+  playerDialogue:
+  - You tell Test Enemy he is stinky
   responses:
   - No I am not
   - In fact you are

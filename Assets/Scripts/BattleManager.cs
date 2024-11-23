@@ -153,6 +153,20 @@ public class BattleManager : MonoBehaviour
         yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
     }
 
+    IEnumerator TypePlayerText(string text, float speed)
+    {
+        boxText.text = ""; // Clear the text initially
+        boxText.style.display = DisplayStyle.Flex;
+
+        foreach (char letter in text.ToCharArray())
+        {
+            boxText.text += letter; // Add one character at a time
+            yield return new WaitForSeconds(speed); // Wait for the specified speed interval
+        }
+
+        yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
+    }
+
     //narrator coroutine
     IEnumerator ShowNarratorLines(List<string> lines)
     {
@@ -189,6 +203,11 @@ public class BattleManager : MonoBehaviour
 
         ClearBox();
         SetupBattle();
+    }
+
+    void EnemyActDialogue(int index)
+    {
+
     }
 
     void LayoutEnemies()
@@ -364,9 +383,46 @@ public class BattleManager : MonoBehaviour
         ClearBox();
 
         battleActUI = GetComponent<BattleActUI>();
-        battleActUI.UpdateItems(enemies[index].ActOptions);
+        battleActUI.UpdateItems(enemies[index].ActOptions, index);
 
         actPage.style.display = DisplayStyle.Flex;
+    }
+
+    public IEnumerator OnActSelected(int index, int enemyIndex)
+    {
+        // Implement Act logic
+        ClearBox(); // Clear box content
+
+        //Player text
+        foreach (var line in enemies[enemyIndex].ActOptions[index].playerDialogue)
+        {
+            // start coroutine to type out the line
+            yield return StartCoroutine(TypePlayerText(line, 0.05f));
+            // yield return new WaitForSeconds(2.0f); //TODO change back to 2.0f
+        }
+
+        ClearBox(); // Clear box content
+
+        GameObject enemyObject = instantiatedEnemies[enemyIndex]; // Get the first enemy instance
+        Transform bubbleTransform = enemyObject.transform.Find("Bubble");
+        Transform textTransform = bubbleTransform.Find("Text");
+        TextMeshPro textComponent = textTransform.GetComponent<TextMeshPro>();
+
+        // show enemy prefab text bubble
+        bubbleTransform.gameObject.SetActive(true);
+
+        foreach (var line in enemies[enemyIndex].ActOptions[index].responses)
+        {
+            //change text bubble text to line
+            // start coroutine to type out the line
+            yield return StartCoroutine(TypeEnemyText(textComponent, line, 0.05f));
+            // yield return new WaitForSeconds(2.0f); //TODO Change back to 2.0f
+        }
+
+        bubbleTransform.gameObject.SetActive(false);
+        textComponent.text = ""; // Clear the text
+
+        SwitchToEnemyTurn();
     }
 
     public void OnEnemySelected(int index)

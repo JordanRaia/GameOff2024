@@ -13,5 +13,8 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   Act: Test
+  playerDialogue:
+  - This tests, two dialogues
+  - Here is the second one
   responses:
   - Test Enemy nods silently.

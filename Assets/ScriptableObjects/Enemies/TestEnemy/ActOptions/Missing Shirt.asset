@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: Missing Shirt
   m_EditorClassIdentifier: 
   Act: Missing Shirt
+  playerDialogue:
+  - You tell Test Enemy they are missing their shirt.
   responses:
   - What do you mean?

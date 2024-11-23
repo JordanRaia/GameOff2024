@@ -5,5 +5,6 @@ using System.Collections.Generic;
 public class ActOption : ScriptableObject
 {
     public string Act = "";
+    public List<string> playerDialogue = new List<string>();
     public List<string> responses = new List<string>();
 }
