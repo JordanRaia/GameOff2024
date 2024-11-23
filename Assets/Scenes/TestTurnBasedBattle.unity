@@ -1114,6 +1114,7 @@ MonoBehaviour:
   player: {fileID: 11400000, guid: c24da6029609d634d97f358318e0d887, type: 2}
   enemies:
   - {fileID: 11400000, guid: 49a2e984b3ddc5746ae8e4e870724ac2, type: 2}
+  - {fileID: 11400000, guid: 49a2e984b3ddc5746ae8e4e870724ac2, type: 2}
 --- !u!114 &1998233937
 MonoBehaviour:
   m_ObjectHideFlags: 0

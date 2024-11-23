@@ -22,10 +22,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ba1d753ef3bd13241a7d02188d32aea5, type: 2}
   - {fileID: 11400000, guid: 4e98eae77cc9f4b49990926f107b2d3c, type: 2}
   - {fileID: 11400000, guid: e74c6380dfd139340be68c8da9f6f402, type: 2}
+  mercyDialogue: Test mercy dialogue
   maxHealth: 20
   currentHealth: 20
   attack: 1
   defense: 2
+  mercyChance: 0
   experience: 25
   gold: 5
   itemDrop: {fileID: 11400000, guid: 73d2f065ee5a93f48ac3bc74ef400946, type: 2}

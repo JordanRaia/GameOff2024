@@ -16,6 +16,7 @@ public class BattleEnemy : ScriptableObject
     [SerializeField] private string defaultLine = "";       // Dialogue lines for the "Act" phase of battle
     [SerializeField] private float dialogueSpeed = 0.05f;         // Speed at which dialogue is displayed
     [SerializeField] private List<ActOption> actOptions = new List<ActOption>();  // List of options available in "Act" phase of battle
+    [SerializeField] private string mercyDialogue = "";       // Dialogue lines for the "Mercy" button fail
 
     // Enemy Stats
     [Header("Stats")]
@@ -23,6 +24,7 @@ public class BattleEnemy : ScriptableObject
     [SerializeField] private int currentHealth = 20;                   // Current health of the enemy
     [SerializeField] private int attack = 3;                          // Attack strength of the enemy
     [SerializeField] private int defense = 3;                         // Defense strength of the enemy
+    [SerializeField] private float mercyChance = 1.0f;                // Chance of mercy option succeeding
 
     // Rewards
     [Header("Rewards")]
@@ -48,6 +50,8 @@ public class BattleEnemy : ScriptableObject
     public int Experience => experience;
     public int Gold => gold;
     public Item ItemDrop => itemDrop;
+    public float MercyChance => mercyChance;
+    public string MercyDialogue => mercyDialogue;
 
     // Method to take damage and update health
     public void TakeDamage(int damage)

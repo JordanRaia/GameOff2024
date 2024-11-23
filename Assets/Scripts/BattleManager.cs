@@ -153,6 +153,22 @@ public class BattleManager : MonoBehaviour
         yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
     }
 
+    IEnumerator TypeEnemyText(TextMeshPro textComponent, string text, float speed, Action onComplete)
+    {
+        textComponent.text = ""; // Clear the enemy bubble text
+        textComponent.gameObject.SetActive(true); // Make sure the text bubble is visible
+
+        foreach (char letter in text.ToCharArray())
+        {
+            textComponent.text += letter; // Add one character at a time to the enemy's text bubble
+            yield return new WaitForSeconds(speed); // Wait for the specified speed interval
+        }
+
+        yield return new WaitForSeconds(1.0f); // Wait for 1 second after the full text is displayed
+
+        onComplete?.Invoke();
+    }
+
     IEnumerator TypePlayerText(string text, float speed)
     {
         boxText.text = ""; // Clear the text initially
@@ -290,8 +306,66 @@ public class BattleManager : MonoBehaviour
     void OnMercyButton()
     {
         if (state != BattleState.PlayerTurn) return;
-        state = BattleState.EnemyTurn;
-        // Implement Mercy logic
+
+        //check each enemy's mercy chance for lowest chance
+        float lowestMercyChance = 1.0f;
+
+        foreach (var enemy in enemies)
+        {
+            if (enemy.MercyChance < lowestMercyChance)
+            {
+                lowestMercyChance = enemy.MercyChance;
+            }
+        }
+
+        //get random number to see if mercy is successful
+        float randomValue = UnityEngine.Random.value;
+        if (randomValue <= lowestMercyChance)
+        {
+            //TODO implement mercy logic
+            Debug.Log("Mercy successful!");
+        }
+        else
+        {
+            StartCoroutine(OnMercySelected());
+        }
+    }
+
+    public IEnumerator OnMercySelected()
+    {
+        // Implement Act logic
+        ClearBox(); // Clear box content
+
+        int remainingEnemies = instantiatedEnemies.Count;
+
+        for (int i = 0; i < instantiatedEnemies.Count; i++)
+        {
+            GameObject enemyObject = instantiatedEnemies[i];
+            Transform bubbleTransform = enemyObject.transform.Find("Bubble");
+            Transform textTransform = bubbleTransform.Find("Text");
+            TextMeshPro textComponent = textTransform.GetComponent<TextMeshPro>();
+
+            // Show enemy prefab text bubble
+            bubbleTransform.gameObject.SetActive(true);
+
+            // Start the dialogue coroutine for each enemy and decrement the counter upon completion
+            StartCoroutine(TypeEnemyText(textComponent, enemies[i].MercyDialogue, 0.05f, () =>
+            {
+                remainingEnemies--;
+
+                bubbleTransform.gameObject.SetActive(false);
+                textComponent.text = ""; // Clear the text
+            }));
+        }
+
+        // Wait until all enemy dialogues have completed
+        while (remainingEnemies > 0)
+        {
+            yield return null;
+        }
+
+        SwitchToEnemyTurn();
+        yield break;
     }
 
     void EnemyTurn()
@@ -319,17 +393,14 @@ public class BattleManager : MonoBehaviour
         if (enemies.Count == 0) yield break;
 
         var enemy = enemies[0];
-        // Select a random bullet hell pattern
         currentBulletHellPattern = enemy.bulletHellPatterns[UnityEngine.Random.Range(0, enemy.bulletHellPatterns.Count)];
 
-        // Initialize fixed target position if the pattern is static
         SpiralPattern spiralPattern = currentBulletHellPattern as SpiralPattern;
         if (spiralPattern != null && spiralPattern.IsStatic)
         {
             spiralPattern.Initialize(boxScaler.transform.position);
         }
 
-        // Define a function to get the current target position
         Func<Vector2> getTargetPosition = () =>
         {
             if (currentBulletHellPattern.IsStatic)
@@ -342,13 +413,13 @@ public class BattleManager : MonoBehaviour
             }
         };
 
-        // Start the bullet hell pattern
         bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(getTargetPosition));
 
-        // Wait for 10 seconds
+        // Start monitoring bullets
+        StartCoroutine(currentBulletHellPattern.MonitorBullets());
+
         yield return new WaitForSeconds(10f);
 
-        // Stop the bullet hell pattern
         if (bulletHellCoroutine != null)
         {
             StopCoroutine(bulletHellCoroutine);
@@ -364,7 +435,6 @@ public class BattleManager : MonoBehaviour
             playerInstance = null;
         }
 
-        // Resize the box back to original size
         boxScaler.ResizeBox(originalWidthPercentage, originalHeightPercentage, false, OnBoxResizeBackComplete);
     }
 
