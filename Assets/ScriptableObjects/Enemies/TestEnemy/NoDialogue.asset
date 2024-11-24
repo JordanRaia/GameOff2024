@@ -33,3 +33,4 @@ MonoBehaviour:
   itemDrop: {fileID: 11400000, guid: 73d2f065ee5a93f48ac3bc74ef400946, type: 2}
   bulletHellPatterns:
   - {fileID: 11400000, guid: bd8cc604dbf838c4f8d0d6e472d4e6bd, type: 2}
+  animatorController: {fileID: 9100000, guid: 5aa8cc01ca1f4f14599aacccb2038b3c, type: 2}

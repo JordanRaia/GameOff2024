@@ -1,7 +1,11 @@
 using UnityEngine;
+using System;
+using System.Collections;
 
 public class EnemyController : MonoBehaviour
 {
+    public event Action<EnemyController> OnEnemyDeath; // Event to notify when the enemy dies
+
     public BattleEnemy enemyData { get; private set; }  // Public getter with a private setter
 
     [SerializeField] private HealthBar healthBar; // Reference to the Health Bar
@@ -29,17 +33,37 @@ public class EnemyController : MonoBehaviour
     {
         // Set the enemy sprite
         GetComponent<SpriteRenderer>().sprite = enemyData.EnemySprite;
+
+        Animator animator = GetComponent<Animator>();
+        if (animator != null && enemyData.AnimatorController != null)
+        {
+            // Assign the Animator Controller from BattleEnemy
+            animator.runtimeAnimatorController = enemyData.AnimatorController;
+        }
     }
 
     public void TakeDamage(int damage)
     {
-        enemyData.TakeDamage(damage);
+        bool isDead = enemyData.TakeDamage(damage);
+        // if (isDead)
+        // {
+        //     StartCoroutine(Die());
+        // }
     }
 
-    private void Die()
+    public IEnumerator Die()
     {
-        Debug.Log($"Enemy {enemyData.EnemyName} defeated!");
-        // Reward player with experience, gold, and possibly drop an item
-        // Additional actions such as destroying the GameObject or playing animations
+        // Trigger death animation
+        Animator animator = GetComponent<Animator>();
+        if (animator != null)
+        {
+            animator.SetTrigger("Death"); // Assumes a "Death" trigger is set up in the Animator Controller
+        }
+
+        OnEnemyDeath?.Invoke(this); // Invoke the death event
+
+        yield return new WaitForSeconds(3f);
+
+        Destroy(gameObject); // Destroy after 3 seconds to allow animation to play
     }
 }

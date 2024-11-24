@@ -102,14 +102,7 @@ public class BattleManager : MonoBehaviour
         LayoutEnemies(); // Layout the enemies in the battle scene
 
         // Initialize BattleItemUI and update items
-        battleItemUI = GetComponent<BattleItemUI>();
-        battleItemUI.UpdateItems(player.GetItemsByType(ItemType.Health));
-
-        battleEnemyUI = GetComponent<BattleEnemiesUI>();
-        battleEnemyUI.UpdateItems(enemies);
-
-        battleActEnemyUI = GetComponent<BattleActEnemyUI>();
-        battleActEnemyUI.UpdateItems(enemies);
+        UpdateUI();
 
         state = BattleState.Start;
 
@@ -124,6 +117,18 @@ public class BattleManager : MonoBehaviour
         {
             SetupBattle();
         }
+    }
+
+    private void UpdateUI()
+    {
+        battleItemUI = GetComponent<BattleItemUI>();
+        battleItemUI.UpdateItems(player.GetItemsByType(ItemType.Health));
+
+        battleEnemyUI = GetComponent<BattleEnemiesUI>();
+        battleEnemyUI.UpdateItems(enemies);
+
+        battleActEnemyUI = GetComponent<BattleActEnemyUI>();
+        battleActEnemyUI.UpdateItems(enemies);
     }
 
     IEnumerator TypeText(string text, float speed)
@@ -256,6 +261,9 @@ public class BattleManager : MonoBehaviour
             EnemyController enemyController = enemyObject.GetComponent<EnemyController>();
             enemyController.SetEnemyData(enemies[i]);
 
+            // Subscribe to the OnEnemyDeath event
+            //enemyController.OnEnemyDeath += HandleEnemyDeath;
+
             // Set Health Bar reference
             HealthBar hb = enemyObject.GetComponentInChildren<HealthBar>();
             if (hb != null)
@@ -266,6 +274,40 @@ public class BattleManager : MonoBehaviour
             // Add the instantiated enemy to the list
             instantiatedEnemies.Add(enemyObject);
         }
+    }
+
+    private IEnumerator HandleEnemyDeath(EnemyController deadEnemy, int index)
+    {
+        ClearBox();
+
+        yield return StartCoroutine(deadEnemy.Die());
+
+        // Remove the enemy from the list
+        BattleEnemy enemyData = deadEnemy.enemyData;
+        enemies.Remove(enemies[index]);
+
+        // Remove from instantiatedEnemies list
+        instantiatedEnemies.Remove(instantiatedEnemies[index]);
+
+        // Remove from UI Components
+        UpdateUI();
+
+        // Check if all enemies are defeated
+        if (enemies.Count == 0)
+        {
+            EndBattle();
+        }
+        else
+        {
+            // Handle the next enemy's turn
+            SwitchToEnemyTurn();
+        }
+    }
+
+    private void EndBattle()
+    {
+        Debug.Log("All enemies defeated! Battle ended.");
+        // Implement battle end logic, such as rewarding the player, transitioning scenes, etc.
     }
 
     void SetupBattle()
@@ -427,7 +469,7 @@ public class BattleManager : MonoBehaviour
         // Start monitoring bullets
         StartCoroutine(currentBulletHellPattern.MonitorBullets());
 
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(1f);
 
         if (bulletHellCoroutine != null)
         {
@@ -515,8 +557,6 @@ public class BattleManager : MonoBehaviour
         // Spawn the Line from the prefab
         GameObject lineObject = Instantiate(linePrefab);
         LinePositionTracker lineTracker = lineObject.GetComponent<LinePositionTracker>();
-
-        lineTracker.OnLineCoroutineComplete += SwitchToEnemyTurn; // Listen for coroutine completion
     }
 
     public void OnAttackCompleted(float percentage)
@@ -529,7 +569,16 @@ public class BattleManager : MonoBehaviour
             int damage = CalculateDamage(percentage);
             enemyController.TakeDamage(damage);
 
-            // TODO start coroutine to show enemy health and damage animation
+            if (enemyController.enemyData.CurrentHealth <= 0)
+            {
+                // Handle enemy defeat
+                StartCoroutine(HandleEnemyDeath(enemyController, selectedEnemyIndex));
+            }
+            else
+            {
+                // Handle enemy attack
+                SwitchToEnemyTurn();
+            }
         }
         else
         {
@@ -537,7 +586,7 @@ public class BattleManager : MonoBehaviour
         }
     }
 
-    private int CalculateDamage(float percentage)
+    public int CalculateDamage(float percentage)
     {
         int minDamage = 1;
         // set maxDamage to Player equipped weapon damage
@@ -560,6 +609,7 @@ public class BattleManager : MonoBehaviour
         enemyPage.style.display = DisplayStyle.None;
         boxText.style.display = DisplayStyle.None;
         enemyActPage.style.display = DisplayStyle.None;
+        boxScaler.SetSprite(null);
     }
 
     // Method to spawn the slash effect at a specified position

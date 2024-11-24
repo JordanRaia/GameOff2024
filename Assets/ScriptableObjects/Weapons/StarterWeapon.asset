@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemName: Small Dagger
   itemType: 1
-  damage: 3
+  damage: 50
   sprite: {fileID: 2601603839896418933, guid: 21805e50c0bda7a4ea1a2c03b6d34ada, type: 3}

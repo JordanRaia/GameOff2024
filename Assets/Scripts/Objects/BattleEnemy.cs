@@ -35,6 +35,9 @@ public class BattleEnemy : ScriptableObject
     [Header("Attack Patterns")]
     public List<BulletHellPattern> bulletHellPatterns;
 
+    [Header("Animation")]
+    [SerializeField] private RuntimeAnimatorController animatorController; // Added
+
     private HealthBar healthBar; // Reference to the Health Bar
 
     // Properties for accessing private variables
@@ -54,11 +57,12 @@ public class BattleEnemy : ScriptableObject
     public Item ItemDrop => itemDrop;
     public float MercyChance => mercyChance;
     public string MercyDialogue => mercyDialogue;
+    public RuntimeAnimatorController AnimatorController => animatorController; // Added
 
     public void SetHealthBar(HealthBar hb)
     {
         healthBar = hb;
-        healthBar.SetHealth(currentHealth, maxHealth);
+        healthBar.SetHealth(currentHealth, currentHealth, maxHealth);
     }
 
     public void UpdateHealthBar(int newHealth)
@@ -70,24 +74,13 @@ public class BattleEnemy : ScriptableObject
     }
 
     // Method to take damage and update health
-    public void TakeDamage(int damage)
+    public bool TakeDamage(int damage)
     {
         currentHealth -= damage - defense;
         if (currentHealth < 0) currentHealth = 0;
         UpdateHealthBar(currentHealth);
 
-        if (currentHealth <= 0)
-        {
-            Die();
-        }
-    }
-
-    // Method to handle enemy defeat
-    private void Die()
-    {
-        Debug.Log($"Enemy {enemyName} defeated!");
-        // Reward player with experience, gold, and possibly drop an item
-        // Additional actions such as playing animations or destroying the GameObject
+        return currentHealth <= 0;
     }
 
     // Method to heal the enemy

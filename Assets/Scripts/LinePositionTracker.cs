@@ -42,8 +42,8 @@ public class LinePositionTracker : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && !isFlashing) // Check if the left mouse button is clicked and not already flashing
         {
             float clickPercentage = CalculateClickPercentage();
-            BattleManager.Instance.OnAttackCompleted(clickPercentage); // Notify the BattleManager of the attack percentage
-            StartCoroutine(FlashLineForThreeSeconds());
+            // Start the flashing coroutine and pass the clickPercentage
+            StartCoroutine(FlashLineForThreeSeconds(clickPercentage));
         }
     }
 
@@ -69,9 +69,10 @@ public class LinePositionTracker : MonoBehaviour
         return percentage;
     }
 
-    private IEnumerator FlashLineForThreeSeconds()
+    private IEnumerator FlashLineForThreeSeconds(float clickPercentage)
     {
         isFlashing = true;
+
 
         // Get the selected enemy GameObject
         GameObject selectedEnemy = BattleManager.Instance.GetSelectedEnemy();
@@ -89,12 +90,15 @@ public class LinePositionTracker : MonoBehaviour
             yield break;
         }
 
+        int damage = BattleManager.Instance.CalculateDamage(clickPercentage); // Calculate the damage based on the click percentage
+        int newHealth = enemyController.enemyData.CurrentHealth - damage; // Calculate the new health after taking damage
+
         // Reference the Health Bar via EnemyController
         currentHealthBar = enemyController.HealthBar;
         if (currentHealthBar != null)
         {
             currentHealthBar.gameObject.SetActive(true); // Enable the HealthBar
-            currentHealthBar.SetHealth(enemyController.enemyData.CurrentHealth, enemyController.enemyData.MaxHealth);
+            currentHealthBar.SetHealth(newHealth, enemyController.enemyData.CurrentHealth, enemyController.enemyData.MaxHealth);
         }
         else
         {
@@ -143,11 +147,16 @@ public class LinePositionTracker : MonoBehaviour
             currentHealthBar.gameObject.SetActive(false);
         }
 
+        // Apply damage after flashing completes
+        BattleManager.Instance.OnAttackCompleted(clickPercentage);
+
         // Notify BattleManager after flashing is complete
         OnLineCoroutineComplete?.Invoke();
 
-        // Destroy the line object after 3 seconds
+        // Destroy the line object after flashing and damage application
         Destroy(gameObject);
+
+        isFlashing = false;
     }
 
     private IEnumerator MoveEnemyRapidly()

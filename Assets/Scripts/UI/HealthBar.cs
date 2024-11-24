@@ -10,19 +10,20 @@ public class HealthBar : MonoBehaviour
     private int maxHealth;
     private bool isInitialized = false;
 
-    public void SetHealth(int health, int max)
+    public void SetHealth(int newHealth, int currentHealth, int maxHealth)
     {
+        this.currentHealth = currentHealth;
+        this.maxHealth = maxHealth;
+        UpdateSprite(newHealth);
         if (!isInitialized)
         {
-            currentHealth = max;
-            maxHealth = max;
             UpdateSprite();
             isInitialized = true;
-            StartCoroutine(AnimateHealthChange(health, max));
+            StartCoroutine(AnimateHealthChange(newHealth, maxHealth));
         }
         else
         {
-            StartCoroutine(AnimateHealthChange(health, max));
+            StartCoroutine(AnimateHealthChange(newHealth, maxHealth));
         }
     }
 
@@ -48,7 +49,6 @@ public class HealthBar : MonoBehaviour
             }
 
             UpdateSprite(oldHealth);
-            Debug.Log(waitTime);
             yield return new WaitForSeconds(waitTime); // Adjusted to complete in 1 second
         }
     }
