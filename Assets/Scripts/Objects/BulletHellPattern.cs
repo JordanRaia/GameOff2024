@@ -12,7 +12,7 @@ public abstract class BulletHellPattern : ScriptableObject
     protected List<GameObject> activeBullets = new List<GameObject>();
 
     // Modify the method signature to accept a function to get targetPosition
-    public abstract IEnumerator ExecutePattern(Func<Vector2> getTargetPosition);
+    public abstract IEnumerator ExecutePattern(Func<Vector2> getTargetPosition, int damage);
 
     // New coroutine to monitor and destroy out-of-bounds bullets
     public IEnumerator MonitorBullets()

@@ -66,9 +66,9 @@
         </ui:VisualElement>
         <ui:VisualElement name="StatsRow" style="flex-grow: 0; flex-basis: 5%; width: 100%; flex-direction: row; margin-top: 10px;">
             <ui:Label text="Name&#10;" name="Name" style="font-size: 36px; width: 10%; -unity-text-align: middle-left; margin-left: 20px;" />
-            <ui:Label text="LV 1&#10;" style="font-size: 36px; -unity-text-align: middle-left; width: 10%; margin-left: 20px;" />
+            <ui:Label text="LV 1&#10;" name="PlayerLevel" style="font-size: 36px; -unity-text-align: middle-left; width: 10%; margin-left: 20px;" />
             <ui:VisualElement style="flex-grow: 1; flex-direction: row; align-items: center; justify-content: center;">
-                <ui:Label text="HP 20/20" style="font-size: 36px; -unity-text-align: middle-left; flex-grow: 0; justify-content: flex-start; flex-direction: column;" />
+                <ui:Label text="HP 20/20" name="PlayerHealth" style="font-size: 36px; -unity-text-align: middle-left; flex-grow: 0; justify-content: flex-start; flex-direction: column;" />
             </ui:VisualElement>
         </ui:VisualElement>
         <ui:VisualElement name="ButtonRow" style="flex-grow: 0; flex-basis: 10%; align-items: center; justify-content: space-evenly; flex-direction: row; bottom: auto; width: 100%;">

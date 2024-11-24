@@ -25,7 +25,7 @@ MonoBehaviour:
   mercyDialogue: Test mercy dialogue
   maxHealth: 20
   currentHealth: 20
-  attack: 1
+  attack: 3
   defense: 2
   mercyChance: 0
   experience: 25

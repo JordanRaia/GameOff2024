@@ -36,6 +36,8 @@ public class BattleManager : MonoBehaviour
     private VisualElement actPage;     // Visual element for act options page
     private VisualElement enemyPage;   // Visual element for enemy selection page
     private VisualElement enemyActPage; // Visual element for enemy act options page
+    private Label playerLevel; // Label for player level display
+    private Label playerHealth; // Label for player health display
 
     [Header("Enemy Spawn Settings")]
     [SerializeField] private float spawnAreaWidth = 10.0f; // Total width for enemy spawn area
@@ -59,6 +61,9 @@ public class BattleManager : MonoBehaviour
     public List<BattleEnemy> enemies;  // List of enemies in the battle
     private List<GameObject> instantiatedEnemies = new List<GameObject>(); // List to store instantiated enemy objects
     private int selectedEnemyIndex = -1; // Index of the selected enemy
+    private int acquiredExperience = 0; // Total experience acquired in the battle
+    private int acquiredGold = 0;       // Total gold acquired in the battle
+    private List<Item> acquiredItems = new List<Item>(); // List of items acquired in the battle
 
     //--- Battle State Management ---
     [Header("Battle State Management")]
@@ -92,6 +97,8 @@ public class BattleManager : MonoBehaviour
         actPage = root.Q<VisualElement>("ActPage");
         enemyPage = root.Q<VisualElement>("EnemyPage");
         enemyActPage = root.Q<VisualElement>("EnemyActPage");
+        playerLevel = root.Q<Label>("PlayerLevel");
+        playerHealth = root.Q<Label>("PlayerHealth");
 
         fightButton.clicked += OnFightButton;
         actButton.clicked += OnActButton;
@@ -103,6 +110,9 @@ public class BattleManager : MonoBehaviour
 
         // Initialize BattleItemUI and update items
         UpdateUI();
+
+        // Set initial Player Level and Health
+        PlayerUI();
 
         state = BattleState.Start;
 
@@ -117,6 +127,12 @@ public class BattleManager : MonoBehaviour
         {
             SetupBattle();
         }
+    }
+
+    private void PlayerUI()
+    {
+        playerLevel.text = "LV: " + player.Level;
+        playerHealth.text = "HP: " + player.CurrentHealth + " / " + player.MaxHealth;
     }
 
     private void UpdateUI()
@@ -295,7 +311,7 @@ public class BattleManager : MonoBehaviour
         // Check if all enemies are defeated
         if (enemies.Count == 0)
         {
-            EndBattle();
+            StartCoroutine(EndBattle());
         }
         else
         {
@@ -304,10 +320,48 @@ public class BattleManager : MonoBehaviour
         }
     }
 
-    private void EndBattle()
+    private IEnumerator EndBattle()
     {
-        Debug.Log("All enemies defeated! Battle ended.");
-        // Implement battle end logic, such as rewarding the player, transitioning scenes, etc.
+        // Handle end of battle
+        state = BattleState.End;
+
+        player.AddItems(acquiredItems);
+        player.AddExperience(acquiredExperience);
+        player.AddGold(acquiredGold);
+
+        ClearBox();
+
+        List<string> lines = new List<string>
+        {
+            "You won the battle!",
+            "You gained " + acquiredExperience + " experience.",
+            "You gained " + acquiredGold + " gold.",
+        };
+
+        // Add lines for each item acquired with the number of each
+        var itemCounts = new Dictionary<string, int>();
+        foreach (var item in acquiredItems)
+        {
+            if (itemCounts.ContainsKey(item.ItemName))
+            {
+                itemCounts[item.ItemName]++;
+            }
+            else
+            {
+                itemCounts[item.ItemName] = 1;
+            }
+        }
+
+        foreach (var kvp in itemCounts)
+        {
+            lines.Add($"you gained {kvp.Key} x{kvp.Value}.");
+        }
+
+        foreach (var line in lines)
+        {
+            yield return StartCoroutine(TypeText(line, 0.05f));
+        }
+
     }
 
     void SetupBattle()
@@ -435,6 +489,13 @@ public class BattleManager : MonoBehaviour
         Vector3 spawnPosition = boxScaler.transform.position;
         playerInstance = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
 
+        // Set Player Data
+        BattlePlayerController playerController = playerInstance.GetComponent<BattlePlayerController>();
+        if (playerController != null)
+        {
+            playerController.SetPlayerData(player);
+        }
+
         // Start the bullet hell sequence
         StartCoroutine(EnemyAttack());
     }
@@ -464,12 +525,13 @@ public class BattleManager : MonoBehaviour
             }
         };
 
-        bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(getTargetPosition));
+        int damage = enemy.Attack;
+        bulletHellCoroutine = StartCoroutine(currentBulletHellPattern.ExecutePattern(getTargetPosition, damage));
 
         // Start monitoring bullets
         StartCoroutine(currentBulletHellPattern.MonitorBullets());
 
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(5f);
 
         if (bulletHellCoroutine != null)
         {
@@ -571,6 +633,11 @@ public class BattleManager : MonoBehaviour
 
             if (enemyController.enemyData.CurrentHealth <= 0)
             {
+                // store enemy rewards
+                acquiredExperience += enemyController.enemyData.Experience;
+                acquiredGold += enemyController.enemyData.Gold;
+                acquiredItems.Add(enemyController.enemyData.ItemDrop);
+
                 // Handle enemy defeat
                 StartCoroutine(HandleEnemyDeath(enemyController, selectedEnemyIndex));
             }
@@ -627,5 +694,29 @@ public class BattleManager : MonoBehaviour
             return instantiatedEnemies[selectedEnemyIndex];
         }
         return null;
+    }
+
+    public void NotifyDamageTaken(int damage)
+    {
+        player.TakeDamage(damage);
+
+        if (player.CurrentHealth <= 0)
+        {
+            // Handle player defeat
+            PlayerDeath();
+        }
+        else
+        {
+            //update UI
+            playerHealth.text = "HP: " + player.CurrentHealth + " / " + player.MaxHealth;
+        }
+
+    }
+
+    private void PlayerDeath()
+    {
+        // Handle player death
+        //TODO switch to game over scene
+        Debug.Log("Player defeated!");
     }
 }

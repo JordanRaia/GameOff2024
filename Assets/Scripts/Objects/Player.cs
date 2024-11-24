@@ -86,9 +86,24 @@ public class Player : ScriptableObject
         inventory.Add(item);
     }
 
+    public void AddItems(List<Item> items)
+    {
+        inventory.AddRange(items);
+    }
+
     public void RemoveItem(Item item)
     {
         inventory.Remove(item);
+    }
+
+    public void AddGold(int amount)
+    {
+        gold += amount;
+    }
+
+    public void RemoveGold(int amount)
+    {
+        gold -= amount;
     }
 
     public List<Item> GetItemsByType(ItemType type)

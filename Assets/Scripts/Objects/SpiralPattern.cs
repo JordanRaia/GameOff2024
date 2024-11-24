@@ -15,7 +15,7 @@ public class SpiralPattern : BulletHellPattern
 
     private Vector2 fixedTargetPosition; // Store the fixed target position if static
 
-    public override IEnumerator ExecutePattern(Func<Vector2> getTargetPosition)
+    public override IEnumerator ExecutePattern(Func<Vector2> getTargetPosition, int damage)
     {
         int wave = 0;
 
@@ -26,7 +26,7 @@ public class SpiralPattern : BulletHellPattern
             for (int i = 0; i < bulletsPerWave; i++)
             {
                 float angle = (i * (360f / bulletsPerWave)) + (wave * angleOffsetPerWave);
-                SpawnBullet(angle, currentTargetPosition);
+                SpawnBullet(angle, currentTargetPosition, damage);
             }
 
             wave++;
@@ -34,7 +34,7 @@ public class SpiralPattern : BulletHellPattern
         }
     }
 
-    void SpawnBullet(float angle, Vector2 targetPosition) // Changed to Vector2
+    private void SpawnBullet(float angle, Vector2 targetPosition, int damage) // Changed to Vector2
     {
         // Calculate spawn position around the target position at spawnRadius distance
         Vector2 offset = new Vector2(
@@ -48,6 +48,8 @@ public class SpiralPattern : BulletHellPattern
         // Set bullet to move towards the target position
         Vector2 direction = (targetPosition - spawnPosition).normalized;
         bullet.GetComponent<Rigidbody2D>().linearVelocity = direction * bulletSpeed;
+        // Set the bullet's damage
+        bullet.GetComponent<Bullet>().setDamage(damage);
         activeBullets.Add(bullet);
     }
 
