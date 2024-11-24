@@ -475,6 +475,8 @@ public class BattleManager : MonoBehaviour
 
     void EnemyTurn()
     {
+        ClearBox();
+
         // set box sprite to none
         boxScaler.SetSprite(null);
 
@@ -718,5 +720,32 @@ public class BattleManager : MonoBehaviour
         // Handle player death
         //TODO switch to game over scene
         Debug.Log("Player defeated!");
+    }
+
+    public void OnItemClicked(HealthItem item)
+    {
+        StartCoroutine(HealPlayer(item));
+    }
+
+    private IEnumerator HealPlayer(HealthItem item)
+    {
+        ClearBox();
+
+        //Heal Player amount of item
+        player.Heal(item.HealAmount);
+
+        //Remove item from inventory
+        player.RemoveItem(item);
+
+        UpdateUI();
+
+        //Update UI
+        PlayerUI();
+
+        //Type out item used and amount of health restored
+        yield return StartCoroutine(TypeText("Used " + item.ItemName + " to heal " + item.HealAmount + " HP.", 0.05f));
+
+        //Switch to enemy turn
+        SwitchToEnemyTurn();
     }
 }

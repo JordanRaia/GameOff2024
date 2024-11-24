@@ -57,7 +57,7 @@ public class BattleItemUI : MonoBehaviour
 
     void OnItemClicked(int index)
     {
-        Debug.Log("Clicked on " + healthItems[index].ItemName);
+        BattleManager.Instance.OnItemClicked((HealthItem)healthItems[index]);
     }
 
     void NextPage()
