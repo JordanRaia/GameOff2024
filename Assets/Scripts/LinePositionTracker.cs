@@ -9,6 +9,8 @@ public class LinePositionTracker : MonoBehaviour
     private MovingLine movingLine; // Reference to the MovingLine component
     private float boxWidth; // Width of the box in world units
     private bool isFlashing = false;
+    private Coroutine enemyMovementCoroutine; // Reference to the enemy movement coroutine
+    private HealthBar currentHealthBar; // Reference to the existing Health Bar
 
     public delegate void LineCoroutineComplete();
     public event LineCoroutineComplete OnLineCoroutineComplete;
@@ -71,11 +73,45 @@ public class LinePositionTracker : MonoBehaviour
     {
         isFlashing = true;
 
+        // Get the selected enemy GameObject
+        GameObject selectedEnemy = BattleManager.Instance.GetSelectedEnemy();
+        if (selectedEnemy == null)
+        {
+            Debug.LogError("No enemy selected.");
+            yield break;
+        }
+
+        // Get the EnemyController from the selected enemy
+        EnemyController enemyController = selectedEnemy.GetComponent<EnemyController>();
+        if (enemyController == null)
+        {
+            Debug.LogError("EnemyController component not found on selected enemy.");
+            yield break;
+        }
+
+        // Reference the Health Bar via EnemyController
+        currentHealthBar = enemyController.HealthBar;
+        if (currentHealthBar != null)
+        {
+            currentHealthBar.gameObject.SetActive(true); // Enable the HealthBar
+            currentHealthBar.SetHealth(enemyController.enemyData.CurrentHealth, enemyController.enemyData.MaxHealth);
+        }
+        else
+        {
+            Debug.LogError("HealthBar not found on the selected enemy.");
+        }
+
+        // Call BattleManager to spawn the slash effect on the enemy
+        BattleManager.Instance.SpawnSlash();
+
         // Stop movement by setting CanMove to false
         if (movingLine != null)
         {
             movingLine.CanMove = false;
         }
+
+        // Start enemy movement
+        enemyMovementCoroutine = StartCoroutine(MoveEnemyRapidly());
 
         float duration = timeToFlash; // Duration of the flashing effect
         float elapsedTime = 0f;
@@ -91,10 +127,62 @@ public class LinePositionTracker : MonoBehaviour
             elapsedTime += 0.1f;
         }
 
+        // Update Health Bar gradually
+        StartCoroutine(currentHealthBar.GetComponent<HealthBar>().UpdateHealthBar(enemyController.enemyData.CurrentHealth, enemyController.enemyData.MaxHealth));
+
+        // Stop enemy movement
+        if (enemyMovementCoroutine != null)
+        {
+            StopCoroutine(enemyMovementCoroutine);
+            enemyMovementCoroutine = null;
+        }
+
+        // Disable the HealthBar
+        if (currentHealthBar != null)
+        {
+            currentHealthBar.gameObject.SetActive(false);
+        }
+
         // Notify BattleManager after flashing is complete
         OnLineCoroutineComplete?.Invoke();
 
         // Destroy the line object after 3 seconds
         Destroy(gameObject);
+    }
+
+    private IEnumerator MoveEnemyRapidly()
+    {
+        // Get the selected enemy from BattleManager
+        GameObject enemy = BattleManager.Instance.GetSelectedEnemy();
+
+        if (enemy == null)
+            yield break;
+
+        Transform enemyTransform = enemy.transform;
+        Vector3 originalPosition = enemyTransform.position;
+        float moveSpeed = 6.0f;   // Speed of movement
+
+        while (true)
+        {
+            // Move Right
+            float elapsed = 0f;
+            while (elapsed < 0.05f)
+            {
+                enemyTransform.position += Vector3.right * moveSpeed * Time.deltaTime;
+                elapsed += Time.deltaTime;
+                yield return null;
+            }
+
+            // Move Left
+            elapsed = 0f;
+            while (elapsed < 0.05f)
+            {
+                enemyTransform.position += Vector3.left * moveSpeed * Time.deltaTime;
+                elapsed += Time.deltaTime;
+                yield return null;
+            }
+
+            // Repeat
+        }
     }
 }

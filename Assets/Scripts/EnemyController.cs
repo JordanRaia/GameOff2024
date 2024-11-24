@@ -4,6 +4,11 @@ public class EnemyController : MonoBehaviour
 {
     public BattleEnemy enemyData { get; private set; }  // Public getter with a private setter
 
+    [SerializeField] private HealthBar healthBar; // Reference to the Health Bar
+
+    // Public property to access the HealthBar
+    public HealthBar HealthBar => healthBar;
+
     private void Start()
     {
         if (enemyData != null)

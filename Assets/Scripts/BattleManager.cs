@@ -22,6 +22,7 @@ public class BattleManager : MonoBehaviour
     [SerializeField] private Sprite radiantSprite;  // Sprite to display in the box for a radiant effect
     [SerializeField] private GameObject enemyPrefab; // Reference to the enemy prefab
     [SerializeField] private GameObject playerPrefab; // Reference to the player prefab
+    [SerializeField] private GameObject slashEffect; // Reference to the slash effect prefab
 
     //--- UI Elements (Buttons and Pages) ---
     [Header("UI Elements")]
@@ -255,6 +256,13 @@ public class BattleManager : MonoBehaviour
             EnemyController enemyController = enemyObject.GetComponent<EnemyController>();
             enemyController.SetEnemyData(enemies[i]);
 
+            // Set Health Bar reference
+            HealthBar hb = enemyObject.GetComponentInChildren<HealthBar>();
+            if (hb != null)
+            {
+                enemies[i].SetHealthBar(hb);
+            }
+
             // Add the instantiated enemy to the list
             instantiatedEnemies.Add(enemyObject);
         }
@@ -276,6 +284,7 @@ public class BattleManager : MonoBehaviour
 
     void PlayerTurn()
     {
+        selectedEnemyIndex = -1; // Reset the selected enemy index
         // Enable buttons for player actions
     }
 
@@ -519,7 +528,6 @@ public class BattleManager : MonoBehaviour
             EnemyController enemyController = instantiatedEnemies[selectedEnemyIndex].GetComponent<EnemyController>();
             int damage = CalculateDamage(percentage);
             enemyController.TakeDamage(damage);
-            selectedEnemyIndex = -1;
 
             // TODO start coroutine to show enemy health and damage animation
         }
@@ -552,5 +560,22 @@ public class BattleManager : MonoBehaviour
         enemyPage.style.display = DisplayStyle.None;
         boxText.style.display = DisplayStyle.None;
         enemyActPage.style.display = DisplayStyle.None;
+    }
+
+    // Method to spawn the slash effect at a specified position
+    public void SpawnSlash()
+    {
+        Vector3 position = instantiatedEnemies[selectedEnemyIndex].transform.position;
+        Instantiate(slashEffect, position, Quaternion.identity);
+    }
+
+    // Add this method to get the currently selected enemy
+    public GameObject GetSelectedEnemy()
+    {
+        if (selectedEnemyIndex >= 0 && selectedEnemyIndex < instantiatedEnemies.Count)
+        {
+            return instantiatedEnemies[selectedEnemyIndex];
+        }
+        return null;
     }
 }

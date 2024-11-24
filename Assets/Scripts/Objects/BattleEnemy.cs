@@ -35,6 +35,8 @@ public class BattleEnemy : ScriptableObject
     [Header("Attack Patterns")]
     public List<BulletHellPattern> bulletHellPatterns;
 
+    private HealthBar healthBar; // Reference to the Health Bar
+
     // Properties for accessing private variables
     public string EnemyName => enemyName;
     public Sprite EnemySprite => enemySprite;
@@ -53,10 +55,27 @@ public class BattleEnemy : ScriptableObject
     public float MercyChance => mercyChance;
     public string MercyDialogue => mercyDialogue;
 
+    public void SetHealthBar(HealthBar hb)
+    {
+        healthBar = hb;
+        healthBar.SetHealth(currentHealth, maxHealth);
+    }
+
+    public void UpdateHealthBar(int newHealth)
+    {
+        if (healthBar != null)
+        {
+            healthBar.UpdateHealth(newHealth, maxHealth);
+        }
+    }
+
     // Method to take damage and update health
     public void TakeDamage(int damage)
     {
         currentHealth -= damage - defense;
+        if (currentHealth < 0) currentHealth = 0;
+        UpdateHealthBar(currentHealth);
+
         if (currentHealth <= 0)
         {
             Die();

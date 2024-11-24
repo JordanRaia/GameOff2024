@@ -1108,6 +1108,7 @@ MonoBehaviour:
   radiantSprite: {fileID: 21300000, guid: a3e1b8e31cf6c4f4b811c772c69c80f3, type: 3}
   enemyPrefab: {fileID: 4646318365759469726, guid: 43ce621efaa2582459d98510b343f07a, type: 3}
   playerPrefab: {fileID: 7366884570859951120, guid: 6c5a5e27d6d7fca4ca19c1c01609a5df, type: 3}
+  slashEffect: {fileID: 6150591504141539589, guid: 15c0bc8b017425a429e37bcd222b6816, type: 3}
   spawnAreaWidth: 18
   yOffset: 2
   enemyScale: 6
