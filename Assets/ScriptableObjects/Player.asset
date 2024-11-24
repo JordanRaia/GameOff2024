@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Player
   m_EditorClassIdentifier: 
   maxHealth: 20
-  currentHealth: -4
+  currentHealth: 20
   experience: 0
   level: 1
   gold: 0
