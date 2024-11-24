@@ -212,7 +212,6 @@ public class BattleManager : MonoBehaviour
         {
             // start coroutine to type out the line
             yield return StartCoroutine(TypeText(line, 0.05f));
-            // yield return new WaitForSeconds(2.0f); //TODO change back to 2.0f
         }
 
         boxText.style.display = DisplayStyle.None;
@@ -232,7 +231,6 @@ public class BattleManager : MonoBehaviour
                 //change text bubble text to line
                 // start coroutine to type out the line
                 yield return StartCoroutine(TypeEnemyText(textComponent, line, 0.05f));
-                // yield return new WaitForSeconds(2.0f); //TODO Change back to 2.0f
             }
 
             bubbleTransform.gameObject.SetActive(false);
@@ -362,6 +360,7 @@ public class BattleManager : MonoBehaviour
             yield return StartCoroutine(TypeText(line, 0.05f));
         }
 
+        //TODO: Add transition to overworld or next scene
     }
 
     void SetupBattle()
@@ -427,7 +426,7 @@ public class BattleManager : MonoBehaviour
         float randomValue = UnityEngine.Random.value;
         if (randomValue <= lowestMercyChance)
         {
-            //TODO implement mercy logic
+            //TODO implement mercy logic, switch back to overworld
             Debug.Log("Mercy successful!");
         }
         else
@@ -480,10 +479,8 @@ public class BattleManager : MonoBehaviour
         // set box sprite to none
         boxScaler.SetSprite(null);
 
-        // TODO resize box, make it change gradually
+        //TODO maybe figure out how to make it resize to a box from the starting size
         boxScaler.ResizeBox(0.25f, 0.25f, true, OnBoxResizeComplete);
-
-        // Remove StartCoroutine(EnemyAttack()); from here
     }
 
     private void OnBoxResizeComplete()
@@ -583,7 +580,6 @@ public class BattleManager : MonoBehaviour
         {
             // start coroutine to type out the line
             yield return StartCoroutine(TypePlayerText(line, 0.05f));
-            // yield return new WaitForSeconds(2.0f); //TODO change back to 2.0f
         }
 
         ClearBox(); // Clear box content
@@ -601,7 +597,6 @@ public class BattleManager : MonoBehaviour
             //change text bubble text to line
             // start coroutine to type out the line
             yield return StartCoroutine(TypeEnemyText(textComponent, line, 0.05f));
-            // yield return new WaitForSeconds(2.0f); //TODO Change back to 2.0f
         }
 
         bubbleTransform.gameObject.SetActive(false);
