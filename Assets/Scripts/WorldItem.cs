@@ -4,6 +4,7 @@ public class WorldItem : MonoBehaviour
 {
     public Item item; // Reference to the item scriptable object
     private bool isPlayerInRange = false;
+    public string ID; // Unique identifier for the item
 
     void Start()
     {
@@ -12,13 +13,25 @@ public class WorldItem : MonoBehaviour
         {
             gameObject.AddComponent<CircleCollider2D>().isTrigger = true;
         }
+
+        if (string.IsNullOrEmpty(ID))
+        {
+            ID = System.Guid.NewGuid().ToString();
+        }
+
+        if (WorldManager.Instance.PickedUpItems.Contains(ID))
+        {
+            Destroy(gameObject);
+            return;
+        }
     }
 
     void Update()
     {
         if (isPlayerInRange && Input.GetKeyDown(KeyCode.E))
         {
-            WorldManager.Instance.AddItemToInventory(item);
+            WorldManager.Instance.AddItemToInventory(item, ID); // Pass the ID
+            WorldManager.Instance.PickedUpItems.Add(ID);
             Destroy(gameObject);
         }
     }

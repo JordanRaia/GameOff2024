@@ -440,6 +440,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 11400000, guid: 73d2f065ee5a93f48ac3bc74ef400946, type: 2}
+  ID: 1
 --- !u!114 &313638455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,6 +555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 11400000, guid: c24da6029609d634d97f358318e0d887, type: 2}
+  playerGameObject: {fileID: 2135394854}
 --- !u!114 &322738951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58392,6 +58394,11 @@ MonoBehaviour:
   m_Area: 1
   m_IgnoreFromBuild: 0
   m_AffectedAgents: ffffffff
+--- !u!1 &2135394854 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6518224124393325058, guid: 99c2455a84bf660418a5d36a92ec2256, type: 3}
+  m_PrefabInstance: {fileID: 4719592940537394278}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4719592940537394278
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58548,6 +58555,7 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 322738952}
   - {fileID: 1267598744}
   - {fileID: 1096741025}
   - {fileID: 4719592940537394278}
@@ -58559,4 +58567,3 @@ SceneRoots:
   - {fileID: 1965536634}
   - {fileID: 274284415}
   - {fileID: 313638457}
-  - {fileID: 322738952}
