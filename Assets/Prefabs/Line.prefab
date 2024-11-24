@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxScaler: {fileID: 0}
-  speed: 5
+  speed: 12
 --- !u!114 &4267076007194754889
 MonoBehaviour:
   m_ObjectHideFlags: 0
