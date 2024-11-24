@@ -61,7 +61,7 @@ public class HealthBar : MonoBehaviour
     private void UpdateSprite(int health)
     {
         int spriteIndex = Mathf.Clamp(health * 20 / maxHealth, 0, 20);
-wa        spriteRenderer.sprite = healthSprites[spriteIndex];
+        spriteRenderer.sprite = healthSprites[spriteIndex];
     }
 
     private void UpdateSprite()
