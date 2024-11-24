@@ -160,7 +160,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 312133695}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4040470980cb504b8f2445045f40363, type: 3}
+  m_Script: {fileID: 11500000, guid: ab406c091a4423d4f838c3d1af198206, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startingDialogue: {fileID: 11400000, guid: 7a1cbb774fc7a194f88b78706d598587, type: 2}
