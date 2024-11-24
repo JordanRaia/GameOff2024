@@ -1,0 +1,17 @@
+.savePanel {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.saveButton {
+    max-width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+}

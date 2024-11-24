@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 
 [CreateAssetMenu(fileName = "New Player", menuName = "Player/Player")]
+[System.Serializable]
 public class Player : ScriptableObject
 {
     // Health
