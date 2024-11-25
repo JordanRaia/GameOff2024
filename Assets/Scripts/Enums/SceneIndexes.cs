@@ -3,8 +3,7 @@ using System.Collections;
 
 public enum SceneIndexes
 {
-    MANAGER = 0,
-    TitleScreen = 1,
-    OpeningScene = 2,
-    TownSquare = 3,
+    TitleScreen = 0,
+    OpeningScene = 1,
+    TownSquare = 2,
 }
