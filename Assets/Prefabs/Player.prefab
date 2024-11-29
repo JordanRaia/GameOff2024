@@ -116,6 +116,7 @@ GameObject:
   - component: {fileID: 4072687615465520084}
   - component: {fileID: 5366935496305553865}
   - component: {fileID: 8598828435860157394}
+  - component: {fileID: 743653948999363826}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -235,6 +236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   controlsEnabled: 1
+  animator: {fileID: 743653948999363826}
 --- !u!114 &5366935496305553865
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -255,6 +257,7 @@ MonoBehaviour:
   staminaRegen: 10
   regenTimer: 0
   regenDelay: 1
+  idleDelay: 0
   staminaBarImage: {fileID: 951187760173376920}
   staminaStages:
   - {fileID: 1715122429, guid: bd6271b97cbf7b6429d2ad731c3eecdd, type: 3}
@@ -319,6 +322,28 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!95 &743653948999363826
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6518224124393325058}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4142d2db621076945867bb315b96ddc6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &7555660786462301450
 GameObject:
   m_ObjectHideFlags: 0
