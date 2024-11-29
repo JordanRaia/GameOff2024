@@ -9,6 +9,7 @@ public class TopDownMovement : MonoBehaviour
     private Stamina stamina;
     private Vector2 moveInput;
     public bool controlsEnabled = true; // Controls enabled by default
+    public Animator animator;
 
     public static TopDownMovement Instance; // Singleton instance
 
@@ -41,13 +42,20 @@ public class TopDownMovement : MonoBehaviour
         {
             moveInput = Vector2.zero;
         }
+
+        if (animator != null)
+        {
+            animator.SetFloat("Horizontal", moveInput.x);
+            animator.SetFloat("Vertical", moveInput.y);
+            animator.SetFloat("Speed", moveInput.sqrMagnitude);
+        }
     }
     void FixedUpdate()
     {
-        if(stamina != null)
-        rb2d.linearVelocity = moveInput * stamina.currentSpeed;
+        if (stamina != null)
+            rb2d.linearVelocity = moveInput * stamina.currentSpeed;
         else
-        rb2d.linearVelocity = moveInput * moveSpeed;
+            rb2d.linearVelocity = moveInput * moveSpeed;
     }
     private void playerMovement()
     {
