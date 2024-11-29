@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: 3ad98448ccf3c1c489c26d71ea9fa7e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3587090067097343492
+    second: Character 8 Up_0
+  - first:
+      213: 6505743837921891545
+    second: Character 8 Up_1
+  - first:
+      213: 3623920970046436299
+    second: Character 8 Up_2
+  - first:
+      213: 509851886779564564
+    second: Character 8 Up_3
+  - first:
+      213: 7766248170478128877
+    second: Character 8 Up_4
+  - first:
+      213: -3732429253606170476
+    second: Character 8 Up_5
+  - first:
+      213: -9090133029061142745
+    second: Character 8 Up_6
+  - first:
+      213: -2575397388164825808
+    second: Character 8 Up_7
+  - first:
+      213: 766996724945634576
+    second: Character 8 Up_8
+  - first:
+      213: 5295326421393974099
+    second: Character 8 Up_9
+  - first:
+      213: -5257370107581134097
+    second: Character 8 Up_10
+  - first:
+      213: -2089703145128400835
+    second: Character 8 Up_11
+  - first:
+      213: -5762018715255491737
+    second: Character 8 Up_12
+  - first:
+      213: 1431632670649550063
+    second: Character 8 Up_13
+  - first:
+      213: 5827022607742231496
+    second: Character 8 Up_14
+  - first:
+      213: 6191371878762828702
+    second: Character 8 Up_15
+  - first:
+      213: -2938149328232915203
+    second: Character 8 Up_16
+  - first:
+      213: -7394326413115602776
+    second: Character 8 Up_17
+  - first:
+      213: 606088131152143020
+    second: Character 8 Up_18
+  - first:
+      213: -5067591535619590517
+    second: Character 8 Up_19
+  - first:
+      213: 7945266888077883748
+    second: Character 8 Up_20
+  - first:
+      213: -3891862127852032665
+    second: Character 8 Up_21
+  - first:
+      213: -6913329277962096048
+    second: Character 8 Up_22
+  - first:
+      213: -6505322720775141000
+    second: Character 8 Up_23
+  - first:
+      213: -1777474756464303222
+    second: Character 8 Up_24
+  - first:
+      213: 1300830702105805968
+    second: Character 8 Up_25
+  - first:
+      213: 2393171540133802785
+    second: Character 8 Up_26
+  - first:
+      213: -69917459471259277
+    second: Character 8 Up_27
+  - first:
+      213: -58971400950535674
+    second: Character 8 Up_28
+  - first:
+      213: 2576016652369007090
+    second: Character 8 Up_29
+  - first:
+      213: 5213946190262373182
+    second: Character 8 Up_30
+  - first:
+      213: 2052623582061708434
+    second: Character 8 Up_31
+  - first:
+      213: 6793996346361182358
+    second: Character 8 Up_32
+  - first:
+      213: -342636842821851395
+    second: Character 8 Up_33
+  - first:
+      213: 775289332533531533
+    second: Character 8 Up_34
+  - first:
+      213: -7560720953046070565
+    second: Character 8 Up_35
+  - first:
+      213: 7468856647789515157
+    second: Character 8 Up_36
+  - first:
+      213: -8967223154315028899
+    second: Character 8 Up_37
+  - first:
+      213: 3319682008853055447
+    second: Character 8 Up_38
+  - first:
+      213: 1774750476103794453
+    second: Character 8 Up_39
+  - first:
+      213: 703560274770881016
+    second: Character 8 Up_40
+  - first:
+      213: -1375155217275457343
+    second: Character 8 Up_41
+  - first:
+      213: 3298571216267947085
+    second: Character 8 Up_42
+  - first:
+      213: 3691163189167979383
+    second: Character 8 Up_43
+  - first:
+      213: 8551782845809917786
+    second: Character 8 Up_44
+  - first:
+      213: 144054950814474202
+    second: Character 8 Up_45
+  - first:
+      213: 8317079921634664421
+    second: Character 8 Up_46
+  - first:
+      213: 4057367432666592943
+    second: Character 8 Up_47
+  - first:
+      213: 6479531548078447459
+    second: Character 8 Up_48
+  - first:
+      213: 1745908993908798770
+    second: Character 8 Up_49
+  - first:
+      213: -5401259415886516958
+    second: Character 8 Up_50
+  - first:
+      213: -1031529878734595554
+    second: Character 8 Up_51
+  - first:
+      213: 1306700310096698809
+    second: Character 8 Up_52
+  - first:
+      213: -1192889127079303337
+    second: Character 8 Up_53
+  - first:
+      213: 2667495461349355996
+    second: Character 8 Up_54
+  - first:
+      213: -4620337776636734121
+    second: Character 8 Up_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 8 Up_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1894
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065baa2967e7c130800000000000000
+      internalID: 3587090067097343492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1894
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4550b3d8b094a50800000000000000
+      internalID: 6505743837921891545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1894
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f4b10ce0ca4230800000000000000
+      internalID: 3623920970046436299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1894
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120f87f69b531700800000000000000
+      internalID: 509851886779564564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1894
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee40ee409147cb60800000000000000
+      internalID: 7766248170478128877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1894
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490278d7e5fb33cc0800000000000000
+      internalID: -3732429253606170476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1894
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d3c1fb2c59d180800000000000000
+      internalID: -9090133029061142745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1894
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d77f278b9524cd0800000000000000
+      internalID: -2575397388164825808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1639
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015c546257be4aa00800000000000000
+      internalID: 766996724945634576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1638
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353adec0357cc7940800000000000000
+      internalID: 5295326421393974099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1638
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8edcedb11a07b0800000000000000
+      internalID: -5257370107581134097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1638
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38ea9caf02eff2e0800000000000000
+      internalID: -2089703145128400835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1638
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7633b08c1823900b0800000000000000
+      internalID: -5762018715255491737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_13
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1638
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe409ee245e2ed310800000000000000
+      internalID: 1431632670649550063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1638
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c365a8503ebdd050800000000000000
+      internalID: 5827022607742231496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_15
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1637
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935002abeb2ce550800000000000000
+      internalID: 6191371878762828702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1389
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfedf91c0c89937d0800000000000000
+      internalID: -2938149328232915203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8c4f8dd43126990800000000000000
+      internalID: -7394326413115602776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1387
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca267efa1f1496800800000000000000
+      internalID: 606088131152143020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1385
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b863e9cf85c4ca9b0800000000000000
+      internalID: -5067591535619590517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_20
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1365
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4693e8d8322434e60800000000000000
+      internalID: 7945266888077883748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_21
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1363
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d6592c3045df9c0800000000000000
+      internalID: -3891862127852032665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_22
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1382
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052f2cb66abee00a0800000000000000
+      internalID: -6913329277962096048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_23
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1389
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798beeb37378b5a0800000000000000
+      internalID: -6505322720775141000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1133
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83a8bf50242557e0800000000000000
+      internalID: -1777474756464303222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1129
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09440f7a1aa7d0210800000000000000
+      internalID: 1300830702105805968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_26
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1126
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ff3016d0463120800000000000000
+      internalID: 2393171540133802785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1126
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3792e98e07a970ff0800000000000000
+      internalID: -69917459471259277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_28
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1126
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aaf62c2dd7e2ff0800000000000000
+      internalID: -58971400950535674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_29
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1126
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f112fb3f79dfb320800000000000000
+      internalID: 2576016652369007090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_30
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1126
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b07947f68ab5840800000000000000
+      internalID: 5213946190262373182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_31
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1126
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c06ac5426c7c10800000000000000
+      internalID: 2052623582061708434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 870
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f82e4eaf194e50800000000000000
+      internalID: 6793996346361182358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 870
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df664a85b95be3bf0800000000000000
+      internalID: -342636842821851395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 859
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d839fcf4a8162ca00800000000000000
+      internalID: 775289332533531533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_35
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 858
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda06d30a5ce21790800000000000000
+      internalID: -7560720953046070565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_36
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 863
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911fc9ac85b6a760800000000000000
+      internalID: 7468856647789515157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_37
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 869
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5615613d060e8380800000000000000
+      internalID: -8967223154315028899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_38
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 865
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d701f8d231e11e20800000000000000
+      internalID: 3319682008853055447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_39
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 859
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f3f1da72e21a810800000000000000
+      internalID: 1774750476103794453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 600
+        width: 61
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96bcf975c83c900800000000000000
+      internalID: 703560274770881016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 605
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c07543ad977aece0800000000000000
+      internalID: -1375155217275457343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 612
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4caafb6b01e6cd20800000000000000
+      internalID: 3298571216267947085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_43
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 608
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfa5a2d55a93330800000000000000
+      internalID: 3691163189167979383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_44
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 614
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f77c060390ea670800000000000000
+      internalID: 8551782845809917786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_45
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 615
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfde6be639cff100800000000000000
+      internalID: 144054950814474202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_46
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 614
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef51997f143c6370800000000000000
+      internalID: 8317079921634664421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_47
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 614
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b453ee2aae4830800000000000000
+      internalID: 4057367432666592943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 358
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b172aec9bebe950800000000000000
+      internalID: 6479531548078447459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 358
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235f710daf6ba3810800000000000000
+      internalID: 1745908993908798770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_50
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 358
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da958ad2fda05b0800000000000000
+      internalID: -5401259415886516958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_51
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 347
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a92d26a054fa1f0800000000000000
+      internalID: -1031529878734595554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_52
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 358
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd4334205522210800000000000000
+      internalID: 1306700310096698809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_53
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 358
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757230cb8a1027fe0800000000000000
+      internalID: -1192889127079303337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_54
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 358
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f1b53df8d40520800000000000000
+      internalID: 2667495461349355996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 8 Up_55
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 358
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755df31954341efb0800000000000000
+      internalID: -4620337776636734121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

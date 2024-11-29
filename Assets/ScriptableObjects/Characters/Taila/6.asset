@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  dialogueText: "Player: [rolls eyes] Right. Spooky symbols. I\u2019ll make sure
+    to bring my coloring book. Fine, where exactly am I supposed to find this precious
+    map?"
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: a97428368c6651b4b908ba55a2af8611, type: 2}

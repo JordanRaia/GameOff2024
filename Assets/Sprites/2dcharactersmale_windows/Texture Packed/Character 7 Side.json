@@ -1,0 +1,532 @@
+{"frames": [
+
+{
+	"filename": "Side Bow Character 7 01",
+	"frame": {"x":4,"y":4,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 02",
+	"frame": {"x":109,"y":4,"w":105,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":126,"w":105,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 03",
+	"frame": {"x":218,"y":4,"w":114,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":126,"w":114,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 04",
+	"frame": {"x":336,"y":4,"w":116,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":127,"w":116,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 05",
+	"frame": {"x":456,"y":4,"w":115,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":127,"w":115,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 06",
+	"frame": {"x":575,"y":4,"w":113,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":127,"w":113,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Bow Character 7 07",
+	"frame": {"x":692,"y":4,"w":100,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":100,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 01",
+	"frame": {"x":796,"y":4,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 02",
+	"frame": {"x":4,"y":215,"w":109,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":123,"w":109,"h":210},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 03",
+	"frame": {"x":117,"y":215,"w":108,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":131,"w":108,"h":202},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 04",
+	"frame": {"x":229,"y":215,"w":132,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":217,"y":132,"w":132,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 05",
+	"frame": {"x":365,"y":215,"w":130,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":132,"w":130,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Cast Character 7 06",
+	"frame": {"x":499,"y":215,"w":117,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":214,"y":129,"w":117,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 01",
+	"frame": {"x":620,"y":215,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 02",
+	"frame": {"x":725,"y":215,"w":110,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":130,"w":110,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 03",
+	"frame": {"x":839,"y":215,"w":138,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":142,"w":138,"h":193},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 04",
+	"frame": {"x":4,"y":429,"w":121,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":118,"w":121,"h":211},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 05",
+	"frame": {"x":129,"y":429,"w":143,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":110,"w":143,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 06",
+	"frame": {"x":276,"y":429,"w":216,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":157,"w":216,"h":115},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 07",
+	"frame": {"x":496,"y":429,"w":189,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":219,"w":189,"h":110},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 08",
+	"frame": {"x":689,"y":429,"w":203,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":236,"w":203,"h":104},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Die Character 7 09",
+	"frame": {"x":4,"y":644,"w":207,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":241,"w":207,"h":99},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Hurt Character 7 01",
+	"frame": {"x":215,"y":644,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Hurt Character 7 02",
+	"frame": {"x":320,"y":644,"w":105,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":119,"w":105,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Hurt Character 7 03",
+	"frame": {"x":429,"y":644,"w":105,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":119,"w":105,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Hurt Character 7 04",
+	"frame": {"x":538,"y":644,"w":103,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":123,"w":103,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Hurt Character 7 05",
+	"frame": {"x":645,"y":644,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 01",
+	"frame": {"x":750,"y":644,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 02",
+	"frame": {"x":855,"y":644,"w":100,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":100,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 03",
+	"frame": {"x":4,"y":855,"w":99,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":99,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 04",
+	"frame": {"x":107,"y":855,"w":99,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":125,"w":99,"h":208},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 05",
+	"frame": {"x":210,"y":855,"w":98,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":125,"w":98,"h":209},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 06",
+	"frame": {"x":312,"y":855,"w":99,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":125,"w":99,"h":208},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Idle Character 7 07",
+	"frame": {"x":415,"y":855,"w":100,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":100,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 01",
+	"frame": {"x":519,"y":855,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 02",
+	"frame": {"x":624,"y":855,"w":106,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":126,"w":106,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 03",
+	"frame": {"x":734,"y":855,"w":114,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":127,"w":114,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 04",
+	"frame": {"x":852,"y":855,"w":105,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":126,"w":105,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 05",
+	"frame": {"x":4,"y":1068,"w":121,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":128,"w":121,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 06",
+	"frame": {"x":129,"y":1068,"w":119,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":130,"w":119,"h":203},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 07",
+	"frame": {"x":252,"y":1068,"w":124,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":128,"w":124,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 08",
+	"frame": {"x":380,"y":1068,"w":112,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":126,"w":112,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Pickup Character 7 09",
+	"frame": {"x":496,"y":1068,"w":100,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":100,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 01",
+	"frame": {"x":600,"y":1068,"w":113,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":115,"w":113,"h":184},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 02",
+	"frame": {"x":717,"y":1068,"w":112,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":117,"w":112,"h":181},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 03",
+	"frame": {"x":833,"y":1068,"w":107,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":207,"y":122,"w":107,"h":184},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 04",
+	"frame": {"x":4,"y":1279,"w":103,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":128,"w":103,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 05",
+	"frame": {"x":111,"y":1279,"w":103,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":122,"w":103,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 06",
+	"frame": {"x":218,"y":1279,"w":107,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":116,"w":107,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 07",
+	"frame": {"x":329,"y":1279,"w":124,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":117,"w":124,"h":187},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 08",
+	"frame": {"x":457,"y":1279,"w":121,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":122,"w":121,"h":179},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 09",
+	"frame": {"x":582,"y":1279,"w":103,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":128,"w":103,"h":198},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Run Character 7 10",
+	"frame": {"x":689,"y":1279,"w":103,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":122,"w":103,"h":188},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 01",
+	"frame": {"x":796,"y":1279,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 02",
+	"frame": {"x":901,"y":1279,"w":103,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":120,"w":103,"h":213},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 03",
+	"frame": {"x":4,"y":1496,"w":105,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":122,"w":105,"h":211},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 04",
+	"frame": {"x":113,"y":1496,"w":217,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":217,"y":124,"w":217,"h":250},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 05",
+	"frame": {"x":334,"y":1496,"w":215,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":132,"w":215,"h":267},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Swing Character 7 06",
+	"frame": {"x":553,"y":1496,"w":107,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":214,"y":129,"w":107,"h":259},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 01",
+	"frame": {"x":664,"y":1496,"w":101,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":126,"w":101,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 02",
+	"frame": {"x":769,"y":1496,"w":214,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":123,"w":214,"h":210},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 03",
+	"frame": {"x":4,"y":1767,"w":214,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":130,"w":214,"h":203},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 04",
+	"frame": {"x":222,"y":1767,"w":270,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":217,"y":132,"w":270,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 05",
+	"frame": {"x":496,"y":1767,"w":268,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":132,"w":268,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Side Thrust Character 7 06",
+	"frame": {"x":768,"y":1767,"w":214,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":129,"w":214,"h":205},
+	"sourceSize": {"w":512,"h":512}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Character 7 Side.png",
+	"format": "RGBA8888",
+	"size": {"w":1008,"h":1976},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a73f3d5ba2abbe98622fffea954ddd22:64bede83ccf9d5934896e79a584ef76c:6800a0f749d7624ec2d734e2fff47099$"
+}
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: Lyle 7
+  m_EditorClassIdentifier: 
+  dialogueText: "Player: Higher purpose? That\u2019s convenient. And I suppose you
+    have no idea what \u201Chigher purpose\u201D that would be? Or do you just enjoy
+    being cryptic?"
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: a6e14b64c1e5bcb4ba9305a218c9e536, type: 2}

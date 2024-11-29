@@ -1,0 +1,76 @@
+
+-- For DOWN and UP json: --
+filename: Down Bow Character 1 01
+filename: Down Bow Character 1 02
+filename: Down Bow Character 1 03
+filename: Down Bow Character 1 04
+filename: Down Bow Character 1 05
+filename: Down Bow Character 1 06
+filename: Down Bow Character 1 07
+
+filename: Down Cast Character 1 01
+filename: Down Cast Character 1 02
+filename: Down Cast Character 1 03
+filename: Down Cast Character 1 04
+filename: Down Cast Character 1 05
+filename: Down Cast Character 1 06
+
+filename: Down Die Character 1 01
+filename: Down Die Character 1 02
+filename: Down Die Character 1 03
+filename: Down Die Character 1 04
+filename: Down Die Character 1 05
+filename: Down Die Character 1 06
+filename: Down Die Character 1 07
+filename: Down Die Character 1 08
+filename: Down Die Character 1 09
+
+filename: Down Hurt Character 1 01
+filename: Down Hurt Character 1 02
+filename: Down Hurt Character 1 03
+filename: Down Hurt Character 1 04
+filename: Down Hurt Character 1 05
+
+filename: Down Idle Character 1 01
+filename: Down Idle Character 1 02
+filename: Down Idle Character 1 03
+filename: Down Idle Character 1 04
+filename: Down Idle Character 1 05
+filename: Down Idle Character 1 06
+filename: Down Idle Character 1 07
+
+filename: Down Run Character 1 01
+filename: Down Run Character 1 02
+filename: Down Run Character 1 03
+filename: Down Run Character 1 04
+filename: Down Run Character 1 05
+filename: Down Run Character 1 06
+filename: Down Run Character 1 07
+filename: Down Run Character 1 08
+filename: Down Run Character 1 09
+filename: Down Run Character 1 10
+
+filename: Down Swing Character 1 01
+filename: Down Swing Character 1 02
+filename: Down Swing Character 1 03
+filename: Down Swing Character 1 04
+filename: Down Swing Character 1 05
+filename: Down Swing Character 1 06
+
+filename: Down Thrust Character 1 01
+filename: Down Thrust Character 1 02
+filename: Down Thrust Character 1 03
+filename: Down Thrust Character 1 04
+filename: Down Thrust Character 1 05
+filename: Down Thrust Character 1 06
+
+- Addition for SIDE json: --
+filename: Side Pickup Character 1 01
+filename: Side Pickup Character 1 02
+filename: Side Pickup Character 1 03
+filename: Side Pickup Character 1 04
+filename: Side Pickup Character 1 05
+filename: Side Pickup Character 1 06
+filename: Side Pickup Character 1 07
+filename: Side Pickup Character 1 08
+filename: Side Pickup Character 1 09

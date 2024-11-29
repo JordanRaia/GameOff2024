@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  dialogueText: "Talia: [smirks] I wouldn\u2019t dream of it. I\u2019ll be waiting
+    right here\u2026 assuming you don\u2019t lose your nerve."
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 0}

@@ -1,0 +1,460 @@
+{"frames": [
+
+{
+	"filename": "Up Bow Character 7 01",
+	"frame": {"x":4,"y":4,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 02",
+	"frame": {"x":127,"y":4,"w":118,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":121,"w":118,"h":185},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 03",
+	"frame": {"x":249,"y":4,"w":120,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":122,"w":120,"h":184},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 04",
+	"frame": {"x":373,"y":4,"w":113,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":123,"w":113,"h":183},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 05",
+	"frame": {"x":490,"y":4,"w":160,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":123,"w":160,"h":183},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 06",
+	"frame": {"x":654,"y":4,"w":121,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":123,"w":121,"h":183},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Bow Character 7 07",
+	"frame": {"x":779,"y":4,"w":111,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":120,"w":111,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 01",
+	"frame": {"x":894,"y":4,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 02",
+	"frame": {"x":4,"y":194,"w":125,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":125,"h":185},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 03",
+	"frame": {"x":133,"y":194,"w":111,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":111,"w":111,"h":195},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 04",
+	"frame": {"x":248,"y":194,"w":112,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":107,"w":112,"h":199},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 05",
+	"frame": {"x":364,"y":194,"w":112,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":104,"w":112,"h":202},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Cast Character 7 06",
+	"frame": {"x":480,"y":194,"w":112,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":112,"w":112,"h":194},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 01",
+	"frame": {"x":596,"y":194,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 02",
+	"frame": {"x":719,"y":194,"w":117,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":131,"w":117,"h":176},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 03",
+	"frame": {"x":840,"y":194,"w":115,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":145,"w":115,"h":163},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 04",
+	"frame": {"x":4,"y":400,"w":116,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":116,"w":116,"h":178},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 05",
+	"frame": {"x":124,"y":400,"w":118,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":103,"w":118,"h":183},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 06",
+	"frame": {"x":246,"y":400,"w":164,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":139,"w":164,"h":157},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 07",
+	"frame": {"x":414,"y":400,"w":191,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":198,"w":191,"h":111},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 08",
+	"frame": {"x":609,"y":400,"w":194,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":226,"w":194,"h":111},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Die Character 7 09",
+	"frame": {"x":807,"y":400,"w":192,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":230,"w":192,"h":110},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Hurt Character 7 01",
+	"frame": {"x":4,"y":587,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Hurt Character 7 02",
+	"frame": {"x":127,"y":587,"w":127,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":114,"w":127,"h":179},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Hurt Character 7 03",
+	"frame": {"x":258,"y":587,"w":129,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":114,"w":129,"h":178},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Hurt Character 7 04",
+	"frame": {"x":391,"y":587,"w":124,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":117,"w":124,"h":183},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Hurt Character 7 05",
+	"frame": {"x":519,"y":587,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 01",
+	"frame": {"x":642,"y":587,"w":119,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":119,"w":119,"h":187},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 02",
+	"frame": {"x":765,"y":587,"w":118,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":119,"w":118,"h":187},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 03",
+	"frame": {"x":887,"y":587,"w":117,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":118,"w":117,"h":188},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 04",
+	"frame": {"x":4,"y":779,"w":117,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":117,"w":117,"h":189},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 05",
+	"frame": {"x":125,"y":779,"w":117,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":117,"w":117,"h":189},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 06",
+	"frame": {"x":246,"y":779,"w":117,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":117,"w":117,"h":189},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Idle Character 7 07",
+	"frame": {"x":367,"y":779,"w":118,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":119,"w":118,"h":187},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 01",
+	"frame": {"x":489,"y":779,"w":120,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":109,"w":120,"h":219},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 02",
+	"frame": {"x":613,"y":779,"w":119,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":112,"w":119,"h":220},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 03",
+	"frame": {"x":736,"y":779,"w":116,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":118,"w":116,"h":203},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 04",
+	"frame": {"x":856,"y":779,"w":113,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":123,"w":113,"h":185},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 05",
+	"frame": {"x":4,"y":1003,"w":116,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":118,"w":116,"h":199},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 06",
+	"frame": {"x":124,"y":1003,"w":118,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":110,"w":118,"h":218},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 07",
+	"frame": {"x":246,"y":1003,"w":117,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":112,"w":117,"h":223},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 08",
+	"frame": {"x":367,"y":1003,"w":114,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":118,"w":114,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 09",
+	"frame": {"x":485,"y":1003,"w":114,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":123,"w":114,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Run Character 7 10",
+	"frame": {"x":603,"y":1003,"w":119,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":118,"w":119,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 01",
+	"frame": {"x":726,"y":1003,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 02",
+	"frame": {"x":4,"y":1230,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":112,"w":193,"h":193},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 03",
+	"frame": {"x":201,"y":1230,"w":189,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":109,"w":189,"h":197},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 04",
+	"frame": {"x":394,"y":1230,"w":260,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":58,"w":260,"h":248},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 05",
+	"frame": {"x":658,"y":1230,"w":235,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":185,"y":58,"w":235,"h":248},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Swing Character 7 06",
+	"frame": {"x":4,"y":1482,"w":213,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":115,"w":213,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 01",
+	"frame": {"x":221,"y":1482,"w":119,"h":186},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":120,"w":119,"h":186},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 02",
+	"frame": {"x":344,"y":1482,"w":120,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":115,"w":120,"h":214},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 03",
+	"frame": {"x":468,"y":1482,"w":124,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":111,"w":124,"h":195},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 04",
+	"frame": {"x":596,"y":1482,"w":124,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":42,"w":124,"h":264},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 05",
+	"frame": {"x":724,"y":1482,"w":121,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":42,"w":121,"h":264},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Up Thrust Character 7 06",
+	"frame": {"x":849,"y":1482,"w":118,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":112,"w":118,"h":194},
+	"sourceSize": {"w":512,"h":512}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Character 7 Up.png",
+	"format": "RGBA8888",
+	"size": {"w":1017,"h":1750},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a73f3d5ba2abbe98622fffea954ddd22:64bede83ccf9d5934896e79a584ef76c:6800a0f749d7624ec2d734e2fff47099$"
+}
+}

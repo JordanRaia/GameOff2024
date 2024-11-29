@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: Miriam
+  m_EditorClassIdentifier: 
+  dialogueText: "Miriam: Oh, hello there! Haven\u2019t seen you around much. Terrible
+    business, isn\u2019t it? First, Mr. Eddison vanished, and now Mrs. Eddison\u2019s
+    gone as well! Some folks think they ran off together, but that seems a bit romantic
+    for them, don\u2019t you think?"
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: 8a471b1a6e7316c4487734838dd67f85, type: 2}

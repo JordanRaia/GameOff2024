@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: 2 7
+  m_EditorClassIdentifier: 
+  dialogueText: "Player: Look, all I want is a quiet life without people vanishing
+    every five minutes. So if there\u2019s some \u201Cbig secret,\u201D just tell
+    me where I need to go to make this nonsense stop bothering me."
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: 450fb7365e141394b8a3b55fafec3b36, type: 2}

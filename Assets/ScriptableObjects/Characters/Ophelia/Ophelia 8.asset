@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: Ophelia 8
+  m_EditorClassIdentifier: 
+  dialogueText: "Ophelia: [ignores the insult] Oh, you\u2019re like the council,
+    aren\u2019t you? They called my work \u201Cdestabilizing.\u201D Can you believe
+    that? Science doesn\u2019t \u201Cdestabilize\u201D anything; it only reveals
+    the truth. But some people are so afraid of knowledge."
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: 79457a0d893ae6343aa0bb9c96660293, type: 2}

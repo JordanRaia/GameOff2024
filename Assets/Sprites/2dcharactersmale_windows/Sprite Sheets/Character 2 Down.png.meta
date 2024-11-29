@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: e9adae688186ff149898a13e65c21d4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4210509621945024277
+    second: Character 2 Down_0
+  - first:
+      213: -6482051286675836224
+    second: Character 2 Down_1
+  - first:
+      213: -1174495655574225478
+    second: Character 2 Down_2
+  - first:
+      213: -1603335761049794195
+    second: Character 2 Down_3
+  - first:
+      213: -4439331161460934593
+    second: Character 2 Down_4
+  - first:
+      213: -5295576097316862236
+    second: Character 2 Down_5
+  - first:
+      213: -2024253362136675565
+    second: Character 2 Down_6
+  - first:
+      213: 8992028651802564594
+    second: Character 2 Down_7
+  - first:
+      213: 3681414878541484275
+    second: Character 2 Down_8
+  - first:
+      213: -1054009588816759683
+    second: Character 2 Down_9
+  - first:
+      213: 344334727031112611
+    second: Character 2 Down_10
+  - first:
+      213: -4435425883364034371
+    second: Character 2 Down_11
+  - first:
+      213: 8812279805553249744
+    second: Character 2 Down_12
+  - first:
+      213: 6050527379024118820
+    second: Character 2 Down_13
+  - first:
+      213: 6680958696323762299
+    second: Character 2 Down_14
+  - first:
+      213: -2847030311394143595
+    second: Character 2 Down_15
+  - first:
+      213: 7184393810757206043
+    second: Character 2 Down_16
+  - first:
+      213: -5949793342667508342
+    second: Character 2 Down_17
+  - first:
+      213: 7560661096366899080
+    second: Character 2 Down_18
+  - first:
+      213: 6246996787630598181
+    second: Character 2 Down_19
+  - first:
+      213: -3502656382568297845
+    second: Character 2 Down_20
+  - first:
+      213: 1762948148461831568
+    second: Character 2 Down_21
+  - first:
+      213: 7290020578904798977
+    second: Character 2 Down_22
+  - first:
+      213: -6169755297274114475
+    second: Character 2 Down_23
+  - first:
+      213: -7104797607007588405
+    second: Character 2 Down_24
+  - first:
+      213: -177348672108687204
+    second: Character 2 Down_25
+  - first:
+      213: 3496410655007519807
+    second: Character 2 Down_26
+  - first:
+      213: -1133103542649911204
+    second: Character 2 Down_27
+  - first:
+      213: 3849463651126513875
+    second: Character 2 Down_28
+  - first:
+      213: -8815184772545027714
+    second: Character 2 Down_29
+  - first:
+      213: 8756239985122701004
+    second: Character 2 Down_30
+  - first:
+      213: 5273852779509502366
+    second: Character 2 Down_31
+  - first:
+      213: 6416000405266539628
+    second: Character 2 Down_32
+  - first:
+      213: -4053798268500822932
+    second: Character 2 Down_33
+  - first:
+      213: 4134781953186892302
+    second: Character 2 Down_34
+  - first:
+      213: -6762149385830131403
+    second: Character 2 Down_35
+  - first:
+      213: -7695015299125640938
+    second: Character 2 Down_36
+  - first:
+      213: 6138535600560236694
+    second: Character 2 Down_37
+  - first:
+      213: -1027022944858712926
+    second: Character 2 Down_38
+  - first:
+      213: 362393705072840639
+    second: Character 2 Down_39
+  - first:
+      213: 3255399718593927642
+    second: Character 2 Down_40
+  - first:
+      213: -3087414569533532514
+    second: Character 2 Down_41
+  - first:
+      213: -5328475871932134628
+    second: Character 2 Down_42
+  - first:
+      213: -2383957694500138480
+    second: Character 2 Down_43
+  - first:
+      213: 3905675277409816218
+    second: Character 2 Down_44
+  - first:
+      213: 7727446048620945431
+    second: Character 2 Down_45
+  - first:
+      213: -9130436381878057347
+    second: Character 2 Down_46
+  - first:
+      213: 6140197773025219871
+    second: Character 2 Down_47
+  - first:
+      213: -326317508723267165
+    second: Character 2 Down_48
+  - first:
+      213: 8679909825081657816
+    second: Character 2 Down_49
+  - first:
+      213: 7858881357661982146
+    second: Character 2 Down_50
+  - first:
+      213: -7325447635822530152
+    second: Character 2 Down_51
+  - first:
+      213: -4257776224735034266
+    second: Character 2 Down_52
+  - first:
+      213: 4445772005513281210
+    second: Character 2 Down_53
+  - first:
+      213: 7017853632313242737
+    second: Character 2 Down_54
+  - first:
+      213: 8144954567391032257
+    second: Character 2 Down_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 2 Down_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1886
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be04a9c9ec34195c0800000000000000
+      internalID: -4210509621945024277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_1
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1886
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b2d9b2b02b06a0800000000000000
+      internalID: -6482051286675836224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1886
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd324b8c6a53bfe0800000000000000
+      internalID: -1174495655574225478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1886
+        width: 67
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6942f2ce9ecfb9e0800000000000000
+      internalID: -1603335761049794195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1886
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387cc844d35462c0800000000000000
+      internalID: -4439331161460934593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_5
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1886
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6016eb8955286b0800000000000000
+      internalID: -5295576097316862236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1886
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0476ca4868e3e0800000000000000
+      internalID: -2024253362136675565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1886
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f793d0ca6a1acc70800000000000000
+      internalID: 8992028651802564594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1629
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09d4ab353071330800000000000000
+      internalID: 3681414878541484275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1623
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b8b40dd76f51f0800000000000000
+      internalID: -1054009588816759683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1619
+        width: 56
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a345802c9257c400800000000000000
+      internalID: 344334727031112611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1619
+        width: 53
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87382b8a33272c0800000000000000
+      internalID: -4435425883364034371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_12
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1625
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd895f2bc18b4a70800000000000000
+      internalID: 8812279805553249744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_13
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1630
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424028a189ac7f350800000000000000
+      internalID: 6050527379024118820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_14
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1629
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b784f6d798887bc50800000000000000
+      internalID: 6680958696323762299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_15
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1628
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592159814015d78d0800000000000000
+      internalID: -2847030311394143595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1378
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10c2b83b1814b360800000000000000
+      internalID: 7184393810757206043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1381
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85b15b6a761e6da0800000000000000
+      internalID: -5949793342667508342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1382
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7014853ddce860800000000000000
+      internalID: 7560661096366899080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_19
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1373
+        width: 125
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286ab7fa7ac1b650800000000000000
+      internalID: 6246996787630598181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_20
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1365
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a03c2f390146fc0800000000000000
+      internalID: -3502656382568297845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_21
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1364
+        width: 126
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09500822000477810800000000000000
+      internalID: 1762948148461831568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_22
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1374
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10778e2a71b5b2560800000000000000
+      internalID: 7290020578904798977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_23
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1380
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e44e2fe30a06aa0800000000000000
+      internalID: -6169755297274114475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1126
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf64412830b66d90800000000000000
+      internalID: -7104797607007588405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1121
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901395825ee98df0800000000000000
+      internalID: -177348672108687204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1118
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343d9847feb58030800000000000000
+      internalID: 3496410655007519807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_27
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1118
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c588d96d4586640f0800000000000000
+      internalID: -1133103542649911204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_28
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1118
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09c2d9bca0c6530800000000000000
+      internalID: 3849463651126513875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_29
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1118
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71650b772c2aa580800000000000000
+      internalID: -8815184772545027714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_30
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1118
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6f49bfd9648970800000000000000
+      internalID: 8756239985122701004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_31
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1118
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91de50392d703940800000000000000
+      internalID: 5273852779509502366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 862
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64acaa00663a0950800000000000000
+      internalID: 6416000405266539628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 862
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c643ae6e3f30eb7c0800000000000000
+      internalID: -4053798268500822932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 853
+        width: 58
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a86678742b16930800000000000000
+      internalID: 4134781953186892302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 854
+        width: 59
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539187306f40822a0800000000000000
+      internalID: -6762149385830131403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_36
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 856
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6118b6afa50d53590800000000000000
+      internalID: -7695015299125640938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_37
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 859
+        width: 56
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986b78fa95703550800000000000000
+      internalID: 6138535600560236694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 857
+        width: 55
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45583b2184fb1f0800000000000000
+      internalID: -1027022944858712926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_39
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 853
+        width: 57
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf44bb972b770500800000000000000
+      internalID: 362393705072840639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 597
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad992b4dbc08d2d20800000000000000
+      internalID: 3255399718593927642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_41
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 598
+        width: 58
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96969c8ecc4725d0800000000000000
+      internalID: -3087414569533532514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_42
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 601
+        width: 57
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bce3b0d637d06b0800000000000000
+      internalID: -5328475871932134628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_43
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 602
+        width: 56
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01292cb8b1b7aeed0800000000000000
+      internalID: -2383957694500138480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_44
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 606
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e890eb8feb33630800000000000000
+      internalID: 3905675277409816218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_45
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 605
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102c0d4d376d3b60800000000000000
+      internalID: 7727446048620945431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_46
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 599
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d760bdd5c7c2a4180800000000000000
+      internalID: -9130436381878057347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_47
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 556
+        width: 118
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1510d7a75d563550800000000000000
+      internalID: 6140197773025219871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 300
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a92f8864ffa87bf0800000000000000
+      internalID: -326317508723267165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 345
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94a6e6ffb357870800000000000000
+      internalID: 8679909825081657816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_50
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 350
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc167e4fa501d60800000000000000
+      internalID: 7858881357661982146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_51
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 327
+        width: 73
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b216ef28c65a90800000000000000
+      internalID: -7325447635822530152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_52
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 325
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664809f051759e4c0800000000000000
+      internalID: -4257776224735034266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_53
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 291
+        width: 71
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebef4951e82bd30800000000000000
+      internalID: 4445772005513281210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_54
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 291
+        width: 73
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17437b742bc646160800000000000000
+      internalID: 7017853632313242737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 2 Down_55
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 306
+        width: 71
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b9057601b80170800000000000000
+      internalID: 8144954567391032257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

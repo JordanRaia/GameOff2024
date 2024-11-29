@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: d2d2ff2e67098ad4184e665694985bf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 111569020272267150
+    second: Character 9 Side_0
+  - first:
+      213: -3951378305554158322
+    second: Character 9 Side_1
+  - first:
+      213: 2494202458376800968
+    second: Character 9 Side_2
+  - first:
+      213: 3890541242817763671
+    second: Character 9 Side_3
+  - first:
+      213: -5012634703961724269
+    second: Character 9 Side_4
+  - first:
+      213: 4951184927268781615
+    second: Character 9 Side_5
+  - first:
+      213: 2212129711941174210
+    second: Character 9 Side_6
+  - first:
+      213: 862979131390884975
+    second: Character 9 Side_7
+  - first:
+      213: 2326597534394408045
+    second: Character 9 Side_8
+  - first:
+      213: 7121393122971622187
+    second: Character 9 Side_9
+  - first:
+      213: 1932565138301262988
+    second: Character 9 Side_10
+  - first:
+      213: 2085428370970655912
+    second: Character 9 Side_11
+  - first:
+      213: 544662435323227439
+    second: Character 9 Side_12
+  - first:
+      213: 6976718110484299365
+    second: Character 9 Side_13
+  - first:
+      213: 5117352683271206882
+    second: Character 9 Side_14
+  - first:
+      213: 3170120072030964841
+    second: Character 9 Side_15
+  - first:
+      213: 8556975841662383955
+    second: Character 9 Side_16
+  - first:
+      213: 1956147458650730266
+    second: Character 9 Side_17
+  - first:
+      213: -1772873700432273266
+    second: Character 9 Side_18
+  - first:
+      213: -7060047819344996816
+    second: Character 9 Side_19
+  - first:
+      213: 4867828479169136005
+    second: Character 9 Side_20
+  - first:
+      213: 3636835246818603539
+    second: Character 9 Side_21
+  - first:
+      213: 3398929490091389403
+    second: Character 9 Side_22
+  - first:
+      213: 5682794743244421313
+    second: Character 9 Side_23
+  - first:
+      213: -5119910393773088151
+    second: Character 9 Side_24
+  - first:
+      213: -5181848530450821666
+    second: Character 9 Side_25
+  - first:
+      213: -3319236837842153528
+    second: Character 9 Side_26
+  - first:
+      213: -6682144138652938796
+    second: Character 9 Side_27
+  - first:
+      213: -6759353563770679944
+    second: Character 9 Side_28
+  - first:
+      213: 6371043455041957301
+    second: Character 9 Side_29
+  - first:
+      213: 3448895269814660167
+    second: Character 9 Side_30
+  - first:
+      213: 5113584639673710119
+    second: Character 9 Side_31
+  - first:
+      213: 2667377346628283417
+    second: Character 9 Side_32
+  - first:
+      213: 5949356409105685220
+    second: Character 9 Side_33
+  - first:
+      213: 8293637713497836934
+    second: Character 9 Side_34
+  - first:
+      213: 8895941895931683145
+    second: Character 9 Side_35
+  - first:
+      213: 6173789210013148542
+    second: Character 9 Side_36
+  - first:
+      213: -1436853067936121968
+    second: Character 9 Side_37
+  - first:
+      213: -2000656128065197523
+    second: Character 9 Side_38
+  - first:
+      213: 3547430929419194123
+    second: Character 9 Side_39
+  - first:
+      213: 9068867510106474976
+    second: Character 9 Side_40
+  - first:
+      213: -6748298680390658931
+    second: Character 9 Side_41
+  - first:
+      213: 5127794483955937532
+    second: Character 9 Side_42
+  - first:
+      213: 6386413910037562176
+    second: Character 9 Side_43
+  - first:
+      213: 7577580350450059194
+    second: Character 9 Side_44
+  - first:
+      213: -4981234720271685200
+    second: Character 9 Side_45
+  - first:
+      213: 5367805221547145244
+    second: Character 9 Side_46
+  - first:
+      213: 4671314367568736084
+    second: Character 9 Side_47
+  - first:
+      213: 4365543094861947730
+    second: Character 9 Side_48
+  - first:
+      213: 603695534460237970
+    second: Character 9 Side_49
+  - first:
+      213: -6052231952539102092
+    second: Character 9 Side_50
+  - first:
+      213: -7238434867411434284
+    second: Character 9 Side_51
+  - first:
+      213: -6516778174271124189
+    second: Character 9 Side_52
+  - first:
+      213: -8804662560931653141
+    second: Character 9 Side_53
+  - first:
+      213: 8125412099400682155
+    second: Character 9 Side_54
+  - first:
+      213: -3146831153772185939
+    second: Character 9 Side_55
+  - first:
+      213: -1681466228192760373
+    second: Character 9 Side_56
+  - first:
+      213: 4722994299168471442
+    second: Character 9 Side_57
+  - first:
+      213: 5873033380393382674
+    second: Character 9 Side_58
+  - first:
+      213: -5654450384397722781
+    second: Character 9 Side_59
+  - first:
+      213: -5189836582176300937
+    second: Character 9 Side_60
+  - first:
+      213: 4366783358555739452
+    second: Character 9 Side_61
+  - first:
+      213: 5095219412409857054
+    second: Character 9 Side_62
+  - first:
+      213: 2713010617674075522
+    second: Character 9 Side_63
+  - first:
+      213: -2683393823724183187
+    second: Character 9 Side_64
+  - first:
+      213: -604918075466447975
+    second: Character 9 Side_65
+  - first:
+      213: -5799754652984514689
+    second: Character 9 Side_66
+  - first:
+      213: -3305216613144308726
+    second: Character 9 Side_67
+  - first:
+      213: -4821112864002751229
+    second: Character 9 Side_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 9 Side_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1883
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f444dce6f5c8100800000000000000
+      internalID: 111569020272267150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1883
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d624ccd52e929c0800000000000000
+      internalID: -3951378305554158322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1883
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca8479cbef2d9220800000000000000
+      internalID: 2494202458376800968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1883
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d82ab5aafdf530800000000000000
+      internalID: 3890541242817763671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_4
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1883
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ae0997b4b8f6ab0800000000000000
+      internalID: -5012634703961724269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_5
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1883
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebf17757426b440800000000000000
+      internalID: 4951184927268781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_6
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1883
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3475da04013be10800000000000000
+      internalID: 2212129711941174210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_7
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1883
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf02f92fae9fb00800000000000000
+      internalID: 862979131390884975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1628
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd0e4712cb94020800000000000000
+      internalID: 2326597534394408045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1627
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b12a8805544d260800000000000000
+      internalID: 7121393122971622187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1627
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c10cd01c9d1da10800000000000000
+      internalID: 1932565138301262988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_11
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1627
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac3a38ed0ee0fc10800000000000000
+      internalID: 2085428370970655912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_12
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1626
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da0f369970f8700800000000000000
+      internalID: 544662435323227439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_13
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1627
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7371482842d060800000000000000
+      internalID: 6976718110484299365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_14
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1626
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b5cc072d740740800000000000000
+      internalID: 5117352683271206882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_15
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1626
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccdb4d8678efb20800000000000000
+      internalID: 3170120072030964841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1375
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b2e1f03c70c670800000000000000
+      internalID: 8556975841662383955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_17
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1388
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fe821efb1a52b10800000000000000
+      internalID: 1956147458650730266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1399
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802a1633cc7567e0800000000000000
+      internalID: -1772873700432273266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_19
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1403
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0369baef9eba50e90800000000000000
+      internalID: -7060047819344996816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_20
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1369
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585086006300e8340800000000000000
+      internalID: 4867828479169136005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1359
+        width: 105
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3123e316362a87230800000000000000
+      internalID: 3636835246818603539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_22
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1355
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13f79ec5c6b2f20800000000000000
+      internalID: 3398929490091389403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_23
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87a82d5b75dde40800000000000000
+      internalID: 5682794743244421313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_24
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1371
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96223519f9c62f8b0800000000000000
+      internalID: -5119910393773088151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_25
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1380
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd499657306618b0800000000000000
+      internalID: -5181848530450821666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1124
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf070b9ea3bfe1d0800000000000000
+      internalID: -3319236837842153528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1118
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd02a53f414443a0800000000000000
+      internalID: -6682144138652938796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8d201fb3f132a0800000000000000
+      internalID: -6759353563770679944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1115
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd6a52644e7a6850800000000000000
+      internalID: 6371043455041957301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_30
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1115
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce3d099ffecdf20800000000000000
+      internalID: 3448895269814660167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_31
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1115
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72635a8032a17f640800000000000000
+      internalID: 5113584639673710119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_32
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ce3bb709d640520800000000000000
+      internalID: 2667377346628283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_33
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1115
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea10fe022c509250800000000000000
+      internalID: 5949356409105685220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_34
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d42d01f8be81370800000000000000
+      internalID: 8293637713497836934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_35
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1115
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e589850cb47b70800000000000000
+      internalID: 8895941895931683145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_36
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1115
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7529fc8394bda550800000000000000
+      internalID: 6173789210013148542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_37
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bbc3b5fb54f0ce0800000000000000
+      internalID: -1436853067936121968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 859
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a27f8f9dd3c34e0800000000000000
+      internalID: -2000656128065197523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 859
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc34d92a10b3130800000000000000
+      internalID: 3547430929419194123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 931
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94af693f61bdd70800000000000000
+      internalID: 9068867510106474976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_41
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 859
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84d31daa1a3952a0800000000000000
+      internalID: -6748298680390658931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_42
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 859
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b6693ae5992740800000000000000
+      internalID: 5127794483955937532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_43
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 859
+        width: 73
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04307605d9911a850800000000000000
+      internalID: 6386413910037562176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_44
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 859
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab74e855e29f82960800000000000000
+      internalID: 7577580350450059194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_45
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 859
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92d53e9691fdab0800000000000000
+      internalID: -4981234720271685200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_46
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 931
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18fdcdb8664e7a40800000000000000
+      internalID: 5367805221547145244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_47
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 873
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fec19eaa7d3d040800000000000000
+      internalID: 4671314367568736084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 618
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e7eca056859c30800000000000000
+      internalID: 4365543094861947730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 614
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298fdfbd3e1c06800800000000000000
+      internalID: 603695534460237970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_50
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47453a2fa17220ca0800000000000000
+      internalID: -6052231952539102092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_51
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 606
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c326c6d9eb8b90800000000000000
+      internalID: -7238434867411434284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 611
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d0d8227c0cf85a0800000000000000
+      internalID: -6516778174271124189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_53
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 618
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9dc78cc0e8fc580800000000000000
+      internalID: -8804662560931653141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_54
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 618
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa407e014343c070800000000000000
+      internalID: 8125412099400682155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_55
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 609
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b64ffcb53454d0800000000000000
+      internalID: -3146831153772185939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 356
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd21cecf5b3aa8e0800000000000000
+      internalID: -1681466228192760373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_57
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 347
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b126aa427b8140800000000000000
+      internalID: 4722994299168471442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 348
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213fb582eb4318150800000000000000
+      internalID: 5873033380393382674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_59
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 347
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b17ed755b5781b0800000000000000
+      internalID: -5654450384397722781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_60
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 324
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770ed0d102ff9f7b0800000000000000
+      internalID: -5189836582176300937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_61
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 312
+        width: 114
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355dc1145ee99c30800000000000000
+      internalID: 4366783358555739452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_62
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 317
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e143d595f0bd5b640800000000000000
+      internalID: 5095219412409857054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_63
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 347
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d835a58cc86a520800000000000000
+      internalID: 2713010617674075522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_64
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d616178d88ba2cad0800000000000000
+      internalID: -2683393823724183187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_65
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 91
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930c912736ea97f0800000000000000
+      internalID: -604918075466447975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_66
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 91
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77607c1fd1238fa0800000000000000
+      internalID: -5799754652984514689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_67
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 91
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0450db80038122d0800000000000000
+      internalID: -3305216613144308726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 9 Side_68
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 90
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305cc0fb467f71db0800000000000000
+      internalID: -4821112864002751229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

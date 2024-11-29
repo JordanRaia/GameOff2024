@@ -1,0 +1,5017 @@
+fileFormatVersion: 2
+guid: 45f3ca1917c2ec4429eba2654419bc06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1888078668079963311
+    second: Character 3 Side_0
+  - first:
+      213: 8433784344117750112
+    second: Character 3 Side_1
+  - first:
+      213: 5617976260347968063
+    second: Character 3 Side_2
+  - first:
+      213: -2563884874556104542
+    second: Character 3 Side_3
+  - first:
+      213: 6450124572219303718
+    second: Character 3 Side_4
+  - first:
+      213: 5046657754933716799
+    second: Character 3 Side_5
+  - first:
+      213: 6243577564978738241
+    second: Character 3 Side_6
+  - first:
+      213: -3827097409374153632
+    second: Character 3 Side_7
+  - first:
+      213: -5671670636461793347
+    second: Character 3 Side_8
+  - first:
+      213: -5713506967281372399
+    second: Character 3 Side_9
+  - first:
+      213: 537578680858246195
+    second: Character 3 Side_10
+  - first:
+      213: -4114641989967017312
+    second: Character 3 Side_11
+  - first:
+      213: -7415362694700667890
+    second: Character 3 Side_12
+  - first:
+      213: -4866254011189239929
+    second: Character 3 Side_13
+  - first:
+      213: -181188647406447234
+    second: Character 3 Side_14
+  - first:
+      213: 7869576274545083022
+    second: Character 3 Side_15
+  - first:
+      213: 537855750526097795
+    second: Character 3 Side_16
+  - first:
+      213: -1921781811807250708
+    second: Character 3 Side_17
+  - first:
+      213: -903658393166290906
+    second: Character 3 Side_18
+  - first:
+      213: 251901685919194614
+    second: Character 3 Side_19
+  - first:
+      213: -3600509725290209671
+    second: Character 3 Side_20
+  - first:
+      213: 5675877645046815887
+    second: Character 3 Side_21
+  - first:
+      213: -5344778360842962024
+    second: Character 3 Side_22
+  - first:
+      213: -3731528080229808363
+    second: Character 3 Side_23
+  - first:
+      213: 2850810463764421363
+    second: Character 3 Side_24
+  - first:
+      213: -5895628326430327526
+    second: Character 3 Side_25
+  - first:
+      213: -7254455269906077669
+    second: Character 3 Side_26
+  - first:
+      213: 6112407193813139813
+    second: Character 3 Side_27
+  - first:
+      213: -8439674379214242234
+    second: Character 3 Side_28
+  - first:
+      213: -5319093172232747125
+    second: Character 3 Side_29
+  - first:
+      213: -6085444077190454115
+    second: Character 3 Side_30
+  - first:
+      213: -2431973948412850638
+    second: Character 3 Side_31
+  - first:
+      213: 7244314729046553109
+    second: Character 3 Side_32
+  - first:
+      213: -9183373312422344092
+    second: Character 3 Side_33
+  - first:
+      213: -4522652944203771985
+    second: Character 3 Side_34
+  - first:
+      213: -2562149326690034273
+    second: Character 3 Side_35
+  - first:
+      213: -7147057777731803396
+    second: Character 3 Side_36
+  - first:
+      213: -2319581991464898900
+    second: Character 3 Side_37
+  - first:
+      213: -2464472816341946435
+    second: Character 3 Side_38
+  - first:
+      213: -8911995798746409460
+    second: Character 3 Side_39
+  - first:
+      213: 1619163713983640434
+    second: Character 3 Side_40
+  - first:
+      213: -5071891822157532666
+    second: Character 3 Side_41
+  - first:
+      213: 7339808934192564821
+    second: Character 3 Side_42
+  - first:
+      213: 3075451707628363627
+    second: Character 3 Side_43
+  - first:
+      213: -1280023310291154860
+    second: Character 3 Side_44
+  - first:
+      213: 1374200911547814882
+    second: Character 3 Side_45
+  - first:
+      213: -1908111519505868251
+    second: Character 3 Side_46
+  - first:
+      213: -1379995181730168526
+    second: Character 3 Side_47
+  - first:
+      213: -8420239181879163294
+    second: Character 3 Side_48
+  - first:
+      213: -8679111453153921955
+    second: Character 3 Side_49
+  - first:
+      213: 8681225121634681738
+    second: Character 3 Side_50
+  - first:
+      213: 5693499227607495420
+    second: Character 3 Side_51
+  - first:
+      213: -8202939788501342523
+    second: Character 3 Side_52
+  - first:
+      213: -8860976611555551755
+    second: Character 3 Side_53
+  - first:
+      213: 2560249649891532331
+    second: Character 3 Side_54
+  - first:
+      213: 7965894900761310146
+    second: Character 3 Side_55
+  - first:
+      213: 2775086617908347797
+    second: Character 3 Side_56
+  - first:
+      213: -1360434804582868077
+    second: Character 3 Side_57
+  - first:
+      213: -3699067875884195435
+    second: Character 3 Side_58
+  - first:
+      213: -8311144723656743425
+    second: Character 3 Side_59
+  - first:
+      213: 8176914500125139556
+    second: Character 3 Side_60
+  - first:
+      213: -8805853806913337859
+    second: Character 3 Side_61
+  - first:
+      213: -1083694146909749481
+    second: Character 3 Side_62
+  - first:
+      213: 4957042770255008329
+    second: Character 3 Side_63
+  - first:
+      213: 3391466724306655990
+    second: Character 3 Side_64
+  - first:
+      213: 3962992117923691609
+    second: Character 3 Side_65
+  - first:
+      213: -76547122054800963
+    second: Character 3 Side_66
+  - first:
+      213: 4795837998347739175
+    second: Character 3 Side_67
+  - first:
+      213: -1600228043800649486
+    second: Character 3 Side_68
+  - first:
+      213: 4254123286917196679
+    second: Character 3 Side_69
+  - first:
+      213: 6778486628382211155
+    second: Character 3 Side_70
+  - first:
+      213: 3009558981307990209
+    second: Character 3 Side_71
+  - first:
+      213: 6764868772110312705
+    second: Character 3 Side_72
+  - first:
+      213: 6427863568799560539
+    second: Character 3 Side_73
+  - first:
+      213: -6177008533941540167
+    second: Character 3 Side_74
+  - first:
+      213: 387937836301170448
+    second: Character 3 Side_75
+  - first:
+      213: 4597834939187385285
+    second: Character 3 Side_76
+  - first:
+      213: -2693610995413838308
+    second: Character 3 Side_77
+  - first:
+      213: 8565902284975558199
+    second: Character 3 Side_78
+  - first:
+      213: 5519787375764045088
+    second: Character 3 Side_79
+  - first:
+      213: 7124425285036852959
+    second: Character 3 Side_80
+  - first:
+      213: 326895916986871463
+    second: Character 3 Side_81
+  - first:
+      213: 8742219053929193324
+    second: Character 3 Side_82
+  - first:
+      213: -3339258966234200537
+    second: Character 3 Side_83
+  - first:
+      213: 8010366916670470330
+    second: Character 3 Side_84
+  - first:
+      213: -7787216977355576381
+    second: Character 3 Side_85
+  - first:
+      213: -8558561370572802675
+    second: Character 3 Side_86
+  - first:
+      213: 9164377884560320538
+    second: Character 3 Side_87
+  - first:
+      213: 4210015576650315382
+    second: Character 3 Side_88
+  - first:
+      213: 366401209485493884
+    second: Character 3 Side_89
+  - first:
+      213: -7625693713173266122
+    second: Character 3 Side_90
+  - first:
+      213: 6718959281654211048
+    second: Character 3 Side_91
+  - first:
+      213: 3547940146060426224
+    second: Character 3 Side_92
+  - first:
+      213: 8857690384677864291
+    second: Character 3 Side_93
+  - first:
+      213: -6711971742614879284
+    second: Character 3 Side_94
+  - first:
+      213: -1669247988900041102
+    second: Character 3 Side_95
+  - first:
+      213: 373141441813167492
+    second: Character 3 Side_96
+  - first:
+      213: -9120996325668096839
+    second: Character 3 Side_97
+  - first:
+      213: 3617820824503435378
+    second: Character 3 Side_98
+  - first:
+      213: 676971934322604157
+    second: Character 3 Side_99
+  - first:
+      213: -2635583955187469416
+    second: Character 3 Side_100
+  - first:
+      213: -6020959274893515341
+    second: Character 3 Side_101
+  - first:
+      213: -359854829886495508
+    second: Character 3 Side_102
+  - first:
+      213: -8101145235665854094
+    second: Character 3 Side_103
+  - first:
+      213: -6293401845286373468
+    second: Character 3 Side_104
+  - first:
+      213: -6715396230196828314
+    second: Character 3 Side_105
+  - first:
+      213: -6171117208597727762
+    second: Character 3 Side_106
+  - first:
+      213: -8579510254396796539
+    second: Character 3 Side_107
+  - first:
+      213: -8792250851828873021
+    second: Character 3 Side_108
+  - first:
+      213: 4837852412873549275
+    second: Character 3 Side_109
+  - first:
+      213: -2242502377723300971
+    second: Character 3 Side_110
+  - first:
+      213: 183729178897934211
+    second: Character 3 Side_111
+  - first:
+      213: -118228680151185646
+    second: Character 3 Side_112
+  - first:
+      213: 4463837962172960231
+    second: Character 3 Side_113
+  - first:
+      213: 1350276057644616114
+    second: Character 3 Side_114
+  - first:
+      213: -559707893815980896
+    second: Character 3 Side_115
+  - first:
+      213: 6876252828687004855
+    second: Character 3 Side_116
+  - first:
+      213: 7526434749990571347
+    second: Character 3 Side_117
+  - first:
+      213: 8491029313292559218
+    second: Character 3 Side_118
+  - first:
+      213: 4370418795966021628
+    second: Character 3 Side_119
+  - first:
+      213: -7653029765419176536
+    second: Character 3 Side_120
+  - first:
+      213: -7238845849959879856
+    second: Character 3 Side_121
+  - first:
+      213: -7369745378132207460
+    second: Character 3 Side_122
+  - first:
+      213: 7999310354398383625
+    second: Character 3 Side_123
+  - first:
+      213: 9214662154249199556
+    second: Character 3 Side_124
+  - first:
+      213: -8025485878909775423
+    second: Character 3 Side_125
+  - first:
+      213: 8356715999256731063
+    second: Character 3 Side_126
+  - first:
+      213: 4826719049230567427
+    second: Character 3 Side_127
+  - first:
+      213: -411184149765883843
+    second: Character 3 Side_128
+  - first:
+      213: -1147975242092923324
+    second: Character 3 Side_129
+  - first:
+      213: 6189753270567381637
+    second: Character 3 Side_130
+  - first:
+      213: -8236415610711576743
+    second: Character 3 Side_131
+  - first:
+      213: -7364870160312448078
+    second: Character 3 Side_132
+  - first:
+      213: -2584574023316381723
+    second: Character 3 Side_133
+  - first:
+      213: -7986697382831115694
+    second: Character 3 Side_134
+  - first:
+      213: 1786340327999226740
+    second: Character 3 Side_135
+  - first:
+      213: -4746871345588773147
+    second: Character 3 Side_136
+  - first:
+      213: -8970256106894957919
+    second: Character 3 Side_137
+  - first:
+      213: 2205231438265661357
+    second: Character 3 Side_138
+  - first:
+      213: -2812035293539655497
+    second: Character 3 Side_139
+  - first:
+      213: 7305938286620443113
+    second: Character 3 Side_140
+  - first:
+      213: -7318198531408392819
+    second: Character 3 Side_141
+  - first:
+      213: 6356975627928288802
+    second: Character 3 Side_142
+  - first:
+      213: -6464323400284224428
+    second: Character 3 Side_143
+  - first:
+      213: 7484941682831230253
+    second: Character 3 Side_144
+  - first:
+      213: 252641716351766026
+    second: Character 3 Side_145
+  - first:
+      213: -1805698127969793162
+    second: Character 3 Side_146
+  - first:
+      213: -8380922734621169579
+    second: Character 3 Side_147
+  - first:
+      213: 1437221587420536373
+    second: Character 3 Side_148
+  - first:
+      213: 1260798512491242993
+    second: Character 3 Side_149
+  - first:
+      213: -1495271088567262456
+    second: Character 3 Side_150
+  - first:
+      213: -6867762690169076006
+    second: Character 3 Side_151
+  - first:
+      213: 7706687022026582037
+    second: Character 3 Side_152
+  - first:
+      213: 838267469994457177
+    second: Character 3 Side_153
+  - first:
+      213: -7727321893827214997
+    second: Character 3 Side_154
+  - first:
+      213: -4574976662848263769
+    second: Character 3 Side_155
+  - first:
+      213: 493863426108362588
+    second: Character 3 Side_156
+  - first:
+      213: -157925007807181811
+    second: Character 3 Side_157
+  - first:
+      213: 757832511429844481
+    second: Character 3 Side_158
+  - first:
+      213: 4171286268685896998
+    second: Character 3 Side_159
+  - first:
+      213: 5784597619287514377
+    second: Character 3 Side_160
+  - first:
+      213: -9160784890881034136
+    second: Character 3 Side_161
+  - first:
+      213: 5254135485148979601
+    second: Character 3 Side_162
+  - first:
+      213: -17014561652146941
+    second: Character 3 Side_163
+  - first:
+      213: -2099692299198538247
+    second: Character 3 Side_164
+  - first:
+      213: 4386633670416869458
+    second: Character 3 Side_165
+  - first:
+      213: -1177122819900319635
+    second: Character 3 Side_166
+  - first:
+      213: 1471857975602605460
+    second: Character 3 Side_167
+  - first:
+      213: -4213017466194266179
+    second: Character 3 Side_168
+  - first:
+      213: 7696473887241808112
+    second: Character 3 Side_169
+  - first:
+      213: -5026300595061539501
+    second: Character 3 Side_170
+  - first:
+      213: -9187887038887006660
+    second: Character 3 Side_171
+  - first:
+      213: 4562219675866575773
+    second: Character 3 Side_172
+  - first:
+      213: -1585306611168144388
+    second: Character 3 Side_173
+  - first:
+      213: 7037804070414568816
+    second: Character 3 Side_174
+  - first:
+      213: 7941167377070121391
+    second: Character 3 Side_175
+  - first:
+      213: 8856174573318373435
+    second: Character 3 Side_176
+  - first:
+      213: -3582619044940013088
+    second: Character 3 Side_177
+  - first:
+      213: -6794353046027511702
+    second: Character 3 Side_178
+  - first:
+      213: 6441537128128019782
+    second: Character 3 Side_179
+  - first:
+      213: -436893041294605004
+    second: Character 3 Side_180
+  - first:
+      213: 8399151214584098069
+    second: Character 3 Side_181
+  - first:
+      213: 5500168073169255368
+    second: Character 3 Side_182
+  - first:
+      213: -7171525951625920389
+    second: Character 3 Side_183
+  - first:
+      213: 438673034535360808
+    second: Character 3 Side_184
+  - first:
+      213: 4879800394087409599
+    second: Character 3 Side_185
+  - first:
+      213: -9000943952695100988
+    second: Character 3 Side_186
+  - first:
+      213: -9013638643944287018
+    second: Character 3 Side_187
+  - first:
+      213: 4892336073045197026
+    second: Character 3 Side_188
+  - first:
+      213: 6417417350257348050
+    second: Character 3 Side_189
+  - first:
+      213: -1940851612386902678
+    second: Character 3 Side_190
+  - first:
+      213: -247510783148096360
+    second: Character 3 Side_191
+  - first:
+      213: 8459448603463101224
+    second: Character 3 Side_192
+  - first:
+      213: 7604555825955504144
+    second: Character 3 Side_193
+  - first:
+      213: 6124098973335467402
+    second: Character 3 Side_194
+  - first:
+      213: -5326291559246348691
+    second: Character 3 Side_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 3 Side_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 945
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac16ee8b8dc33a10800000000000000
+      internalID: 1888078668079963311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1145
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a3674d22da0570800000000000000
+      internalID: 8433784344117750112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1145
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3e9ab4af07fd40800000000000000
+      internalID: 5617976260347968063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a026176a404b6cd0800000000000000
+      internalID: -2563884874556104542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1145
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627662ccf12738950800000000000000
+      internalID: 6450124572219303718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1144
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376bc16d74590640800000000000000
+      internalID: 5046657754933716799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1154
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144f72827b4a5a650800000000000000
+      internalID: 6243577564978738241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1145
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0649f69de2b63eac0800000000000000
+      internalID: -3827097409374153632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1145
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5eae1b9d2a41b0800000000000000
+      internalID: -5671670636461793347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 945
+        width: 102
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11379794fab85b0b0800000000000000
+      internalID: -5713506967281372399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1145
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cf06746fcd57700800000000000000
+      internalID: 537578680858246195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa0c1219ead5e6c0800000000000000
+      internalID: -4114641989967017312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 945
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ceeaddae6571990800000000000000
+      internalID: -7415362694700667890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_13
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1145
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fde3462c7977cb0800000000000000
+      internalID: -4866254011189239929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 943
+        width: 126
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75510a92e94c7df0800000000000000
+      internalID: -181188647406447234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_15
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1144
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820a194de9563d60800000000000000
+      internalID: 7869576274545083022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 952
+        width: 113
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389528694f8d67700800000000000000
+      internalID: 537855750526097795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1144
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce61c6bcf957455e0800000000000000
+      internalID: -1921781811807250708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_18
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1154
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e50daa7f8573f0800000000000000
+      internalID: -903658393166290906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 952
+        width: 127
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd198baf3fee7300800000000000000
+      internalID: 251901685919194614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_20
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1144
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edcbd2b7b680ec0800000000000000
+      internalID: -3600509725290209671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_21
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 952
+        width: 124
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c989565a4c4ce40800000000000000
+      internalID: 5675877645046815887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_22
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1145
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb2ce066883d5b0800000000000000
+      internalID: -5344778360842962024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_23
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1145
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517c1844bf2f63cc0800000000000000
+      internalID: -3731528080229808363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_24
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 945
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa15a6330d109720800000000000000
+      internalID: 2850810463764421363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_25
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1145
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1db36306458e2ea0800000000000000
+      internalID: -5895628326430327526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_26
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1146
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a9462e5ff25b90800000000000000
+      internalID: -7254455269906077669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_27
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56146c535f1a3d450800000000000000
+      internalID: 6112407193813139813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_28
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1145
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e38fe0ed040ea80800000000000000
+      internalID: -8439674379214242234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_29
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1149
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878cdd01f8ce26b0800000000000000
+      internalID: -5319093172232747125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1093
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ee869ad82c8ba0800000000000000
+      internalID: -6085444077190454115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 944
+        width: 119
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e09dd3494ef3ed0800000000000000
+      internalID: -2431973948412850638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 944
+        width: 109
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51233f13dd9f88460800000000000000
+      internalID: 7244314729046553109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 944
+        width: 117
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8341c0aa1e8080800000000000000
+      internalID: -9183373312422344092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 945
+        width: 117
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0c5afb1f4c31c0800000000000000
+      internalID: -4522652944203771985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_35
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 945
+        width: 115
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d522123ca617cd0800000000000000
+      internalID: -2562149326690034273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1093
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf66a1161dc80dc90800000000000000
+      internalID: -7147057777731803396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_37
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1099
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae675be7703fcfd0800000000000000
+      internalID: -2319581991464898900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_38
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1093
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe457e70f6ccdd0800000000000000
+      internalID: -2464472816341946435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_39
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 945
+        width: 112
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0652ffe90b325480800000000000000
+      internalID: -8911995798746409460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_40
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1093
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737235b1dc687610800000000000000
+      internalID: 1619163713983640434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_41
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 944
+        width: 108
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602771182450d99b0800000000000000
+      internalID: -5071891822157532666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_42
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1086
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a49c1765d3cd560800000000000000
+      internalID: 7339808934192564821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_43
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 953
+        width: 141
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9e0d98033eaa20800000000000000
+      internalID: 3075451707628363627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_44
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 936
+        width: 113
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45840e5c4917c3ee0800000000000000
+      internalID: -1280023310291154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1060
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e353deb274221310800000000000000
+      internalID: 1374200911547814882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1060
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9500cea60585e0800000000000000
+      internalID: -1908111519505868251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_47
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1067
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231093991b549dce0800000000000000
+      internalID: -1379995181730168526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_48
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1057
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664440931d452b80800000000000000
+      internalID: -8420239181879163294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_49
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547cb40e1a9d8780800000000000000
+      internalID: -8679111453153921955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_50
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1058
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838b36c048e97870800000000000000
+      internalID: 8681225121634681738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_51
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1058
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2718ec16f530f40800000000000000
+      internalID: 5693499227607495420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 738
+        width: 157
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a57039bd492e80800000000000000
+      internalID: -8202939788501342523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 923
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5df2128bc770580800000000000000
+      internalID: -8860976611555551755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_54
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 830
+        width: 198
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e5a16ed75d78320800000000000000
+      internalID: 2560249649891532331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 926
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c339f5053b8c8e60800000000000000
+      internalID: 7965894900761310146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_56
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 916
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5930e517396138620800000000000000
+      internalID: 2775086617908347797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_57
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 830
+        width: 216
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b92ccc0c3ce1de0800000000000000
+      internalID: -1360434804582868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 918
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5912dd98d554aacc0800000000000000
+      internalID: -3699067875884195435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_59
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 716
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e39d78e1e8ac80800000000000000
+      internalID: -8311144723656743425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_60
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 916
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46223ba2a6c3a7170800000000000000
+      internalID: 8176914500125139556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_61
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 916
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5c8e63e925bc580800000000000000
+      internalID: -8805853806913337859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 916
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f36404ae1f5f0f0800000000000000
+      internalID: -1083694146909749481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_63
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 916
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942d771d224fac440800000000000000
+      internalID: 4957042770255008329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_64
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 926
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1bd95409e01f20800000000000000
+      internalID: 3391466724306655990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_65
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 716
+        width: 108
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cb38c95506ff630800000000000000
+      internalID: 3962992117923691609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_66
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 916
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9585d4ccc00fef0800000000000000
+      internalID: -76547122054800963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_67
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 716
+        width: 106
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72066d3004d3e8240800000000000000
+      internalID: 4795837998347739175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_68
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 916
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0e4a19219dac9e0800000000000000
+      internalID: -1600228043800649486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_69
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 715
+        width: 107
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78baa63179ea90b30800000000000000
+      internalID: 4254123286917196679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_70
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 925
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf47faca5021e50800000000000000
+      internalID: 6778486628382211155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_71
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 915
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0037bb2f914c920800000000000000
+      internalID: 3009558981307990209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_72
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 715
+        width: 118
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a4c17e44a1ed50800000000000000
+      internalID: 6764868772110312705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_73
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 916
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f8fa0cdb543950800000000000000
+      internalID: 6427863568799560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_74
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 926
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baabdf277bd64aa0800000000000000
+      internalID: -6177008533941540167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 914
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173aaf186b326500800000000000000
+      internalID: 387937836301170448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 824
+        width: 229
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d42e448acecf30800000000000000
+      internalID: 4597834939187385285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_77
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 910
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16954f221f5e9ad0800000000000000
+      internalID: -2693610995413838308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_78
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 830
+        width: 214
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eccac7eb230e670800000000000000
+      internalID: 8565902284975558199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_79
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 726
+        width: 119
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02df9188f593a9c40800000000000000
+      internalID: 5519787375764045088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_80
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 726
+        width: 102
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ce67cc0b0fd260800000000000000
+      internalID: 7124425285036852959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_81
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 721
+        width: 89
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae2782ca1e598400800000000000000
+      internalID: 326895916986871463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_82
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 715
+        width: 101
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fd91a49e9925970800000000000000
+      internalID: 8742219053929193324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 858
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726829099a198a1d0800000000000000
+      internalID: -3339258966234200537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 848
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83fac154a8a2f60800000000000000
+      internalID: 8010366916670470330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_85
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 864
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb64d3ea6f3ee390800000000000000
+      internalID: -7787216977355576381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_86
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 860
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b0a657c1e93980800000000000000
+      internalID: -8558561370572802675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_87
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 864
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18e9ac81296e2f70800000000000000
+      internalID: 9164377884560320538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_88
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 864
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6767a118cdafc6a30800000000000000
+      internalID: 4210015576650315382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_89
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 863
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7608a075f7b51500800000000000000
+      internalID: 366401209485493884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_90
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 863
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c06478f71c2690800000000000000
+      internalID: -7625693713173266122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_91
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 864
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1205b3ed98e3d50800000000000000
+      internalID: 6718959281654211048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_92
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 828
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb774ad3c0dc3130800000000000000
+      internalID: 3547940146060426224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_93
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 836
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3630e1d8976dcea70800000000000000
+      internalID: 8857690384677864291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_94
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 836
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30bfaf2494ad2a0800000000000000
+      internalID: -6711971742614879284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_95
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 833
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee3935cc3a5d8e0800000000000000
+      internalID: -1669247988900041102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 817
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d30421a2aad2500800000000000000
+      internalID: 373141441813167492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_97
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 822
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f8eaba26bb6180800000000000000
+      internalID: -9120996325668096839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 492
+        width: 101
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270c9813fd4153230800000000000000
+      internalID: 3617820824503435378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 704
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7835343366156900800000000000000
+      internalID: 676971934322604157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_100
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 494
+        width: 101
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f45f4b568c6bd0800000000000000
+      internalID: -2635583955187469416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 695
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5e0ec9071417ca0800000000000000
+      internalID: -6020959274893515341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_102
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 705
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce428e550f9810bf0800000000000000
+      internalID: -359854829886495508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_103
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 494
+        width: 93
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271e9427453f29f80800000000000000
+      internalID: -8101145235665854094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_104
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 704
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fae69d5859a8a0800000000000000
+      internalID: -6293401845286373468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_105
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 495
+        width: 109
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ee1555be1ec2a0800000000000000
+      internalID: -6715396230196828314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 695
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee57b324899cb5aa0800000000000000
+      internalID: -6171117208597727762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_107
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 695
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819bdb31e47fe880800000000000000
+      internalID: -8579510254396796539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_108
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 705
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c84d900f66abf580800000000000000
+      internalID: -8792250851828873021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_109
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 695
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd528113321832340800000000000000
+      internalID: 4837852412873549275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_110
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 496
+        width: 102
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59375dff7f701e0e0800000000000000
+      internalID: -2242502377723300971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_111
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 694
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387e51bf6bcbc8200800000000000000
+      internalID: 183729178897934211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_112
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 705
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217435d44a7fb5ef0800000000000000
+      internalID: -118228680151185646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_113
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 503
+        width: 138
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed0936e9fcb2fd30800000000000000
+      internalID: 4463837962172960231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 504
+        width: 123
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94f9c9be42db210800000000000000
+      internalID: 1350276057644616114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_115
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 503
+        width: 135
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0accd13d2a48b38f0800000000000000
+      internalID: -559707893815980896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_116
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 498
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4f9a7048b5d6f50800000000000000
+      internalID: 6876252828687004855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_117
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 691
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d08524784437860800000000000000
+      internalID: 7526434749990571347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_118
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 495
+        width: 102
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736b3c4c2236d570800000000000000
+      internalID: 8491029313292559218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_119
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 694
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbe3d4db8d6ac30800000000000000
+      internalID: 4370418795966021628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_120
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 705
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ade2b0d9f9fac590800000000000000
+      internalID: -7653029765419176536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_121
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 695
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba4517d047a8b90800000000000000
+      internalID: -7238845849959879856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_122
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 694
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985a5b00a769b990800000000000000
+      internalID: -7369745378132207460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_123
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 695
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e050a9262430f60800000000000000
+      internalID: 7999310354398383625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_124
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 507
+        width: 103
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf524d686e01ef70800000000000000
+      internalID: 9214662154249199556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_125
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 695
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c15bad2d1fbf9090800000000000000
+      internalID: -8025485878909775423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_126
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 705
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd5580fce409f370800000000000000
+      internalID: 8356715999256731063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_127
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 494
+        width: 102
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308cff7f663fbf240800000000000000
+      internalID: 4826719049230567427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_128
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 494
+        width: 106
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38feefb13e2b4af0800000000000000
+      internalID: -411184149765883843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_129
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 691
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446bb1c79929110f0800000000000000
+      internalID: -1147975242092923324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_130
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 516
+        width: 113
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a2b7b0ecb66e550800000000000000
+      internalID: 6189753270567381637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_131
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 518
+        width: 113
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fed05f3af52bd80800000000000000
+      internalID: -8236415610711576743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_132
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 516
+        width: 107
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc3b52c99bac990800000000000000
+      internalID: -7364870160312448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_133
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 496
+        width: 103
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef56849e9fb12cd0800000000000000
+      internalID: -2584574023316381723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 642
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2523fcfab0d892190800000000000000
+      internalID: -7986697382831115694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_135
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 643
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473495a501b5ac810800000000000000
+      internalID: 1786340327999226740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_136
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 642
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee53b349a9bf1eb0800000000000000
+      internalID: -4746871345588773147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_137
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 643
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a26f34e89f338380800000000000000
+      internalID: -8970256106894957919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_138
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 641
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7395d2f4e8a9e10800000000000000
+      internalID: 2205231438265661357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_139
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 638
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b025b0acc4a9f8d0800000000000000
+      internalID: -2812035293539655497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_140
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 644
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e100f4c928e36560800000000000000
+      internalID: 7305938286620443113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_141
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 640
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0e9b8539807a90800000000000000
+      internalID: -7318198531408392819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_142
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 642
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e3b7427a3883850800000000000000
+      internalID: 6356975627928288802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_143
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 610
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45440dced1c1a46a0800000000000000
+      internalID: -6464323400284224428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_144
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 611
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d258ba9bdcadfd760800000000000000
+      internalID: 7484941682831230253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_145
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 612
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e879e6d40918300800000000000000
+      internalID: 252641716351766026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_146
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 472
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc5ce9e1fd0f6e0800000000000000
+      internalID: -1805698127969793162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 482
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e8e84d2bf0bb80800000000000000
+      internalID: -8380922734621169579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_148
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e59b54b6902f310800000000000000
+      internalID: 1437221587420536373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_149
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 472
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a16e21914f7110800000000000000
+      internalID: 1260798512491242993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_150
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 482
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80369030edabf3be0800000000000000
+      internalID: -1495271088567262456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_151
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 472
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad68ac2683ec0b0a0800000000000000
+      internalID: -6867762690169076006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_152
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 472
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518e107c307a3fa60800000000000000
+      internalID: 7706687022026582037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_153
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 482
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958f8c792df12ab00800000000000000
+      internalID: 838267469994457177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_154
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 272
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61845dbda903c490800000000000000
+      internalID: -7727321893827214997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_155
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a92a33e6fa6280c0800000000000000
+      internalID: -4574976662848263769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_156
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 471
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0fb06b2e8ad600800000000000000
+      internalID: 493863426108362588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_157
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 481
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c8088ca00fecdf0800000000000000
+      internalID: -157925007807181811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_158
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 277
+        width: 109
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e940b67ac548a00800000000000000
+      internalID: 757832511429844481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_159
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 471
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dcc7dc2c263e930800000000000000
+      internalID: 4171286268685896998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_160
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 482
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd33af2e4074050800000000000000
+      internalID: 5784597619287514377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_161
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 237
+        width: 212
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868354b7daa5ed080800000000000000
+      internalID: -9160784890881034136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_162
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 224
+        width: 210
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191641ad2607ae840800000000000000
+      internalID: 5254135485148979601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_163
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df6b8a85d83cff0800000000000000
+      internalID: -17014561652146941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_164
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 472
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd5a08af46cd2e0800000000000000
+      internalID: -2099692299198538247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_165
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 272
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25827f4f41470ec30800000000000000
+      internalID: 4386633670416869458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_166
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 472
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d5de28050aafe0800000000000000
+      internalID: -1177122819900319635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_167
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 471
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d6e93d7071d6410800000000000000
+      internalID: 1471857975602605460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_168
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 481
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db779fe9fea5885c0800000000000000
+      internalID: -4213017466194266179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_169
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 271
+        width: 110
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f82e18093e5fca60800000000000000
+      internalID: 7696473887241808112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_170
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 291
+        width: 125
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35db5014d3efe3ab0800000000000000
+      internalID: -5026300595061539501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_171
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 299
+        width: 121
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e69baea611e7080800000000000000
+      internalID: -9187887038887006660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_172
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 279
+        width: 103
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93335f9f92405f30800000000000000
+      internalID: 4562219675866575773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 417
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf39e35590cdff9e0800000000000000
+      internalID: -1585306611168144388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_174
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 289
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dcbdf938d4ba160800000000000000
+      internalID: 7037804070414568816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_175
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 419
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16f24c7a1b43e60800000000000000
+      internalID: 7941167377070121391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_176
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 420
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b300d773ad377ea70800000000000000
+      internalID: 8856174573318373435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_177
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 268
+        width: 121
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12dccc5faf74ec0800000000000000
+      internalID: -3582619044940013088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_178
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 234
+        width: 102
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68dfe417eb95b1a0800000000000000
+      internalID: -6794353046027511702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_179
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 420
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7f89a3efe46950800000000000000
+      internalID: 6441537128128019782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_180
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 268
+        width: 228
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4358bccf718dfe9f0800000000000000
+      internalID: -436893041294605004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_181
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d63107787cf8470800000000000000
+      internalID: 8399151214584098069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_182
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 386
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb23ea8b5845c40800000000000000
+      internalID: 5500168073169255368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_183
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 385
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7087d3b42f997c90800000000000000
+      internalID: -7171525951625920389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_184
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d50cfcca761600800000000000000
+      internalID: 438673034535360808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_185
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 214
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb72468aa9888b340800000000000000
+      internalID: 4879800394087409599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_186
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 203
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c978600a29361380800000000000000
+      internalID: -9000943952695100988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_187
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 214
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d497fdd86f19e280800000000000000
+      internalID: -9013638643944287018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_188
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11
+        width: 265
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e040bbdcb115e340800000000000000
+      internalID: 4892336073045197026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_189
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 203
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd8481441f3f0950800000000000000
+      internalID: 6417417350257348050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_190
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 11
+        width: 262
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3fe9ddb5b015e0800000000000000
+      internalID: -1940851612386902678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_191
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 204
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894016c014aa09cf0800000000000000
+      internalID: -247510783148096360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_192
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 204
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba71d4faff56570800000000000000
+      internalID: 8459448603463101224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_193
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01084b8ab3fc88960800000000000000
+      internalID: 7604555825955504144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_194
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85bef2c19b2df450800000000000000
+      internalID: 6124098973335467402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 3 Side_195
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 214
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb5f8fb063516b0800000000000000
+      internalID: -5326291559246348691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

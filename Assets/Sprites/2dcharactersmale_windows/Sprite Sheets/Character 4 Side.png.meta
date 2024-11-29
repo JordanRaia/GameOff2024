@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: 1ede394ea88a5d74ea94435b2da9fc37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3418675411445372811
+    second: Character 4 Side_0
+  - first:
+      213: 1954436618225266685
+    second: Character 4 Side_1
+  - first:
+      213: 2966587831611874052
+    second: Character 4 Side_2
+  - first:
+      213: -5402774196739624208
+    second: Character 4 Side_3
+  - first:
+      213: 1680314581745638273
+    second: Character 4 Side_4
+  - first:
+      213: 9156845991011446484
+    second: Character 4 Side_5
+  - first:
+      213: -3440929362546232940
+    second: Character 4 Side_6
+  - first:
+      213: -86925887200798389
+    second: Character 4 Side_7
+  - first:
+      213: 6886490493663839430
+    second: Character 4 Side_8
+  - first:
+      213: -3234559319834693756
+    second: Character 4 Side_9
+  - first:
+      213: -4822755893998078768
+    second: Character 4 Side_10
+  - first:
+      213: -2423691839117670971
+    second: Character 4 Side_11
+  - first:
+      213: -5605137644138189774
+    second: Character 4 Side_12
+  - first:
+      213: -5916543033585581594
+    second: Character 4 Side_13
+  - first:
+      213: 3865216435597676762
+    second: Character 4 Side_14
+  - first:
+      213: -7008305322437019837
+    second: Character 4 Side_15
+  - first:
+      213: -8452398091063432161
+    second: Character 4 Side_16
+  - first:
+      213: 371734961068552902
+    second: Character 4 Side_17
+  - first:
+      213: 698782581138069627
+    second: Character 4 Side_18
+  - first:
+      213: 1781765604542618393
+    second: Character 4 Side_19
+  - first:
+      213: 9177333573185623168
+    second: Character 4 Side_20
+  - first:
+      213: 956645991679966263
+    second: Character 4 Side_21
+  - first:
+      213: -892597970726257192
+    second: Character 4 Side_22
+  - first:
+      213: -4858859023939726399
+    second: Character 4 Side_23
+  - first:
+      213: -3216849906297509936
+    second: Character 4 Side_24
+  - first:
+      213: 2388147181352937361
+    second: Character 4 Side_25
+  - first:
+      213: -3049195817370902873
+    second: Character 4 Side_26
+  - first:
+      213: -3653614252088288240
+    second: Character 4 Side_27
+  - first:
+      213: -4953063761298388908
+    second: Character 4 Side_28
+  - first:
+      213: -2482980773173675526
+    second: Character 4 Side_29
+  - first:
+      213: -2171062111072521119
+    second: Character 4 Side_30
+  - first:
+      213: 410752851050742779
+    second: Character 4 Side_31
+  - first:
+      213: 7159405177174058145
+    second: Character 4 Side_32
+  - first:
+      213: 7439027136847331612
+    second: Character 4 Side_33
+  - first:
+      213: -6030615463045528593
+    second: Character 4 Side_34
+  - first:
+      213: 6559223349010246665
+    second: Character 4 Side_35
+  - first:
+      213: 3615175345188647950
+    second: Character 4 Side_36
+  - first:
+      213: 6417777682212511993
+    second: Character 4 Side_37
+  - first:
+      213: 1995219354488783238
+    second: Character 4 Side_38
+  - first:
+      213: -5391235801802252303
+    second: Character 4 Side_39
+  - first:
+      213: -9097476977661742111
+    second: Character 4 Side_40
+  - first:
+      213: 9013742025618323145
+    second: Character 4 Side_41
+  - first:
+      213: -4461022049509726000
+    second: Character 4 Side_42
+  - first:
+      213: -6007046166886838745
+    second: Character 4 Side_43
+  - first:
+      213: -4751842981956494456
+    second: Character 4 Side_44
+  - first:
+      213: -4552909542641924605
+    second: Character 4 Side_45
+  - first:
+      213: -2130158216670891047
+    second: Character 4 Side_46
+  - first:
+      213: -8704349792433149423
+    second: Character 4 Side_47
+  - first:
+      213: 3998274657960555831
+    second: Character 4 Side_48
+  - first:
+      213: 2645984270810813291
+    second: Character 4 Side_49
+  - first:
+      213: -1261156892350363605
+    second: Character 4 Side_50
+  - first:
+      213: 507511691355757492
+    second: Character 4 Side_51
+  - first:
+      213: -8678144341797072154
+    second: Character 4 Side_52
+  - first:
+      213: -4909273472168468546
+    second: Character 4 Side_53
+  - first:
+      213: -198627978566262317
+    second: Character 4 Side_54
+  - first:
+      213: -942025515909728992
+    second: Character 4 Side_55
+  - first:
+      213: 7708083635855818885
+    second: Character 4 Side_56
+  - first:
+      213: -6226328082733632772
+    second: Character 4 Side_57
+  - first:
+      213: -7944850668560610133
+    second: Character 4 Side_58
+  - first:
+      213: 6352819274108915694
+    second: Character 4 Side_59
+  - first:
+      213: 8362851200695147920
+    second: Character 4 Side_60
+  - first:
+      213: 2865223545090921771
+    second: Character 4 Side_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 4 Side_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1883
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578af6283dc6e80d0800000000000000
+      internalID: -3418675411445372811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1883
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff255dcfbd8f1b10800000000000000
+      internalID: 1954436618225266685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1883
+        width: 58
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bd83a4aef6b2920800000000000000
+      internalID: 2966587831611874052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1883
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f230b14e7d7505b0800000000000000
+      internalID: -5402774196739624208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1883
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b9bdb953da15710800000000000000
+      internalID: 1680314581745638273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1883
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de623de9e6a31f70800000000000000
+      internalID: 9156845991011446484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_6
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1883
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4917830c9fc5f30d0800000000000000
+      internalID: -3440929362546232940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_7
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1883
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495c9bbd5d2bcef0800000000000000
+      internalID: -86925887200798389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1628
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c400f72e9ab19f50800000000000000
+      internalID: 6886490493663839430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1627
+        width: 57
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe250af698c13d0800000000000000
+      internalID: -3234559319834693756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1627
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b2d30111221db0800000000000000
+      internalID: -4822755893998078768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1627
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5c0641d115d5ed0800000000000000
+      internalID: -2423691839117670971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_12
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1626
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c29fb820d8632b0800000000000000
+      internalID: -5605137644138189774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1627
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c1d8457734eda0800000000000000
+      internalID: -5916543033585581594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1626
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad01dcf8ed104a530800000000000000
+      internalID: 3865216435597676762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_15
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1626
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34779aad07f7dbe90800000000000000
+      internalID: -7008305322437019837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1375
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c69f908bc03ba80800000000000000
+      internalID: -8452398091063432161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1388
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b5114afaa82500800000000000000
+      internalID: 371734961068552902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1399
+        width: 113
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7817f32e0392b900800000000000000
+      internalID: 698782581138069627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1371
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b95cb806a1ab810800000000000000
+      internalID: 1781765604542618393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_20
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1365
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084defed2407c5f70800000000000000
+      internalID: 9177333573185623168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_21
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1363
+        width: 111
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb2edf570b64d00800000000000000
+      internalID: 956645991679966263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_22
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1371
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd70a3ffdadc93f0800000000000000
+      internalID: -892597970726257192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_23
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1380
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31f58067dd19cb0800000000000000
+      internalID: -4858859023939726399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1124
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d76367cd047b53d0800000000000000
+      internalID: -3216849906297509936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1118
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19764ef5537642120800000000000000
+      internalID: 2388147181352937361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae10073f841fa5d0800000000000000
+      internalID: -3049195817370902873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_27
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1115
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c19f50231cb4dc0800000000000000
+      internalID: -3653614252088288240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_28
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1115
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45803f560ce234bb0800000000000000
+      internalID: -4953063761298388908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_29
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1115
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bbd6642eaa8dd0800000000000000
+      internalID: -2482980773173675526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_30
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1115
+        width: 52
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16476344386ded1e0800000000000000
+      internalID: -2171062111072521119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_31
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1115
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3cb51ba8943b500800000000000000
+      internalID: 410752851050742779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_32
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1115
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a46d8493115b5360800000000000000
+      internalID: 7159405177174058145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 859
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11c64e64cbbc3760800000000000000
+      internalID: 7439027136847331612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 859
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3813c1033fe4ca0800000000000000
+      internalID: -6030615463045528593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_35
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 859
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c243832ea070b50800000000000000
+      internalID: 6559223349010246665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_36
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 859
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0438ba82deab2230800000000000000
+      internalID: 3615175345188647950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_37
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 859
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e4b39cc6801950800000000000000
+      internalID: 6417777682212511993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_38
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 859
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c9498e6170bb10800000000000000
+      internalID: 1995219354488783238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_39
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 859
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff553d2a9b7e25b0800000000000000
+      internalID: -5391235801802252303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_40
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 873
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37d2aa3e44fb180800000000000000
+      internalID: -9097476977661742111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 618
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c67dfd8d9e371d70800000000000000
+      internalID: 9013742025618323145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 614
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a9cbd4144712c0800000000000000
+      internalID: -4461022049509726000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_43
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 608
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e8651865fa2aca0800000000000000
+      internalID: -6007046166886838745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_44
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 606
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdc08fbff0e0eb0800000000000000
+      internalID: -4751842981956494456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_45
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 611
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3068750b4e0d0d0c0800000000000000
+      internalID: -4552909542641924605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_46
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 618
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3b3f353682072e0800000000000000
+      internalID: -2130158216670891047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_47
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 618
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae64d3bffe33780800000000000000
+      internalID: -8704349792433149423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_48
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 609
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7357f2e1e99bc7730800000000000000
+      internalID: 3998274657960555831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 356
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6313fedcac68b420800000000000000
+      internalID: 2645984270810813291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 347
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cb610d787f7ee0800000000000000
+      internalID: -1261156892350363605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_51
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 348
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1e92c13b0b0700800000000000000
+      internalID: 507511691355757492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 347
+        width: 56
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e29e9d23b9019780800000000000000
+      internalID: -8678144341797072154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_53
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 324
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf562a99c1cedbb0800000000000000
+      internalID: -4909273472168468546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_54
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 312
+        width: 109
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1aa17e7e45e3df0800000000000000
+      internalID: -198627978566262317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_55
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 317
+        width: 55
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025b8dac8c04de2f0800000000000000
+      internalID: -942025515909728992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_56
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 347
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58000364a3d98fa60800000000000000
+      internalID: 7708083635855818885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27f95e893a799a0800000000000000
+      internalID: -6226328082733632772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 91
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac8bea19683eb190800000000000000
+      internalID: -7944850668560610133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_59
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 91
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef448b987fb92850800000000000000
+      internalID: 6352819274108915694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_60
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 91
+        width: 135
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d12e6dbd0de0470800000000000000
+      internalID: 8362851200695147920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 4 Side_61
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 90
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25da3732a153c720800000000000000
+      internalID: 2865223545090921771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

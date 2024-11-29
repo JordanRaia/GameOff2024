@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: 8792b211e213dbe4883661bdfbd33742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5855629808947849605
+    second: Character 10 Down_0
+  - first:
+      213: 4769033485346061836
+    second: Character 10 Down_1
+  - first:
+      213: 8387849490711767735
+    second: Character 10 Down_2
+  - first:
+      213: 1049464210308118556
+    second: Character 10 Down_3
+  - first:
+      213: -5771187121523312406
+    second: Character 10 Down_4
+  - first:
+      213: -3500588538583323399
+    second: Character 10 Down_5
+  - first:
+      213: -781612182405553731
+    second: Character 10 Down_6
+  - first:
+      213: -7779286524552172042
+    second: Character 10 Down_7
+  - first:
+      213: -7932470134166358021
+    second: Character 10 Down_8
+  - first:
+      213: 6403901070832035219
+    second: Character 10 Down_9
+  - first:
+      213: -7268480360279580987
+    second: Character 10 Down_10
+  - first:
+      213: -7028383874116580681
+    second: Character 10 Down_11
+  - first:
+      213: 3588154393693882055
+    second: Character 10 Down_12
+  - first:
+      213: -5460202566314141209
+    second: Character 10 Down_13
+  - first:
+      213: -256090457500109650
+    second: Character 10 Down_14
+  - first:
+      213: -3856566855228227383
+    second: Character 10 Down_15
+  - first:
+      213: 8598237783954672690
+    second: Character 10 Down_16
+  - first:
+      213: -8245611259128673200
+    second: Character 10 Down_17
+  - first:
+      213: -370611445653880972
+    second: Character 10 Down_18
+  - first:
+      213: 3364504693496452802
+    second: Character 10 Down_19
+  - first:
+      213: -2919126847055422985
+    second: Character 10 Down_20
+  - first:
+      213: 6424402746367393213
+    second: Character 10 Down_21
+  - first:
+      213: 3037606405748209656
+    second: Character 10 Down_22
+  - first:
+      213: 5307993774283278389
+    second: Character 10 Down_23
+  - first:
+      213: -7884421045832394011
+    second: Character 10 Down_24
+  - first:
+      213: 6618753006034500117
+    second: Character 10 Down_25
+  - first:
+      213: 2497977605530758244
+    second: Character 10 Down_26
+  - first:
+      213: 4295452641837207994
+    second: Character 10 Down_27
+  - first:
+      213: -1585219925967122733
+    second: Character 10 Down_28
+  - first:
+      213: -2981027453963963969
+    second: Character 10 Down_29
+  - first:
+      213: 7288924499061686695
+    second: Character 10 Down_30
+  - first:
+      213: 5274395441180409575
+    second: Character 10 Down_31
+  - first:
+      213: 7269142436774790866
+    second: Character 10 Down_32
+  - first:
+      213: -5934332842361356884
+    second: Character 10 Down_33
+  - first:
+      213: -7857861511059900919
+    second: Character 10 Down_34
+  - first:
+      213: -5360116999495388833
+    second: Character 10 Down_35
+  - first:
+      213: 1738324609279418741
+    second: Character 10 Down_36
+  - first:
+      213: 5399110788882645674
+    second: Character 10 Down_37
+  - first:
+      213: 3150730331842876854
+    second: Character 10 Down_38
+  - first:
+      213: -4501749364898354338
+    second: Character 10 Down_39
+  - first:
+      213: 2129561271284387990
+    second: Character 10 Down_40
+  - first:
+      213: 5205705076373006572
+    second: Character 10 Down_41
+  - first:
+      213: 7591541133757566910
+    second: Character 10 Down_42
+  - first:
+      213: 4646042346717946070
+    second: Character 10 Down_43
+  - first:
+      213: -3719632462661979194
+    second: Character 10 Down_44
+  - first:
+      213: -2954257399434702914
+    second: Character 10 Down_45
+  - first:
+      213: -584138096045669354
+    second: Character 10 Down_46
+  - first:
+      213: 907030250686394943
+    second: Character 10 Down_47
+  - first:
+      213: 3406896330758778601
+    second: Character 10 Down_48
+  - first:
+      213: -5982549406159989720
+    second: Character 10 Down_49
+  - first:
+      213: 3985451486282173278
+    second: Character 10 Down_50
+  - first:
+      213: -9137482653024176889
+    second: Character 10 Down_51
+  - first:
+      213: 1006006004148307567
+    second: Character 10 Down_52
+  - first:
+      213: 1109155750393621558
+    second: Character 10 Down_53
+  - first:
+      213: -142201779983512215
+    second: Character 10 Down_54
+  - first:
+      213: 8759137386751846236
+    second: Character 10 Down_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 10 Down_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 753
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589668a6940634150800000000000000
+      internalID: 5855629808947849605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 756
+        width: 127
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebeffffa20f2240800000000000000
+      internalID: 4769033485346061836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 758
+        width: 120
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bae05bcba0a76470800000000000000
+      internalID: 8387849490711767735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 759
+        width: 114
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b6e39322709e00800000000000000
+      internalID: 1049464210308118556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 759
+        width: 160
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae83b49d3ef98efa0800000000000000
+      internalID: -5771187121523312406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 759
+        width: 130
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcefe465496b6fc0800000000000000
+      internalID: -3500588538583323399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 754
+        width: 113
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1699b7cd72725f0800000000000000
+      internalID: -781612182405553731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_7
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 753
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda5125f1c6a0490800000000000000
+      internalID: -7779286524552172042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_8
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 750
+        width: 155
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77e95e0743ae190800000000000000
+      internalID: -7932470134166358021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_9
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 745
+        width: 152
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395efa7381a3fd850800000000000000
+      internalID: 6403901070832035219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_10
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 745
+        width: 101
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ced1a45f9b212b90800000000000000
+      internalID: -7268480360279580987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 747
+        width: 98
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba823eba1a267e90800000000000000
+      internalID: -7028383874116580681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_12
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 751
+        width: 108
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68163096fabc130800000000000000
+      internalID: 3588154393693882055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_13
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 753
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95b2102b67934b0800000000000000
+      internalID: -5460202566314141209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_14
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 761
+        width: 122
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b652f51f227cf0800000000000000
+      internalID: -256090457500109650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 568
+        width: 135
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0839dc0e8ba7ac0800000000000000
+      internalID: -3856566855228227383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 550
+        width: 119
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cc5f685b3135770800000000000000
+      internalID: 8598237783954672690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 540
+        width: 123
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8ca73f34b19d80800000000000000
+      internalID: -8245611259128673200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 579
+        width: 199
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f3b109ad25bdaf0800000000000000
+      internalID: -370611445653880972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_19
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 635
+        width: 199
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69dfc513f11be20800000000000000
+      internalID: 3364504693496452802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 641
+        width: 206
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f994fa499d2d77d0800000000000000
+      internalID: -2919126847055422985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_21
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 639
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb5478240182950800000000000000
+      internalID: 6424402746367393213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_22
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 546
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b21e9eeeb72a20800000000000000
+      internalID: 3037606405748209656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_23
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 558
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c32af638c9a940800000000000000
+      internalID: 5307993774283278389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_24
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 559
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eadb8f05d8e49290800000000000000
+      internalID: -7884421045832394011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_25
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 552
+        width: 123
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a3cb49ac88adb50800000000000000
+      internalID: 6618753006034500117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_26
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 546
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46caa8ab5699aa220800000000000000
+      internalID: 2497977605530758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_27
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 546
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab158326b638c9b30800000000000000
+      internalID: 4295452641837207994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 116
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3decbdd40ea200ae0800000000000000
+      internalID: -1585219925967122733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 339
+        width: 116
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb17ac4235341a6d0800000000000000
+      internalID: -2981027453963963969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 338
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c639a636772560800000000000000
+      internalID: 7288924499061686695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 337
+        width: 116
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee7f7475ba623940800000000000000
+      internalID: 5274395441180409575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 338
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6cdad588e21e460800000000000000
+      internalID: 7269142436774790866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_33
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 340
+        width: 116
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadfd18a8b305ada0800000000000000
+      internalID: -5934332842361356884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 311
+        width: 108
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067f03a69443f290800000000000000
+      internalID: -7857861511059900919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_35
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 316
+        width: 110
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517b82fcf90d95b0800000000000000
+      internalID: -5360116999495388833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_36
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 329
+        width: 108
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5716b68a505cf1810800000000000000
+      internalID: 1738324609279418741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_37
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 344
+        width: 107
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2445228ae7dea40800000000000000
+      internalID: 5399110788882645674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_38
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 333
+        width: 107
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51b842b84a9bb20800000000000000
+      internalID: 3150730331842876854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_39
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 312
+        width: 109
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba46dcdc29681c0800000000000000
+      internalID: -4501749364898354338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_40
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 316
+        width: 109
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d55e71b8bd8d10800000000000000
+      internalID: 2129561271284387990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_41
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 325
+        width: 108
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce829aa9f216e3840800000000000000
+      internalID: 5205705076373006572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_42
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 340
+        width: 109
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc26f70729a5960800000000000000
+      internalID: 7591541133757566910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_43
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 334
+        width: 109
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0ab8706ee0a7040800000000000000
+      internalID: 4646042346717946070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c375009bf5316cc0800000000000000
+      internalID: -3719632462661979194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 109
+        width: 125
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf00ab2c8e5007d0800000000000000
+      internalID: -2954257399434702914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 104
+        width: 133
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614cc6d1f79b4e7f0800000000000000
+      internalID: -584138096045669354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 22
+        width: 234
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3232b4153b669c00800000000000000
+      internalID: 907030250686394943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_48
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 23
+        width: 215
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee657d892ab74f20800000000000000
+      internalID: 3406896330758778601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_49
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 110
+        width: 193
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241c921307b9fca0800000000000000
+      internalID: -5982549406159989720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_50
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 112
+        width: 117
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc66dc20b2f4730800000000000000
+      internalID: 3985451486282173278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_51
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 61
+        width: 142
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705333580f3213180800000000000000
+      internalID: -9137482653024176889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_52
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 64
+        width: 139
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f668b27712d06fd00800000000000000
+      internalID: 1006006004148307567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_53
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 4
+        width: 140
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2bc64743846f00800000000000000
+      internalID: 1109155750393621558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_54
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 6
+        width: 142
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d87a90c3cc60ef0800000000000000
+      internalID: -142201779983512215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 10 Down_55
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 30
+        width: 139
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ef2c9b05be8970800000000000000
+      internalID: 8759137386751846236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

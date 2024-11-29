@@ -1,0 +1,460 @@
+{"frames": [
+
+{
+	"filename": "Down Bow Character 8 01",
+	"frame": {"x":4,"y":4,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 02",
+	"frame": {"x":135,"y":4,"w":154,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":120,"w":154,"h":202},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 03",
+	"frame": {"x":293,"y":4,"w":142,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":122,"w":142,"h":200},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 04",
+	"frame": {"x":439,"y":4,"w":135,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":123,"w":135,"h":199},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 05",
+	"frame": {"x":578,"y":4,"w":189,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":123,"w":189,"h":199},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 06",
+	"frame": {"x":771,"y":4,"w":144,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":188,"y":123,"w":144,"h":199},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Bow Character 8 07",
+	"frame": {"x":919,"y":4,"w":125,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":118,"w":125,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 01",
+	"frame": {"x":1048,"y":4,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 02",
+	"frame": {"x":1179,"y":4,"w":144,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":111,"w":144,"h":210},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 03",
+	"frame": {"x":1327,"y":4,"w":140,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":117,"w":140,"h":216},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 04",
+	"frame": {"x":1471,"y":4,"w":125,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":126,"w":125,"h":214},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 05",
+	"frame": {"x":4,"y":224,"w":126,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":131,"w":126,"h":209},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Cast Character 8 06",
+	"frame": {"x":134,"y":224,"w":125,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":124,"w":125,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 01",
+	"frame": {"x":263,"y":224,"w":128,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":118,"w":128,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 02",
+	"frame": {"x":395,"y":224,"w":146,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":134,"w":146,"h":190},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 03",
+	"frame": {"x":545,"y":224,"w":163,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":147,"w":163,"h":177},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 04",
+	"frame": {"x":712,"y":224,"w":141,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":116,"w":141,"h":194},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 05",
+	"frame": {"x":857,"y":224,"w":124,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":209,"y":87,"w":124,"h":215},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 06",
+	"frame": {"x":985,"y":224,"w":205,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":188,"y":108,"w":205,"h":196},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 07",
+	"frame": {"x":1194,"y":224,"w":202,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":191,"y":187,"w":202,"h":133},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 08",
+	"frame": {"x":1400,"y":224,"w":218,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":218,"w":218,"h":121},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Die Character 8 09",
+	"frame": {"x":4,"y":443,"w":213,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":219,"w":213,"h":122},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Hurt Character 8 01",
+	"frame": {"x":221,"y":443,"w":128,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":118,"w":128,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Hurt Character 8 02",
+	"frame": {"x":353,"y":443,"w":137,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":119,"w":137,"h":191},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Hurt Character 8 03",
+	"frame": {"x":494,"y":443,"w":139,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":118,"w":139,"h":189},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Hurt Character 8 04",
+	"frame": {"x":637,"y":443,"w":133,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":118,"w":133,"h":197},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Hurt Character 8 05",
+	"frame": {"x":774,"y":443,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 01",
+	"frame": {"x":905,"y":443,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 02",
+	"frame": {"x":1036,"y":443,"w":127,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":117,"w":127,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 03",
+	"frame": {"x":1167,"y":443,"w":127,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":116,"w":127,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 04",
+	"frame": {"x":1298,"y":443,"w":126,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":115,"w":126,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 05",
+	"frame": {"x":1428,"y":443,"w":126,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":115,"w":126,"h":208},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 06",
+	"frame": {"x":1558,"y":443,"w":126,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":115,"w":126,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Idle Character 8 07",
+	"frame": {"x":4,"y":655,"w":127,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":117,"w":127,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 01",
+	"frame": {"x":135,"y":655,"w":124,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":107,"w":124,"h":234},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 02",
+	"frame": {"x":263,"y":655,"w":125,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":110,"w":125,"h":229},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 03",
+	"frame": {"x":392,"y":655,"w":125,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":116,"w":125,"h":217},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 04",
+	"frame": {"x":521,"y":655,"w":126,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":121,"w":126,"h":202},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 05",
+	"frame": {"x":651,"y":655,"w":126,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":116,"w":126,"h":212},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 06",
+	"frame": {"x":781,"y":655,"w":129,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":108,"w":129,"h":233},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 07",
+	"frame": {"x":914,"y":655,"w":131,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":111,"w":131,"h":229},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 08",
+	"frame": {"x":1049,"y":655,"w":130,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":117,"w":130,"h":220},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 09",
+	"frame": {"x":1183,"y":655,"w":126,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":122,"w":126,"h":205},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Run Character 8 10",
+	"frame": {"x":1313,"y":655,"w":126,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":116,"w":126,"h":211},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 01",
+	"frame": {"x":1443,"y":655,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 02",
+	"frame": {"x":1574,"y":655,"w":145,"h":206},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":115,"w":145,"h":206},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 03",
+	"frame": {"x":4,"y":893,"w":149,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":122,"w":149,"h":211},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 04",
+	"frame": {"x":157,"y":893,"w":234,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":128,"w":234,"h":294},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 05",
+	"frame": {"x":395,"y":893,"w":215,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":130,"w":215,"h":293},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Swing Character 8 06",
+	"frame": {"x":614,"y":893,"w":191,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":124,"w":191,"h":207},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 01",
+	"frame": {"x":809,"y":893,"w":127,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":127,"h":204},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 02",
+	"frame": {"x":940,"y":893,"w":138,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":111,"w":138,"h":258},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 03",
+	"frame": {"x":1082,"y":893,"w":135,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":135,"h":255},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 04",
+	"frame": {"x":1221,"y":893,"w":150,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":129,"w":150,"h":312},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 05",
+	"frame": {"x":1375,"y":893,"w":156,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":132,"w":156,"h":309},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "Down Thrust Character 8 06",
+	"frame": {"x":1535,"y":893,"w":146,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":126,"w":146,"h":285},
+	"sourceSize": {"w":512,"h":512}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Character 8 Down.png",
+	"format": "RGBA8888",
+	"size": {"w":1723,"h":1209},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a276319b9de27222e2dc11a52f95f003:7de8bf6e4c1008a7ff561f4180b3e986:b2821a5f63fac958c69cd8312ca31966$"
+}
+}

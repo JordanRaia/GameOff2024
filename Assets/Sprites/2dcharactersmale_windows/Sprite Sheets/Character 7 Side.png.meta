@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 70dc9aa28a546df4d9c269739cf2037c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9020182962099557582
+    second: Character 7 Side_0
+  - first:
+      213: -552977606590157040
+    second: Character 7 Side_1
+  - first:
+      213: 7963297391557979349
+    second: Character 7 Side_2
+  - first:
+      213: 7352318461783368918
+    second: Character 7 Side_3
+  - first:
+      213: 4406654781041035655
+    second: Character 7 Side_4
+  - first:
+      213: -1377610364312347603
+    second: Character 7 Side_5
+  - first:
+      213: -5198411654782929038
+    second: Character 7 Side_6
+  - first:
+      213: -3097020959167433949
+    second: Character 7 Side_7
+  - first:
+      213: -1468706234769863804
+    second: Character 7 Side_8
+  - first:
+      213: 2796946431241436082
+    second: Character 7 Side_9
+  - first:
+      213: 2859898163478463782
+    second: Character 7 Side_10
+  - first:
+      213: -8514484517283136186
+    second: Character 7 Side_11
+  - first:
+      213: -812543288436009966
+    second: Character 7 Side_12
+  - first:
+      213: -1588722032306243496
+    second: Character 7 Side_13
+  - first:
+      213: 3025798328851850152
+    second: Character 7 Side_14
+  - first:
+      213: 4730862561388353029
+    second: Character 7 Side_15
+  - first:
+      213: 419794450184836916
+    second: Character 7 Side_16
+  - first:
+      213: -791145793700285322
+    second: Character 7 Side_17
+  - first:
+      213: 1743968490392883414
+    second: Character 7 Side_18
+  - first:
+      213: 506790409731444630
+    second: Character 7 Side_19
+  - first:
+      213: 8736228164157067936
+    second: Character 7 Side_20
+  - first:
+      213: 1928057485315822766
+    second: Character 7 Side_21
+  - first:
+      213: 4474379023235973522
+    second: Character 7 Side_22
+  - first:
+      213: 7606067562258993013
+    second: Character 7 Side_23
+  - first:
+      213: 2019190896717650387
+    second: Character 7 Side_24
+  - first:
+      213: 6555376562557484236
+    second: Character 7 Side_25
+  - first:
+      213: -7075983456141384177
+    second: Character 7 Side_26
+  - first:
+      213: 4968599112531953077
+    second: Character 7 Side_27
+  - first:
+      213: -6292881869169963741
+    second: Character 7 Side_28
+  - first:
+      213: 3879824993828241001
+    second: Character 7 Side_29
+  - first:
+      213: -5633877650121374649
+    second: Character 7 Side_30
+  - first:
+      213: -1281030042012291360
+    second: Character 7 Side_31
+  - first:
+      213: 4046370953489251481
+    second: Character 7 Side_32
+  - first:
+      213: 7821768076401897112
+    second: Character 7 Side_33
+  - first:
+      213: 1155492552877738519
+    second: Character 7 Side_34
+  - first:
+      213: 6660431524558442856
+    second: Character 7 Side_35
+  - first:
+      213: -5151140640593564435
+    second: Character 7 Side_36
+  - first:
+      213: 8127434143107745591
+    second: Character 7 Side_37
+  - first:
+      213: 6849541123243753490
+    second: Character 7 Side_38
+  - first:
+      213: 4488899499868822745
+    second: Character 7 Side_39
+  - first:
+      213: 5368802152936605936
+    second: Character 7 Side_40
+  - first:
+      213: 4139036875552296696
+    second: Character 7 Side_41
+  - first:
+      213: -315278412648041962
+    second: Character 7 Side_42
+  - first:
+      213: 6561025016083045391
+    second: Character 7 Side_43
+  - first:
+      213: 1585153678737357314
+    second: Character 7 Side_44
+  - first:
+      213: 8392704430970365887
+    second: Character 7 Side_45
+  - first:
+      213: 4633893047760718983
+    second: Character 7 Side_46
+  - first:
+      213: -2791302450248993540
+    second: Character 7 Side_47
+  - first:
+      213: -5970875427323197219
+    second: Character 7 Side_48
+  - first:
+      213: -7869107657054688528
+    second: Character 7 Side_49
+  - first:
+      213: 5388008610457247076
+    second: Character 7 Side_50
+  - first:
+      213: -4541578560201579660
+    second: Character 7 Side_51
+  - first:
+      213: -4537603203499285693
+    second: Character 7 Side_52
+  - first:
+      213: 7294536178245680585
+    second: Character 7 Side_53
+  - first:
+      213: 1891876434876921743
+    second: Character 7 Side_54
+  - first:
+      213: 4487644804259370755
+    second: Character 7 Side_55
+  - first:
+      213: -6970741375712763630
+    second: Character 7 Side_56
+  - first:
+      213: 7349699340096772587
+    second: Character 7 Side_57
+  - first:
+      213: -7469533796958357907
+    second: Character 7 Side_58
+  - first:
+      213: 818948485609938092
+    second: Character 7 Side_59
+  - first:
+      213: -4087605844973386800
+    second: Character 7 Side_60
+  - first:
+      213: -4051712541761179845
+    second: Character 7 Side_61
+  - first:
+      213: -4132405242604779928
+    second: Character 7 Side_62
+  - first:
+      213: -7922030211241836367
+    second: Character 7 Side_63
+  - first:
+      213: 6354982165763257614
+    second: Character 7 Side_64
+  - first:
+      213: -178790304052979144
+    second: Character 7 Side_65
+  - first:
+      213: -186059761708948377
+    second: Character 7 Side_66
+  - first:
+      213: 8787973262294883543
+    second: Character 7 Side_67
+  - first:
+      213: 2243280254186192721
+    second: Character 7 Side_68
+  - first:
+      213: 6006623205860170522
+    second: Character 7 Side_69
+  - first:
+      213: -704892490436053453
+    second: Character 7 Side_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character 7 Side_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1881
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b660f036fd1d280800000000000000
+      internalID: -9020182962099557582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1881
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa27eebcd6358f0800000000000000
+      internalID: -552977606590157040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1881
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcab9849c0538e60800000000000000
+      internalID: 7963297391557979349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1881
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4e42ecfaea80660800000000000000
+      internalID: 7352318461783368918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1881
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7894ab70d25972d30800000000000000
+      internalID: 4406654781041035655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1881
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c144c2caeb1ece0800000000000000
+      internalID: -1377610364312347603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1881
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b96074288bd7b0800000000000000
+      internalID: -5198411654782929038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_7
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1881
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b2eaa8db2505d0800000000000000
+      internalID: -3097020959167433949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1625
+        width: 56
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0425067b1e9be0800000000000000
+      internalID: -1468706234769863804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1625
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb31f9d5ffb0d620800000000000000
+      internalID: 2796946431241436082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1625
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6250def2a3660b720800000000000000
+      internalID: 2859898163478463782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1663
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d76c5717976d980800000000000000
+      internalID: -8514484517283136186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_12
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1625
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d4282f2449b4f0800000000000000
+      internalID: -812543288436009966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1624
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858bc81aab9b3f9e0800000000000000
+      internalID: -1588722032306243496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_14
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1665
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a36f297c8bcdf920800000000000000
+      internalID: 3025798328851850152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_15
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1625
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065fb43f6667a140800000000000000
+      internalID: 4730862561388353029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_16
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1624
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43792f904d863d500800000000000000
+      internalID: 419794450184836916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1624
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67433f0a7194505f0800000000000000
+      internalID: -791145793700285322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1371
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d097512a12d33810800000000000000
+      internalID: 1743968490392883414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1385
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f0e9b413b780700800000000000000
+      internalID: 506790409731444630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_20
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1399
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a258519a315d3970800000000000000
+      internalID: 8736228164157067936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1371
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea458ce4116d1ca10800000000000000
+      internalID: 1928057485315822766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1365
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291807ee300381e30800000000000000
+      internalID: 4474379023235973522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_23
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1365
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f8112362e2e8960800000000000000
+      internalID: 7606067562258993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_24
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9de842c6b950c10800000000000000
+      internalID: 2019190896717650387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_25
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1369
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf824704069fa50800000000000000
+      internalID: 6555376562557484236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_26
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1380
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06e62c698e0dcd90800000000000000
+      internalID: -7075983456141384177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1124
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5c9cd619204f440800000000000000
+      internalID: 4968599112531953077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1118
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dc0a6f7413ba8a0800000000000000
+      internalID: -6292881869169963741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e70d39648e7d530800000000000000
+      internalID: 3879824993828241001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_30
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1113
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c084702270d1b0800000000000000
+      internalID: -5633877650121374649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_31
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1113
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eee047c6fdd83ee0800000000000000
+      internalID: -1281030042012291360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_32
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1113
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c7f2091f8972830800000000000000
+      internalID: 4046370953489251481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_33
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eec6dbf908c8c60800000000000000
+      internalID: 7821768076401897112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_34
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1113
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a03e2da52290010800000000000000
+      internalID: 1155492552877738519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_35
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8619e10ee2b9e6c50800000000000000
+      internalID: 6660431524558442856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_36
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1113
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deca75911e87388b0800000000000000
+      internalID: -5151140640593564435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_37
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1112
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737815bca427ac070800000000000000
+      internalID: 8127434143107745591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_38
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210cf557c557e0f50800000000000000
+      internalID: 6849541123243753490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 857
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc1c1adf46cb4e30800000000000000
+      internalID: 4488899499868822745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_40
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 857
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8832bec11d18a40800000000000000
+      internalID: 5368802152936605936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 931
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe8987db10d07930800000000000000
+      internalID: 4139036875552296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 857
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612b3c044f7ef9bf0800000000000000
+      internalID: -315278412648041962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 857
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cd4168d717d0b50800000000000000
+      internalID: 6561025016083045391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_44
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 857
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a3b8f4fd89ff510800000000000000
+      internalID: 1585153678737357314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_45
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 857
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7e5d8a630e87470800000000000000
+      internalID: 8392704430970365887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_46
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 857
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0eeeec25ee4040800000000000000
+      internalID: 4633893047760718983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_47
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 931
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43b30e53d4349d0800000000000000
+      internalID: -2791302450248993540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_48
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 874
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ca441f60332da0800000000000000
+      internalID: -5970875427323197219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 618
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae2f937405bc290800000000000000
+      internalID: -7869107657054688528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 614
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddc09c84d06ca40800000000000000
+      internalID: 5388008610457247076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_51
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 608
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a7af9c5219f0c0800000000000000
+      internalID: -4541578560201579660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 604
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34320cb7de13701c0800000000000000
+      internalID: -4537603203499285693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_53
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 606
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdb19981066b3560800000000000000
+      internalID: 7294536178245680585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_54
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 615
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8775cb089b414a10800000000000000
+      internalID: 1891876434876921743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_55
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 617
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d1044c21574e30800000000000000
+      internalID: 4487644804259370755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_56
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 604
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e58fb6a3f24f90800000000000000
+      internalID: -6970741375712763630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 356
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be914640c906ff560800000000000000
+      internalID: 7349699340096772587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 345
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b5824692e65890800000000000000
+      internalID: -7469533796958357907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_59
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 345
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacdf160f4d7d5b00800000000000000
+      internalID: 818948485609938092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_60
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 345
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30d8c1428e547c0800000000000000
+      internalID: -4087605844973386800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_61
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 324
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f645009ec65c7c0800000000000000
+      internalID: -4051712541761179845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_62
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 312
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8668496835fb6a6c0800000000000000
+      internalID: -4132405242604779928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_63
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 317
+        width: 55
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0840fde7b4f0290800000000000000
+      internalID: -7922030211241836367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_64
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 345
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05f2401c9e613850800000000000000
+      internalID: 6354982165763257614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a53ad6a2fc48df0800000000000000
+      internalID: -178790304052979144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_66
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764285ce1abfa6df0800000000000000
+      internalID: -186059761708948377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_67
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 89
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc97b21f1725f970800000000000000
+      internalID: 8787973262294883543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_68
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 127
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f7a6a718bb12f10800000000000000
+      internalID: 2243280254186192721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_69
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 89
+        width: 130
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd9e43bffcb5350800000000000000
+      internalID: 6006623205860170522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character 7 Side_70
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 88
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336f7beb308b736f0800000000000000
+      internalID: -704892490436053453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

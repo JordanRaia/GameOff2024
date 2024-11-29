@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a1062770b31252479be34edeb5bf613, type: 3}
+  m_Name: Esther 9
+  m_EditorClassIdentifier: 
+  dialogueText: "Esther: [nervously glancing around] Well\u2026 they say the library
+    has books that talk about\u2026 curses. People say those who read too much start
+    seeing things\u2026 hearing voices. The High Council doesn\u2019t let just anyone
+    in there. [sighs] I\u2019d go myself, but it\u2019s so\u2026 dark."
+  hasChoices: 0
+  choice1Text: 
+  choice2Text: 
+  nextDialogueChoice1: {fileID: 0}
+  nextDialogueChoice2: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: a82857052418a2e43a28d8a8c3880249, type: 2}
